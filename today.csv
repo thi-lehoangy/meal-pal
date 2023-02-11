@@ -1,730 +1,730 @@
-,itemName,mealTime
-0,Waffle Bar,0
-1,Vegan Coffee Cake,0
-2,Honey Nut Loaf,0
-3,Croissant,0
-4,Assorted Danishes ,0
-5,Apricot Quick Bread,0
-6,Assorted Donuts,0
-7,Blueberry Muffin,0
-8,Vanilla Soft Serve Ice Cream,0
-9,Chocolate Soft Serve Ice Cream,0
-10,Scrambled Eggs,0
-11,Pork Sausage Gravy,0
-12,Bacon,0
-13,Sausage Links,0
-14,Breakfast Potatoes,0
-15,Grits,0
-16,Biscuits,0
-17,Buttermilk Pancakes,0
-18,Pancake Syrup ,0
-19,Oatmeal,0
-20,Low Fat Cottage Cheese,0
-21,Strawberry Yogurt,0
-22,Vanilla Yogurt,0
-23,Applesauce,0
-24,Grapes,0
-25,Pineapple,0
-26,Honey Dew,0
-27,Cantaloupe,0
-28,Raisins,0
-29,Brown Sugar,0
-30,Schar Ciabatta Roll,0
-31,JP's Brownie,0
-32,JP's GF Hawaiian Rolls,0
-33,JP's GF Vegan Chocolate Cupcake,0
-34,JP's Gluten-Free Blueberry Muffins,0
-35,JP's Key Lime Cheesecake Bar,0
-36,Katz Powdered Donut Holes,0
-37,Katz Cinnamon Donut Hole,0
-38,Katz Glazed Donut Holes,0
-39,Katz Oatmeal Creme Pie,0
-40,Kinnikinnick Birthday Cream Sandwich Cookie,0
-41,Kinnikinnick Mint Magic Sandwich Creme Cookies,0
-42,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,0
-43,Kinnikinnick Chocolate Sandwich Creme Cookies,0
-44,Kinnikinnick Cinnamon Sugar Donuts,0
-45,Kinnikinnick Vanilla Glazed Donuts,0
-46,O'Doughs Original Bagel,0
-47,O'doughs Everything Bagel,0
-48,O'Doughs Pumpernickel Bagel,0
-49,O'Doughs Original Sandwich Slices,0
-50,O'Doughs Multigrain Sandwich Slices,0
-51,Ranch,0
-52,Ketchup,0
-53,BBQ Sauce,0
-54,Sriracha Sauce,0
-55,Texas Pete Hot Sauce,0
-56,Mayonnaise,0
-57,Yellow Mustard,0
-58,Vegetable Cream Cheese,0
-59,Margarine,0
-60,Oil and Vinegar,0
-61,Tabasco Hot Sauce,0
-62,Grape Jelly,0
-63,Strawberry Jelly,0
-64,Peanut Butter,0
-65,Plain Cream Cheese Spread,0
-66,Strawberry Cream Cheese,0
-67,Chives and Onion Cream Cheese,0
-68,Plain Bagel,0
-69,Everything Bagel,0
-70,Blueberry Bagel,0
-71,Cheese Bagel,0
-72,Multigrain Bagel,0
-73,Rye Bread Slice,0
-74,Multigrain Bread,0
-75,Wheat Bread Slice,0
-76,Kaiser Roll,0
-77,Hoagie Roll,0
-78,100% Cranberry Juice,0
-79,Seasonal Hot Cocoa,0
-80,Seasonal Apple Cider,0
-81,Maola Whole Milk,0
-82,Maola 2% Reduced Fat Milk,0
-83,Maola Skim Milk,0
-84,Maola 1% Chocolate Milk,0
-85,100% Apple Juice,0
-86,100% Orange Juice,0
-87,Strawberry Kiwi Juice,0
-88,Larry's Coffee,0
-89,Larry's Decaf Coffee,0
-90,Southern Unsweet Tea,0
-91,Southern Sweet Tea,0
-92,Chocolate Soymilk,0
-93,Vanilla Soymilk,0
-94,Dr. Pepper,0
-95,Diet Dr. Pepper,0
-96,Root Beer,0
-97,Sunkist Orange,0
-98,Sierra Mist,0
-99,Tropicana Lemonade,0
-100,Tropicana Fruit Punch,0
-101,Mountain Dew,0
-102,Diet Mountain Dew,0
-103,SoBe Lifewater Pomegranate,0
-104,Brisk Green Tea Peach,0
-105,Cheerwine,0
-106,Diet Pepsi,0
-107,Pepsi,0
-108,Gatorade Fruit Punch,0
-109,Gatorade Orange,0
-110,Waffle Bar,1
-111,Vegan Coffee Cake,1
-112,Honey Nut Loaf,1
-113,Croissant,1
-114,Assorted Danishes ,1
-115,Apricot Quick Bread,1
-116,Assorted Donuts,1
-117,Blueberry Muffin,1
-118,Vanilla Soft Serve Ice Cream,1
-119,Chocolate Soft Serve Ice Cream,1
-120,Herbed Grilled Pork Chop,1
-121,Potato Hash,1
-122,Steamed Whole Green Beans,1
-123,Roasted Apples,1
-124,Scrambled Eggs,1
-125,Pork Sausage Gravy,1
-126,Bacon,1
-127,Sausage Links,1
-128,Breakfast Potatoes,1
-129,Grits,1
-130,Biscuits,1
-131,Buttermilk Pancakes,1
-132,Pancake Syrup ,1
-133,Oatmeal,1
-134,Chorizo Breakfast Bowl,1
-135,Vegetarian Chorizo Breakfast Bowl,1
-136,Maple Soy Glazed Crispy Tofu,1
-137,Steamed Broccoli ,1
-138,Basmati Rice,1
-139,Vegan Mango Pancakes,1
-140,Basmati Rice,1
-141,JUST Egg Scramble,1
-142,Spicy Shrimp & Cheddar Grits,1
-143,Vegan Cheese Pizza,1
-144,Classic Pepperoni Pizza,1
-145,Cheese Bread ,1
-146,Classic Cheese Pizza,1
-147,White Chicken Chili,1
-148,Tuscan Minestrone Soup,1
-149,White Bread ,1
-150,Udi's Multigrain Bread,1
-151,Udi's White Bread,1
-152,Multigrain Bread,1
-153,Wheat Bread Slice,1
-154,Sourdough ,1
-155,Hoagie Roll,1
-156,12' Assorted Wraps,1
-157,Vegan American Sliced Cheese,1
-158,Sliced Ham,1
-159,Sliced Roast Beef,1
-160,Sliced Turkey,1
-161,Sliced Salami,1
-162,Chunky Chicken Salad,1
-163,Tuna Salad,1
-164,Grilled Chicken Breast,1
-165,Sliced Red Onion,1
-166,Heirloom Tomatoes,1
-167,Sliced Yellow American Cheese,1
-168,Sliced Pepper Jack Cheese,1
-169,Swiss Cheese,1
-170,Sliced Cheddar Cheese,1
-171,Black Olives,1
-172,Lettuce,1
-173,Sliced Dill Pickles ,1
-174,Banana Peppers,1
-175,Jalapeno Peppers,1
-176,Honey Chipotle Sauce,1
-177,Sriracha Mayonnaise,1
-178,Chipotle Mayonnaise,1
-179,Mayonnaise,1
-180,Yellow Mustard,1
-181,Spicy Brown Mustard,1
-182,Oil and Vinegar,1
-183,Nut-Free Pesto Sauce,1
-184,Strawberries,1
-185,Lite Italian Dressing,1
-186,Thousand Island Dressing,1
-187,Kidney Beans,1
-188,Low Fat Cottage Cheese,1
-189,Diced Chicken,1
-190,Vanilla Yogurt,1
-191,Oil and Vinegar,1
-192,Strawberry Yogurt,1
-193,Applesauce,1
-194,Kiwi,1
-195,Blueberries,1
-196,Strawberries,1
-197,Grapes,1
-198,Pineapple,1
-199,Honey Dew,1
-200,Cantaloupe,1
-201,Raisins,1
-202,Hummus,1
-203,Feta Cheese,1
-204,Cheddar Cheese,1
-205,Diced Tofu,1
-206,Quinoa,1
-207,Black Beans,1
-208,Garbanzo Beans,1
-209,Hard Boiled Eggs,1
-210,Bacon Bits,1
-211,Green Peppers,1
-212,Beets,1
-213,Sliced Red Onion,1
-214,Shredded Carrots,1
-215,Sliced Cucumber,1
-216,Grape Tomatoes,1
-217,Black Olives,1
-218,Spring Salad Mix,1
-219,Baby Spinach,1
-220,Iceberg Lettuce,1
-221,Croutons,1
-222,Sunflower Seeds,1
-223,Craisins,1
-224,Ranch Dressing,1
-225,Fat-Free Italian Dressing,1
-226,Fat-Free French Dressing,1
-227,Balsamic Vinaigrette,1
-228,Honey Mustard Dressing,1
-229,Blue Cheese Dressing,1
-230,Caesar Dressing,1
-231,Schar Ciabatta Roll,1
-232,JP's Brownie,1
-233,JP's GF Hawaiian Rolls,1
-234,JP's GF Vegan Chocolate Cupcake,1
-235,JP's Gluten-Free Blueberry Muffins,1
-236,JP's Key Lime Cheesecake Bar,1
-237,Katz Powdered Donut Holes,1
-238,Katz Cinnamon Donut Hole,1
-239,Katz Glazed Donut Holes,1
-240,Katz Oatmeal Creme Pie,1
-241,Kinnikinnick Birthday Cream Sandwich Cookie,1
-242,Kinnikinnick Mint Magic Sandwich Creme Cookies,1
-243,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,1
-244,Kinnikinnick Chocolate Sandwich Creme Cookies,1
-245,Kinnikinnick Cinnamon Sugar Donuts,1
-246,Kinnikinnick Vanilla Glazed Donuts,1
-247,O'Doughs Original Bagel,1
-248,O'doughs Everything Bagel,1
-249,O'Doughs Pumpernickel Bagel,1
-250,O'Doughs Original Sandwich Slices,1
-251,O'Doughs Multigrain Sandwich Slices,1
-252,Apple Jacks,1
-253,Cinnamon Toast Crunch,1
-254,Frosted Flakes,1
-255,Cocoa Puffs,1
-256,Lucky Charms,1
-257,Krave Chocolate Cereal,1
-258,Cheerios,1
-259,Raisin Bran,1
-260,Froot Loops,1
-261,Oats and Honey Granola,1
-262,Ranch,1
-263,Ketchup,1
-264,BBQ Sauce,1
-265,Sriracha Sauce,1
-266,Texas Pete Hot Sauce,1
-267,Mayonnaise,1
-268,Yellow Mustard,1
-269,Vegetable Cream Cheese,1
-270,Margarine,1
-271,Oil and Vinegar,1
-272,Tabasco Hot Sauce,1
-273,Grape Jelly,1
-274,Strawberry Jelly,1
-275,Peanut Butter,1
-276,Plain Cream Cheese Spread,1
-277,Strawberry Cream Cheese,1
-278,Chives and Onion Cream Cheese,1
-279,Plain Bagel,1
-280,Everything Bagel,1
-281,Blueberry Bagel,1
-282,Cheese Bagel,1
-283,Multigrain Bagel,1
-284,Rye Bread Slice,1
-285,Multigrain Bread,1
-286,Wheat Bread Slice,1
-287,Kaiser Roll,1
-288,Hoagie Roll,1
-289,100% Cranberry Juice,1
-290,Seasonal Hot Cocoa,1
-291,Seasonal Apple Cider,1
-292,Maola Whole Milk,1
-293,Maola 2% Reduced Fat Milk,1
-294,Maola Skim Milk,1
-295,Maola 1% Chocolate Milk,1
-296,100% Apple Juice,1
-297,100% Orange Juice,1
-298,Strawberry Kiwi Juice,1
-299,Larry's Coffee,1
-300,Larry's Decaf Coffee,1
-301,Southern Unsweet Tea,1
-302,Southern Sweet Tea,1
-303,Chocolate Soymilk,1
-304,Vanilla Soymilk,1
-305,Dr. Pepper,1
-306,Diet Dr. Pepper,1
-307,Root Beer,1
-308,Sunkist Orange,1
-309,Sierra Mist,1
-310,Tropicana Lemonade,1
-311,Tropicana Fruit Punch,1
-312,Mountain Dew,1
-313,Diet Mountain Dew,1
-314,SoBe Lifewater Pomegranate,1
-315,Brisk Green Tea Peach,1
-316,Cheerwine,1
-317,Diet Pepsi,1
-318,Pepsi,1
-319,Gatorade Fruit Punch,1
-320,Gatorade Orange,1
-321,Waffle Bar,2
-322,Assorted Cookies,2
-323,Rice Krispie Treats,2
-324,Fudge Brownie,2
-325,Chocolate Soft Serve Ice Cream,2
-326,Vanilla Soft Serve Ice Cream,2
-327,Classic Cheese Pizza,2
-328,Classic Pepperoni Pizza,2
-329,Cheese Bread ,2
-330,White Chicken Chili,2
-331,Tuscan Minestrone Soup,2
-332,White Bread ,2
-333,Udi's Multigrain Bread,2
-334,Udi's White Bread,2
-335,Multigrain Bread,2
-336,Wheat Bread Slice,2
-337,Sourdough ,2
-338,Hoagie Roll,2
-339,12' Assorted Wraps,2
-340,Vegan American Sliced Cheese,2
-341,Sliced Ham,2
-342,Sliced Roast Beef,2
-343,Sliced Turkey,2
-344,Sliced Salami,2
-345,Chunky Chicken Salad,2
-346,Tuna Salad,2
-347,Grilled Chicken Breast,2
-348,Sliced Red Onion,2
-349,Heirloom Tomatoes,2
-350,Sliced Yellow American Cheese,2
-351,Sliced Pepper Jack Cheese,2
-352,Swiss Cheese,2
-353,Sliced Cheddar Cheese,2
-354,Black Olives,2
-355,Lettuce,2
-356,Sliced Dill Pickles ,2
-357,Banana Peppers,2
-358,Jalapeno Peppers,2
-359,Honey Chipotle Sauce,2
-360,Sriracha Mayonnaise,2
-361,Chipotle Mayonnaise,2
-362,Mayonnaise,2
-363,Yellow Mustard,2
-364,Spicy Brown Mustard,2
-365,Oil and Vinegar,2
-366,Nut-Free Pesto Sauce,2
-367,Strawberries,2
-368,Lite Italian Dressing,2
-369,Thousand Island Dressing,2
-370,Kidney Beans,2
-371,Low Fat Cottage Cheese,2
-372,Diced Chicken,2
-373,Vanilla Yogurt,2
-374,Oil and Vinegar,2
-375,Strawberry Yogurt,2
-376,Applesauce,2
-377,Kiwi,2
-378,Blueberries,2
-379,Strawberries,2
-380,Grapes,2
-381,Pineapple,2
-382,Honey Dew,2
-383,Cantaloupe,2
-384,Raisins,2
-385,Hummus,2
-386,Feta Cheese,2
-387,Cheddar Cheese,2
-388,Diced Tofu,2
-389,Quinoa,2
-390,Black Beans,2
-391,Garbanzo Beans,2
-392,Hard Boiled Eggs,2
-393,Bacon Bits,2
-394,Green Peppers,2
-395,Beets,2
-396,Sliced Red Onion,2
-397,Shredded Carrots,2
-398,Sliced Cucumber,2
-399,Grape Tomatoes,2
-400,Black Olives,2
-401,Spring Salad Mix,2
-402,Baby Spinach,2
-403,Iceberg Lettuce,2
-404,Croutons,2
-405,Sunflower Seeds,2
-406,Craisins,2
-407,Ranch Dressing,2
-408,Fat-Free Italian Dressing,2
-409,Fat-Free French Dressing,2
-410,Balsamic Vinaigrette,2
-411,Honey Mustard Dressing,2
-412,Blue Cheese Dressing,2
-413,Caesar Dressing,2
-414,Schar Ciabatta Roll,2
-415,JP's Brownie,2
-416,JP's GF Hawaiian Rolls,2
-417,JP's GF Vegan Chocolate Cupcake,2
-418,JP's Gluten-Free Blueberry Muffins,2
-419,JP's Key Lime Cheesecake Bar,2
-420,Katz Powdered Donut Holes,2
-421,Katz Cinnamon Donut Hole,2
-422,Katz Glazed Donut Holes,2
-423,Katz Oatmeal Creme Pie,2
-424,Kinnikinnick Birthday Cream Sandwich Cookie,2
-425,Kinnikinnick Mint Magic Sandwich Creme Cookies,2
-426,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,2
-427,Kinnikinnick Chocolate Sandwich Creme Cookies,2
-428,Kinnikinnick Cinnamon Sugar Donuts,2
-429,Kinnikinnick Vanilla Glazed Donuts,2
-430,O'Doughs Original Bagel,2
-431,O'doughs Everything Bagel,2
-432,O'Doughs Pumpernickel Bagel,2
-433,O'Doughs Original Sandwich Slices,2
-434,O'Doughs Multigrain Sandwich Slices,2
-435,Apple Jacks,2
-436,Cinnamon Toast Crunch,2
-437,Frosted Flakes,2
-438,Cocoa Puffs,2
-439,Lucky Charms,2
-440,Krave Chocolate Cereal,2
-441,Cheerios,2
-442,Raisin Bran,2
-443,Froot Loops,2
-444,Oats and Honey Granola,2
-445,Ketchup,2
-446,Oil and Vinegar,2
-447,Strawberry Jelly,2
-448,Strawberry Cream Cheese,2
-449,Yellow Mustard,2
-450,Original Creamer,2
-451,French Vanilla Creamer,2
-452,Hazelnut Creamer,2
-453,Vegetable Cream Cheese,2
-454,Creamy Peanut Butter,2
-455,Texas Pete Hot Sauce,2
-456,Sriracha Sauce,2
-457,Ranch,2
-458,Grape Jelly,2
-459,Plain Cream Cheese Spread,2
-460,Margarine,2
-461,Plain Bagel,2
-462,Everything Bagel,2
-463,Blueberry Bagel,2
-464,Cheese Bagel,2
-465,Multigrain Bagel,2
-466,Rye Bread Slice,2
-467,Multigrain Bread,2
-468,Wheat Bread Slice,2
-469,Kaiser Roll,2
-470,Hoagie Roll,2
-471,100% Cranberry Juice,2
-472,Seasonal Hot Cocoa,2
-473,Seasonal Apple Cider,2
-474,Maola Whole Milk,2
-475,Maola 2% Reduced Fat Milk,2
-476,Maola Skim Milk,2
-477,Maola 1% Chocolate Milk,2
-478,100% Apple Juice,2
-479,100% Orange Juice,2
-480,Strawberry Kiwi Juice,2
-481,Larry's Coffee,2
-482,Larry's Decaf Coffee,2
-483,Southern Unsweet Tea,2
-484,Southern Sweet Tea,2
-485,Chocolate Soymilk,2
-486,Vanilla Soymilk,2
-487,Dr. Pepper,2
-488,Diet Dr. Pepper,2
-489,Root Beer,2
-490,Sunkist Orange,2
-491,Sierra Mist,2
-492,Tropicana Lemonade,2
-493,Tropicana Fruit Punch,2
-494,Mountain Dew,2
-495,Diet Mountain Dew,2
-496,SoBe Lifewater Pomegranate,2
-497,Brisk Green Tea Peach,2
-498,Cheerwine,2
-499,Diet Pepsi,2
-500,Pepsi,2
-501,Gatorade Fruit Punch,2
-502,Gatorade Orange,2
-503,Waffle Bar,3
-504,Cinnamon Donut Bites,3
-505,Chocolate Peanut Butter Cake,3
-506,Chocolate Chip Cookie,3
-507,Cake Batter Sugar Cookie,3
-508,Vanilla Soft Serve Ice Cream,3
-509,Chocolate Soft Serve Ice Cream,3
-510,Fudge Brownie,3
-511,Assorted Cookies,3
-512,Rice Krispie Treats,3
-513,Honey BBQ Chicken,3
-514,Steamed Corn,3
-515,Steamed Green Peas,3
-516,EVOO Mashed Potatoes,3
-517,Sweet Korean Flank Steak,3
-518,Sesame Garlic Bok Choy,3
-519,Roasted Mushrooms,3
-520,Basmati Rice,3
-521,Crispy Chicken Nuggets,3
-522,Smiley Fries,3
-523,Garden Burger Patty,3
-524,Black Bean Burger Patty,3
-525,Udi's Gluten-Free Hamburger Bun,3
-526,Hamburger Bun,3
-527,Vegan Cheddar Cheese,3
-528,Potato & Kale Enchiladas,3
-529,Fried Yucca,3
-530,Seasoned Black Beans,3
-531,White Rice,3
-532,Sunflower Seeds,3
-533,Confetti Corn Salad,3
-534,Romaine Lettuce,3
-535,Curry Chicken,3
-536,Vegan Cheese Pizza,3
-537,Classic Cheese Pizza,3
-538,Classic Pepperoni Pizza,3
-539,Cheese Bread ,3
-540,Spaghetti + Meatball Bake,3
-541,Alfredo Sauce,3
-542,Marinara Sauce ,3
-543,Penne Pasta,3
-544,White Chicken Chili,3
-545,Tuscan Minestrone Soup,3
-546,Ground Turkey Taco on Corn Tortilla,3
-547,Hot Tortilla Chips,3
-548,Chipotle Pinto Beans,3
-549,Queso Sauce ,3
-550,Jalapeno Peppers,3
-551,Iceberg Lettuce,3
-552,Black Olives,3
-553,Cheddar Cheese,3
-554,Pico Salsa,3
-555,Guacamole,3
-556,Sour Cream,3
-557,White Bread ,3
-558,Udi's Multigrain Bread,3
-559,Udi's White Bread,3
-560,Multigrain Bread,3
-561,Wheat Bread Slice,3
-562,Sourdough ,3
-563,Hoagie Roll,3
-564,12' Assorted Wraps,3
-565,Vegan American Sliced Cheese,3
-566,Sliced Ham,3
-567,Sliced Roast Beef,3
-568,Sliced Turkey,3
-569,Sliced Salami,3
-570,Chunky Chicken Salad,3
-571,Tuna Salad,3
-572,Grilled Chicken Breast,3
-573,Sliced Red Onion,3
-574,Heirloom Tomatoes,3
-575,Sliced Yellow American Cheese,3
-576,Sliced Pepper Jack Cheese,3
-577,Swiss Cheese,3
-578,Sliced Cheddar Cheese,3
-579,Black Olives,3
-580,Lettuce,3
-581,Sliced Dill Pickles ,3
-582,Banana Peppers,3
-583,Jalapeno Peppers,3
-584,Honey Chipotle Sauce,3
-585,Sriracha Mayonnaise,3
-586,Chipotle Mayonnaise,3
-587,Mayonnaise,3
-588,Yellow Mustard,3
-589,Spicy Brown Mustard,3
-590,Oil and Vinegar,3
-591,Nut-Free Pesto Sauce,3
-592,Strawberries,3
-593,Lite Italian Dressing,3
-594,Thousand Island Dressing,3
-595,Kidney Beans,3
-596,Low Fat Cottage Cheese,3
-597,Diced Chicken,3
-598,Vanilla Yogurt,3
-599,Oil and Vinegar,3
-600,Strawberry Yogurt,3
-601,Applesauce,3
-602,Kiwi,3
-603,Blueberries,3
-604,Strawberries,3
-605,Grapes,3
-606,Pineapple,3
-607,Honey Dew,3
-608,Cantaloupe,3
-609,Raisins,3
-610,Hummus,3
-611,Feta Cheese,3
-612,Cheddar Cheese,3
-613,Diced Tofu,3
-614,Quinoa,3
-615,Black Beans,3
-616,Garbanzo Beans,3
-617,Hard Boiled Eggs,3
-618,Bacon Bits,3
-619,Green Peppers,3
-620,Beets,3
-621,Sliced Red Onion,3
-622,Shredded Carrots,3
-623,Sliced Cucumber,3
-624,Grape Tomatoes,3
-625,Black Olives,3
-626,Spring Salad Mix,3
-627,Baby Spinach,3
-628,Iceberg Lettuce,3
-629,Croutons,3
-630,Sunflower Seeds,3
-631,Craisins,3
-632,Ranch Dressing,3
-633,Fat-Free Italian Dressing,3
-634,Fat-Free French Dressing,3
-635,Balsamic Vinaigrette,3
-636,Honey Mustard Dressing,3
-637,Blue Cheese Dressing,3
-638,Caesar Dressing,3
-639,Schar Ciabatta Roll,3
-640,JP's Brownie,3
-641,JP's GF Hawaiian Rolls,3
-642,JP's GF Vegan Chocolate Cupcake,3
-643,JP's Gluten-Free Blueberry Muffins,3
-644,JP's Key Lime Cheesecake Bar,3
-645,Katz Powdered Donut Holes,3
-646,Katz Cinnamon Donut Hole,3
-647,Katz Glazed Donut Holes,3
-648,Katz Oatmeal Creme Pie,3
-649,Kinnikinnick Birthday Cream Sandwich Cookie,3
-650,Kinnikinnick Mint Magic Sandwich Creme Cookies,3
-651,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,3
-652,Kinnikinnick Chocolate Sandwich Creme Cookies,3
-653,Kinnikinnick Cinnamon Sugar Donuts,3
-654,Kinnikinnick Vanilla Glazed Donuts,3
-655,O'Doughs Original Bagel,3
-656,O'doughs Everything Bagel,3
-657,O'Doughs Pumpernickel Bagel,3
-658,O'Doughs Original Sandwich Slices,3
-659,O'Doughs Multigrain Sandwich Slices,3
-660,Apple Jacks,3
-661,Cinnamon Toast Crunch,3
-662,Frosted Flakes,3
-663,Cocoa Puffs,3
-664,Lucky Charms,3
-665,Krave Chocolate Cereal,3
-666,Cheerios,3
-667,Raisin Bran,3
-668,Froot Loops,3
-669,Oats and Honey Granola,3
-670,Ranch,3
-671,Ketchup,3
-672,BBQ Sauce,3
-673,Sriracha Sauce,3
-674,Texas Pete Hot Sauce,3
-675,Mayonnaise,3
-676,Yellow Mustard,3
-677,Vegetable Cream Cheese,3
-678,Margarine,3
-679,Oil and Vinegar,3
-680,Tabasco Hot Sauce,3
-681,Grape Jelly,3
-682,Strawberry Jelly,3
-683,Peanut Butter,3
-684,Plain Cream Cheese Spread,3
-685,Strawberry Cream Cheese,3
-686,Chives and Onion Cream Cheese,3
-687,Plain Bagel,3
-688,Everything Bagel,3
-689,Blueberry Bagel,3
-690,Cheese Bagel,3
-691,Multigrain Bagel,3
-692,Rye Bread Slice,3
-693,Multigrain Bread,3
-694,Wheat Bread Slice,3
-695,Kaiser Roll,3
-696,Hoagie Roll,3
-697,100% Cranberry Juice,3
-698,Seasonal Hot Cocoa,3
-699,Seasonal Apple Cider,3
-700,Maola Whole Milk,3
-701,Maola 2% Reduced Fat Milk,3
-702,Maola Skim Milk,3
-703,Maola 1% Chocolate Milk,3
-704,100% Apple Juice,3
-705,100% Orange Juice,3
-706,Strawberry Kiwi Juice,3
-707,Larry's Coffee,3
-708,Larry's Decaf Coffee,3
-709,Southern Unsweet Tea,3
-710,Southern Sweet Tea,3
-711,Chocolate Soymilk,3
-712,Vanilla Soymilk,3
-713,Dr. Pepper,3
-714,Diet Dr. Pepper,3
-715,Root Beer,3
-716,Sunkist Orange,3
-717,Sierra Mist,3
-718,Tropicana Lemonade,3
-719,Tropicana Fruit Punch,3
-720,Mountain Dew,3
-721,Diet Mountain Dew,3
-722,SoBe Lifewater Pomegranate,3
-723,Brisk Green Tea Peach,3
-724,Cheerwine,3
-725,Diet Pepsi,3
-726,Pepsi,3
-727,Gatorade Fruit Punch,3
-728,Gatorade Orange,3
+,itemName,mealTime,vegan,vegetarian,smartChoice,local,organic,sustainableSeafood,madeWithoutGluten,halal
+0,Waffle Bar,0,0,0,0,0,0,0,0,0
+1,Vegan Coffee Cake,0,0,0,0,0,0,0,0,0
+2,Honey Nut Loaf,0,0,0,0,0,0,0,0,0
+3,Croissant,0,0,0,0,0,0,0,0,0
+4,Assorted Danishes ,0,0,0,0,0,0,0,0,0
+5,Apricot Quick Bread,0,0,0,0,0,0,0,0,0
+6,Assorted Donuts,0,0,0,0,0,0,0,0,0
+7,Blueberry Muffin,0,0,0,0,0,0,0,0,0
+8,Vanilla Soft Serve Ice Cream,0,0,0,0,0,0,0,0,0
+9,Chocolate Soft Serve Ice Cream,0,0,0,0,0,0,0,0,0
+10,Scrambled Eggs,0,0,0,0,0,0,0,0,0
+11,Pork Sausage Gravy,0,0,0,0,0,0,0,0,0
+12,Bacon,0,0,0,0,0,0,0,0,0
+13,Sausage Links,0,0,0,0,0,0,0,0,0
+14,Breakfast Potatoes,0,0,0,0,0,0,0,0,0
+15,Grits,0,0,0,0,0,0,0,0,0
+16,Biscuits,0,0,0,0,0,0,0,0,0
+17,Buttermilk Pancakes,0,0,0,0,0,0,0,0,0
+18,Pancake Syrup ,0,0,0,0,0,0,0,0,0
+19,Oatmeal,0,0,0,0,0,0,0,0,0
+20,Low Fat Cottage Cheese,0,0,0,0,0,0,0,0,0
+21,Strawberry Yogurt,0,0,0,0,0,0,0,0,0
+22,Vanilla Yogurt,0,0,0,0,0,0,0,0,0
+23,Applesauce,0,0,0,0,0,0,0,0,0
+24,Grapes,0,0,0,0,0,0,0,0,0
+25,Pineapple,0,0,0,0,0,0,0,0,0
+26,Honey Dew,0,0,0,0,0,0,0,0,0
+27,Cantaloupe,0,0,0,0,0,0,0,0,0
+28,Raisins,0,0,0,0,0,0,0,0,0
+29,Brown Sugar,0,0,0,0,0,0,0,0,0
+30,Schar Ciabatta Roll,0,0,0,0,0,0,0,0,0
+31,JP's Brownie,0,0,0,0,0,0,0,0,0
+32,JP's GF Hawaiian Rolls,0,0,0,0,0,0,0,0,0
+33,JP's GF Vegan Chocolate Cupcake,0,0,0,0,0,0,0,0,0
+34,JP's Gluten-Free Blueberry Muffins,0,0,0,0,0,0,0,0,0
+35,JP's Key Lime Cheesecake Bar,0,0,0,0,0,0,0,0,0
+36,Katz Powdered Donut Holes,0,0,0,0,0,0,0,0,0
+37,Katz Cinnamon Donut Hole,0,0,0,0,0,0,0,0,0
+38,Katz Glazed Donut Holes,0,0,0,0,0,0,0,0,0
+39,Katz Oatmeal Creme Pie,0,0,0,0,0,0,0,0,0
+40,Kinnikinnick Birthday Cream Sandwich Cookie,0,0,0,0,0,0,0,0,0
+41,Kinnikinnick Mint Magic Sandwich Creme Cookies,0,0,0,0,0,0,0,0,0
+42,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,0,0,0,0,0,0,0,0,0
+43,Kinnikinnick Chocolate Sandwich Creme Cookies,0,0,0,0,0,0,0,0,0
+44,Kinnikinnick Cinnamon Sugar Donuts,0,0,0,0,0,0,0,0,0
+45,Kinnikinnick Vanilla Glazed Donuts,0,0,0,0,0,0,0,0,0
+46,O'Doughs Original Bagel,0,0,0,0,0,0,0,0,0
+47,O'doughs Everything Bagel,0,0,0,0,0,0,0,0,0
+48,O'Doughs Pumpernickel Bagel,0,0,0,0,0,0,0,0,0
+49,O'Doughs Original Sandwich Slices,0,0,0,0,0,0,0,0,0
+50,O'Doughs Multigrain Sandwich Slices,0,0,0,0,0,0,0,0,0
+51,Ranch,0,0,0,0,0,0,0,0,0
+52,Ketchup,0,0,0,0,0,0,0,0,0
+53,BBQ Sauce,0,0,0,0,0,0,0,0,0
+54,Sriracha Sauce,0,0,0,0,0,0,0,0,0
+55,Texas Pete Hot Sauce,0,0,0,0,0,0,0,0,0
+56,Mayonnaise,0,0,0,0,0,0,0,0,0
+57,Yellow Mustard,0,0,0,0,0,0,0,0,0
+58,Vegetable Cream Cheese,0,0,0,0,0,0,0,0,0
+59,Margarine,0,0,0,0,0,0,0,0,0
+60,Oil and Vinegar,0,0,0,0,0,0,0,0,0
+61,Tabasco Hot Sauce,0,0,0,0,0,0,0,0,0
+62,Grape Jelly,0,0,0,0,0,0,0,0,0
+63,Strawberry Jelly,0,0,0,0,0,0,0,0,0
+64,Peanut Butter,0,0,0,0,0,0,0,0,0
+65,Plain Cream Cheese Spread,0,0,0,0,0,0,0,0,0
+66,Strawberry Cream Cheese,0,0,0,0,0,0,0,0,0
+67,Chives and Onion Cream Cheese,0,0,0,0,0,0,0,0,0
+68,Plain Bagel,0,0,0,0,0,0,0,0,0
+69,Everything Bagel,0,0,0,0,0,0,0,0,0
+70,Blueberry Bagel,0,0,0,0,0,0,0,0,0
+71,Cheese Bagel,0,0,0,0,0,0,0,0,0
+72,Multigrain Bagel,0,0,0,0,0,0,0,0,0
+73,Rye Bread Slice,0,0,0,0,0,0,0,0,0
+74,Multigrain Bread,0,0,0,0,0,0,0,0,0
+75,Wheat Bread Slice,0,0,0,0,0,0,0,0,0
+76,Kaiser Roll,0,0,0,0,0,0,0,0,0
+77,Hoagie Roll,0,0,0,0,0,0,0,0,0
+78,100% Cranberry Juice,0,0,0,0,0,0,0,0,0
+79,Seasonal Hot Cocoa,0,0,0,0,0,0,0,0,0
+80,Seasonal Apple Cider,0,0,0,0,0,0,0,0,0
+81,Maola Whole Milk,0,0,0,0,0,0,0,0,0
+82,Maola 2% Reduced Fat Milk,0,0,0,0,0,0,0,0,0
+83,Maola Skim Milk,0,0,0,0,0,0,0,0,0
+84,Maola 1% Chocolate Milk,0,0,0,0,0,0,0,0,0
+85,100% Apple Juice,0,0,0,0,0,0,0,0,0
+86,100% Orange Juice,0,0,0,0,0,0,0,0,0
+87,Strawberry Kiwi Juice,0,0,0,0,0,0,0,0,0
+88,Larry's Coffee,0,0,0,0,0,0,0,0,0
+89,Larry's Decaf Coffee,0,0,0,0,0,0,0,0,0
+90,Southern Unsweet Tea,0,0,0,0,0,0,0,0,0
+91,Southern Sweet Tea,0,0,0,0,0,0,0,0,0
+92,Chocolate Soymilk,0,0,0,0,0,0,0,0,0
+93,Vanilla Soymilk,0,0,0,0,0,0,0,0,0
+94,Dr. Pepper,0,0,0,0,0,0,0,0,0
+95,Diet Dr. Pepper,0,0,0,0,0,0,0,0,0
+96,Root Beer,0,0,0,0,0,0,0,0,0
+97,Sunkist Orange,0,0,0,0,0,0,0,0,0
+98,Sierra Mist,0,0,0,0,0,0,0,0,0
+99,Tropicana Lemonade,0,0,0,0,0,0,0,0,0
+100,Tropicana Fruit Punch,0,0,0,0,0,0,0,0,0
+101,Mountain Dew,0,0,0,0,0,0,0,0,0
+102,Diet Mountain Dew,0,0,0,0,0,0,0,0,0
+103,SoBe Lifewater Pomegranate,0,0,0,0,0,0,0,0,0
+104,Brisk Green Tea Peach,0,0,0,0,0,0,0,0,0
+105,Cheerwine,0,0,0,0,0,0,0,0,0
+106,Diet Pepsi,0,0,0,0,0,0,0,0,0
+107,Pepsi,0,0,0,0,0,0,0,0,0
+108,Gatorade Fruit Punch,0,0,0,0,0,0,0,0,0
+109,Gatorade Orange,0,0,0,0,0,0,0,0,0
+110,Waffle Bar,1,0,0,0,0,0,0,0,0
+111,Vegan Coffee Cake,1,0,0,0,0,0,0,0,0
+112,Honey Nut Loaf,1,0,0,0,0,0,0,0,0
+113,Croissant,1,0,0,0,0,0,0,0,0
+114,Assorted Danishes ,1,0,0,0,0,0,0,0,0
+115,Apricot Quick Bread,1,0,0,0,0,0,0,0,0
+116,Assorted Donuts,1,0,0,0,0,0,0,0,0
+117,Blueberry Muffin,1,0,0,0,0,0,0,0,0
+118,Vanilla Soft Serve Ice Cream,1,0,0,0,0,0,0,0,0
+119,Chocolate Soft Serve Ice Cream,1,0,0,0,0,0,0,0,0
+120,Herbed Grilled Pork Chop,1,0,0,0,0,0,0,0,0
+121,Potato Hash,1,0,0,0,0,0,0,0,0
+122,Steamed Whole Green Beans,1,0,0,0,0,0,0,0,0
+123,Roasted Apples,1,0,0,0,0,0,0,0,0
+124,Scrambled Eggs,1,0,0,0,0,0,0,0,0
+125,Pork Sausage Gravy,1,0,0,0,0,0,0,0,0
+126,Bacon,1,0,0,0,0,0,0,0,0
+127,Sausage Links,1,0,0,0,0,0,0,0,0
+128,Breakfast Potatoes,1,0,0,0,0,0,0,0,0
+129,Grits,1,0,0,0,0,0,0,0,0
+130,Biscuits,1,0,0,0,0,0,0,0,0
+131,Buttermilk Pancakes,1,0,0,0,0,0,0,0,0
+132,Pancake Syrup ,1,0,0,0,0,0,0,0,0
+133,Oatmeal,1,0,0,0,0,0,0,0,0
+134,Chorizo Breakfast Bowl,1,0,0,0,0,0,0,0,0
+135,Vegetarian Chorizo Breakfast Bowl,1,0,0,0,0,0,0,0,0
+136,Maple Soy Glazed Crispy Tofu,1,0,0,0,0,0,0,0,0
+137,Steamed Broccoli ,1,0,0,0,0,0,0,0,0
+138,Basmati Rice,1,0,0,0,0,0,0,0,0
+139,Vegan Mango Pancakes,1,0,0,0,0,0,0,0,0
+140,Basmati Rice,1,0,0,0,0,0,0,0,0
+141,JUST Egg Scramble,1,0,0,0,0,0,0,0,0
+142,Spicy Shrimp & Cheddar Grits,1,0,0,0,0,0,0,0,0
+143,Vegan Cheese Pizza,1,0,0,0,0,0,0,0,0
+144,Classic Pepperoni Pizza,1,0,0,0,0,0,0,0,0
+145,Cheese Bread ,1,0,0,0,0,0,0,0,0
+146,Classic Cheese Pizza,1,0,0,0,0,0,0,0,0
+147,White Chicken Chili,1,0,0,0,0,0,0,0,0
+148,Tuscan Minestrone Soup,1,0,0,0,0,0,0,0,0
+149,White Bread ,1,0,0,0,0,0,0,0,0
+150,Udi's Multigrain Bread,1,0,0,0,0,0,0,0,0
+151,Udi's White Bread,1,0,0,0,0,0,0,0,0
+152,Multigrain Bread,1,0,0,0,0,0,0,0,0
+153,Wheat Bread Slice,1,0,0,0,0,0,0,0,0
+154,Sourdough ,1,0,0,0,0,0,0,0,0
+155,Hoagie Roll,1,0,0,0,0,0,0,0,0
+156,12' Assorted Wraps,1,0,0,0,0,0,0,0,0
+157,Vegan American Sliced Cheese,1,0,0,0,0,0,0,0,0
+158,Sliced Ham,1,0,0,0,0,0,0,0,0
+159,Sliced Roast Beef,1,0,0,0,0,0,0,0,0
+160,Sliced Turkey,1,0,0,0,0,0,0,0,0
+161,Sliced Salami,1,0,0,0,0,0,0,0,0
+162,Chunky Chicken Salad,1,0,0,0,0,0,0,0,0
+163,Tuna Salad,1,0,0,0,0,0,0,0,0
+164,Grilled Chicken Breast,1,0,0,0,0,0,0,0,0
+165,Sliced Red Onion,1,0,0,0,0,0,0,0,0
+166,Heirloom Tomatoes,1,0,0,0,0,0,0,0,0
+167,Sliced Yellow American Cheese,1,0,0,0,0,0,0,0,0
+168,Sliced Pepper Jack Cheese,1,0,0,0,0,0,0,0,0
+169,Swiss Cheese,1,0,0,0,0,0,0,0,0
+170,Sliced Cheddar Cheese,1,0,0,0,0,0,0,0,0
+171,Black Olives,1,0,0,0,0,0,0,0,0
+172,Lettuce,1,0,0,0,0,0,0,0,0
+173,Sliced Dill Pickles ,1,0,0,0,0,0,0,0,0
+174,Banana Peppers,1,0,0,0,0,0,0,0,0
+175,Jalapeno Peppers,1,0,0,0,0,0,0,0,0
+176,Honey Chipotle Sauce,1,0,0,0,0,0,0,0,0
+177,Sriracha Mayonnaise,1,0,0,0,0,0,0,0,0
+178,Chipotle Mayonnaise,1,0,0,0,0,0,0,0,0
+179,Mayonnaise,1,0,0,0,0,0,0,0,0
+180,Yellow Mustard,1,0,0,0,0,0,0,0,0
+181,Spicy Brown Mustard,1,0,0,0,0,0,0,0,0
+182,Oil and Vinegar,1,0,0,0,0,0,0,0,0
+183,Nut-Free Pesto Sauce,1,0,0,0,0,0,0,0,0
+184,Strawberries,1,0,0,0,0,0,0,0,0
+185,Lite Italian Dressing,1,0,0,0,0,0,0,0,0
+186,Thousand Island Dressing,1,0,0,0,0,0,0,0,0
+187,Kidney Beans,1,0,0,0,0,0,0,0,0
+188,Low Fat Cottage Cheese,1,0,0,0,0,0,0,0,0
+189,Diced Chicken,1,0,0,0,0,0,0,0,0
+190,Vanilla Yogurt,1,0,0,0,0,0,0,0,0
+191,Oil and Vinegar,1,0,0,0,0,0,0,0,0
+192,Strawberry Yogurt,1,0,0,0,0,0,0,0,0
+193,Applesauce,1,0,0,0,0,0,0,0,0
+194,Kiwi,1,0,0,0,0,0,0,0,0
+195,Blueberries,1,0,0,0,0,0,0,0,0
+196,Strawberries,1,0,0,0,0,0,0,0,0
+197,Grapes,1,0,0,0,0,0,0,0,0
+198,Pineapple,1,0,0,0,0,0,0,0,0
+199,Honey Dew,1,0,0,0,0,0,0,0,0
+200,Cantaloupe,1,0,0,0,0,0,0,0,0
+201,Raisins,1,0,0,0,0,0,0,0,0
+202,Hummus,1,0,0,0,0,0,0,0,0
+203,Feta Cheese,1,0,0,0,0,0,0,0,0
+204,Cheddar Cheese,1,0,0,0,0,0,0,0,0
+205,Diced Tofu,1,0,0,0,0,0,0,0,0
+206,Quinoa,1,0,0,0,0,0,0,0,0
+207,Black Beans,1,0,0,0,0,0,0,0,0
+208,Garbanzo Beans,1,0,0,0,0,0,0,0,0
+209,Hard Boiled Eggs,1,0,0,0,0,0,0,0,0
+210,Bacon Bits,1,0,0,0,0,0,0,0,0
+211,Green Peppers,1,0,0,0,0,0,0,0,0
+212,Beets,1,0,0,0,0,0,0,0,0
+213,Sliced Red Onion,1,0,0,0,0,0,0,0,0
+214,Shredded Carrots,1,0,0,0,0,0,0,0,0
+215,Sliced Cucumber,1,0,0,0,0,0,0,0,0
+216,Grape Tomatoes,1,0,0,0,0,0,0,0,0
+217,Black Olives,1,0,0,0,0,0,0,0,0
+218,Spring Salad Mix,1,0,0,0,0,0,0,0,0
+219,Baby Spinach,1,0,0,0,0,0,0,0,0
+220,Iceberg Lettuce,1,0,0,0,0,0,0,0,0
+221,Croutons,1,0,0,0,0,0,0,0,0
+222,Sunflower Seeds,1,0,0,0,0,0,0,0,0
+223,Craisins,1,0,0,0,0,0,0,0,0
+224,Ranch Dressing,1,0,0,0,0,0,0,0,0
+225,Fat-Free Italian Dressing,1,0,0,0,0,0,0,0,0
+226,Fat-Free French Dressing,1,0,0,0,0,0,0,0,0
+227,Balsamic Vinaigrette,1,0,0,0,0,0,0,0,0
+228,Honey Mustard Dressing,1,0,0,0,0,0,0,0,0
+229,Blue Cheese Dressing,1,0,0,0,0,0,0,0,0
+230,Caesar Dressing,1,0,0,0,0,0,0,0,0
+231,Schar Ciabatta Roll,1,0,0,0,0,0,0,0,0
+232,JP's Brownie,1,0,0,0,0,0,0,0,0
+233,JP's GF Hawaiian Rolls,1,0,0,0,0,0,0,0,0
+234,JP's GF Vegan Chocolate Cupcake,1,0,0,0,0,0,0,0,0
+235,JP's Gluten-Free Blueberry Muffins,1,0,0,0,0,0,0,0,0
+236,JP's Key Lime Cheesecake Bar,1,0,0,0,0,0,0,0,0
+237,Katz Powdered Donut Holes,1,0,0,0,0,0,0,0,0
+238,Katz Cinnamon Donut Hole,1,0,0,0,0,0,0,0,0
+239,Katz Glazed Donut Holes,1,0,0,0,0,0,0,0,0
+240,Katz Oatmeal Creme Pie,1,0,0,0,0,0,0,0,0
+241,Kinnikinnick Birthday Cream Sandwich Cookie,1,0,0,0,0,0,0,0,0
+242,Kinnikinnick Mint Magic Sandwich Creme Cookies,1,0,0,0,0,0,0,0,0
+243,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,1,0,0,0,0,0,0,0,0
+244,Kinnikinnick Chocolate Sandwich Creme Cookies,1,0,0,0,0,0,0,0,0
+245,Kinnikinnick Cinnamon Sugar Donuts,1,0,0,0,0,0,0,0,0
+246,Kinnikinnick Vanilla Glazed Donuts,1,0,0,0,0,0,0,0,0
+247,O'Doughs Original Bagel,1,0,0,0,0,0,0,0,0
+248,O'doughs Everything Bagel,1,0,0,0,0,0,0,0,0
+249,O'Doughs Pumpernickel Bagel,1,0,0,0,0,0,0,0,0
+250,O'Doughs Original Sandwich Slices,1,0,0,0,0,0,0,0,0
+251,O'Doughs Multigrain Sandwich Slices,1,0,0,0,0,0,0,0,0
+252,Apple Jacks,1,0,0,0,0,0,0,0,0
+253,Cinnamon Toast Crunch,1,0,0,0,0,0,0,0,0
+254,Frosted Flakes,1,0,0,0,0,0,0,0,0
+255,Cocoa Puffs,1,0,0,0,0,0,0,0,0
+256,Lucky Charms,1,0,0,0,0,0,0,0,0
+257,Krave Chocolate Cereal,1,0,0,0,0,0,0,0,0
+258,Cheerios,1,0,0,0,0,0,0,0,0
+259,Raisin Bran,1,0,0,0,0,0,0,0,0
+260,Froot Loops,1,0,0,0,0,0,0,0,0
+261,Oats and Honey Granola,1,0,0,0,0,0,0,0,0
+262,Ranch,1,0,0,0,0,0,0,0,0
+263,Ketchup,1,0,0,0,0,0,0,0,0
+264,BBQ Sauce,1,0,0,0,0,0,0,0,0
+265,Sriracha Sauce,1,0,0,0,0,0,0,0,0
+266,Texas Pete Hot Sauce,1,0,0,0,0,0,0,0,0
+267,Mayonnaise,1,0,0,0,0,0,0,0,0
+268,Yellow Mustard,1,0,0,0,0,0,0,0,0
+269,Vegetable Cream Cheese,1,0,0,0,0,0,0,0,0
+270,Margarine,1,0,0,0,0,0,0,0,0
+271,Oil and Vinegar,1,0,0,0,0,0,0,0,0
+272,Tabasco Hot Sauce,1,0,0,0,0,0,0,0,0
+273,Grape Jelly,1,0,0,0,0,0,0,0,0
+274,Strawberry Jelly,1,0,0,0,0,0,0,0,0
+275,Peanut Butter,1,0,0,0,0,0,0,0,0
+276,Plain Cream Cheese Spread,1,0,0,0,0,0,0,0,0
+277,Strawberry Cream Cheese,1,0,0,0,0,0,0,0,0
+278,Chives and Onion Cream Cheese,1,0,0,0,0,0,0,0,0
+279,Plain Bagel,1,0,0,0,0,0,0,0,0
+280,Everything Bagel,1,0,0,0,0,0,0,0,0
+281,Blueberry Bagel,1,0,0,0,0,0,0,0,0
+282,Cheese Bagel,1,0,0,0,0,0,0,0,0
+283,Multigrain Bagel,1,0,0,0,0,0,0,0,0
+284,Rye Bread Slice,1,0,0,0,0,0,0,0,0
+285,Multigrain Bread,1,0,0,0,0,0,0,0,0
+286,Wheat Bread Slice,1,0,0,0,0,0,0,0,0
+287,Kaiser Roll,1,0,0,0,0,0,0,0,0
+288,Hoagie Roll,1,0,0,0,0,0,0,0,0
+289,100% Cranberry Juice,1,0,0,0,0,0,0,0,0
+290,Seasonal Hot Cocoa,1,0,0,0,0,0,0,0,0
+291,Seasonal Apple Cider,1,0,0,0,0,0,0,0,0
+292,Maola Whole Milk,1,0,0,0,0,0,0,0,0
+293,Maola 2% Reduced Fat Milk,1,0,0,0,0,0,0,0,0
+294,Maola Skim Milk,1,0,0,0,0,0,0,0,0
+295,Maola 1% Chocolate Milk,1,0,0,0,0,0,0,0,0
+296,100% Apple Juice,1,0,0,0,0,0,0,0,0
+297,100% Orange Juice,1,0,0,0,0,0,0,0,0
+298,Strawberry Kiwi Juice,1,0,0,0,0,0,0,0,0
+299,Larry's Coffee,1,0,0,0,0,0,0,0,0
+300,Larry's Decaf Coffee,1,0,0,0,0,0,0,0,0
+301,Southern Unsweet Tea,1,0,0,0,0,0,0,0,0
+302,Southern Sweet Tea,1,0,0,0,0,0,0,0,0
+303,Chocolate Soymilk,1,0,0,0,0,0,0,0,0
+304,Vanilla Soymilk,1,0,0,0,0,0,0,0,0
+305,Dr. Pepper,1,0,0,0,0,0,0,0,0
+306,Diet Dr. Pepper,1,0,0,0,0,0,0,0,0
+307,Root Beer,1,0,0,0,0,0,0,0,0
+308,Sunkist Orange,1,0,0,0,0,0,0,0,0
+309,Sierra Mist,1,0,0,0,0,0,0,0,0
+310,Tropicana Lemonade,1,0,0,0,0,0,0,0,0
+311,Tropicana Fruit Punch,1,0,0,0,0,0,0,0,0
+312,Mountain Dew,1,0,0,0,0,0,0,0,0
+313,Diet Mountain Dew,1,0,0,0,0,0,0,0,0
+314,SoBe Lifewater Pomegranate,1,0,0,0,0,0,0,0,0
+315,Brisk Green Tea Peach,1,0,0,0,0,0,0,0,0
+316,Cheerwine,1,0,0,0,0,0,0,0,0
+317,Diet Pepsi,1,0,0,0,0,0,0,0,0
+318,Pepsi,1,0,0,0,0,0,0,0,0
+319,Gatorade Fruit Punch,1,0,0,0,0,0,0,0,0
+320,Gatorade Orange,1,0,0,0,0,0,0,0,0
+321,Waffle Bar,2,0,0,0,0,0,0,0,0
+322,Assorted Cookies,2,0,0,0,0,0,0,0,0
+323,Rice Krispie Treats,2,0,0,0,0,0,0,0,0
+324,Fudge Brownie,2,0,0,0,0,0,0,0,0
+325,Chocolate Soft Serve Ice Cream,2,0,0,0,0,0,0,0,0
+326,Vanilla Soft Serve Ice Cream,2,0,0,0,0,0,0,0,0
+327,Classic Cheese Pizza,2,0,0,0,0,0,0,0,0
+328,Classic Pepperoni Pizza,2,0,0,0,0,0,0,0,0
+329,Cheese Bread ,2,0,0,0,0,0,0,0,0
+330,White Chicken Chili,2,0,0,0,0,0,0,0,0
+331,Tuscan Minestrone Soup,2,0,0,0,0,0,0,0,0
+332,White Bread ,2,0,0,0,0,0,0,0,0
+333,Udi's Multigrain Bread,2,0,0,0,0,0,0,0,0
+334,Udi's White Bread,2,0,0,0,0,0,0,0,0
+335,Multigrain Bread,2,0,0,0,0,0,0,0,0
+336,Wheat Bread Slice,2,0,0,0,0,0,0,0,0
+337,Sourdough ,2,0,0,0,0,0,0,0,0
+338,Hoagie Roll,2,0,0,0,0,0,0,0,0
+339,12' Assorted Wraps,2,0,0,0,0,0,0,0,0
+340,Vegan American Sliced Cheese,2,0,0,0,0,0,0,0,0
+341,Sliced Ham,2,0,0,0,0,0,0,0,0
+342,Sliced Roast Beef,2,0,0,0,0,0,0,0,0
+343,Sliced Turkey,2,0,0,0,0,0,0,0,0
+344,Sliced Salami,2,0,0,0,0,0,0,0,0
+345,Chunky Chicken Salad,2,0,0,0,0,0,0,0,0
+346,Tuna Salad,2,0,0,0,0,0,0,0,0
+347,Grilled Chicken Breast,2,0,0,0,0,0,0,0,0
+348,Sliced Red Onion,2,0,0,0,0,0,0,0,0
+349,Heirloom Tomatoes,2,0,0,0,0,0,0,0,0
+350,Sliced Yellow American Cheese,2,0,0,0,0,0,0,0,0
+351,Sliced Pepper Jack Cheese,2,0,0,0,0,0,0,0,0
+352,Swiss Cheese,2,0,0,0,0,0,0,0,0
+353,Sliced Cheddar Cheese,2,0,0,0,0,0,0,0,0
+354,Black Olives,2,0,0,0,0,0,0,0,0
+355,Lettuce,2,0,0,0,0,0,0,0,0
+356,Sliced Dill Pickles ,2,0,0,0,0,0,0,0,0
+357,Banana Peppers,2,0,0,0,0,0,0,0,0
+358,Jalapeno Peppers,2,0,0,0,0,0,0,0,0
+359,Honey Chipotle Sauce,2,0,0,0,0,0,0,0,0
+360,Sriracha Mayonnaise,2,0,0,0,0,0,0,0,0
+361,Chipotle Mayonnaise,2,0,0,0,0,0,0,0,0
+362,Mayonnaise,2,0,0,0,0,0,0,0,0
+363,Yellow Mustard,2,0,0,0,0,0,0,0,0
+364,Spicy Brown Mustard,2,0,0,0,0,0,0,0,0
+365,Oil and Vinegar,2,0,0,0,0,0,0,0,0
+366,Nut-Free Pesto Sauce,2,0,0,0,0,0,0,0,0
+367,Strawberries,2,0,0,0,0,0,0,0,0
+368,Lite Italian Dressing,2,0,0,0,0,0,0,0,0
+369,Thousand Island Dressing,2,0,0,0,0,0,0,0,0
+370,Kidney Beans,2,0,0,0,0,0,0,0,0
+371,Low Fat Cottage Cheese,2,0,0,0,0,0,0,0,0
+372,Diced Chicken,2,0,0,0,0,0,0,0,0
+373,Vanilla Yogurt,2,0,0,0,0,0,0,0,0
+374,Oil and Vinegar,2,0,0,0,0,0,0,0,0
+375,Strawberry Yogurt,2,0,0,0,0,0,0,0,0
+376,Applesauce,2,0,0,0,0,0,0,0,0
+377,Kiwi,2,0,0,0,0,0,0,0,0
+378,Blueberries,2,0,0,0,0,0,0,0,0
+379,Strawberries,2,0,0,0,0,0,0,0,0
+380,Grapes,2,0,0,0,0,0,0,0,0
+381,Pineapple,2,0,0,0,0,0,0,0,0
+382,Honey Dew,2,0,0,0,0,0,0,0,0
+383,Cantaloupe,2,0,0,0,0,0,0,0,0
+384,Raisins,2,0,0,0,0,0,0,0,0
+385,Hummus,2,0,0,0,0,0,0,0,0
+386,Feta Cheese,2,0,0,0,0,0,0,0,0
+387,Cheddar Cheese,2,0,0,0,0,0,0,0,0
+388,Diced Tofu,2,0,0,0,0,0,0,0,0
+389,Quinoa,2,0,0,0,0,0,0,0,0
+390,Black Beans,2,0,0,0,0,0,0,0,0
+391,Garbanzo Beans,2,0,0,0,0,0,0,0,0
+392,Hard Boiled Eggs,2,0,0,0,0,0,0,0,0
+393,Bacon Bits,2,0,0,0,0,0,0,0,0
+394,Green Peppers,2,0,0,0,0,0,0,0,0
+395,Beets,2,0,0,0,0,0,0,0,0
+396,Sliced Red Onion,2,0,0,0,0,0,0,0,0
+397,Shredded Carrots,2,0,0,0,0,0,0,0,0
+398,Sliced Cucumber,2,0,0,0,0,0,0,0,0
+399,Grape Tomatoes,2,0,0,0,0,0,0,0,0
+400,Black Olives,2,0,0,0,0,0,0,0,0
+401,Spring Salad Mix,2,0,0,0,0,0,0,0,0
+402,Baby Spinach,2,0,0,0,0,0,0,0,0
+403,Iceberg Lettuce,2,0,0,0,0,0,0,0,0
+404,Croutons,2,0,0,0,0,0,0,0,0
+405,Sunflower Seeds,2,0,0,0,0,0,0,0,0
+406,Craisins,2,0,0,0,0,0,0,0,0
+407,Ranch Dressing,2,0,0,0,0,0,0,0,0
+408,Fat-Free Italian Dressing,2,0,0,0,0,0,0,0,0
+409,Fat-Free French Dressing,2,0,0,0,0,0,0,0,0
+410,Balsamic Vinaigrette,2,0,0,0,0,0,0,0,0
+411,Honey Mustard Dressing,2,0,0,0,0,0,0,0,0
+412,Blue Cheese Dressing,2,0,0,0,0,0,0,0,0
+413,Caesar Dressing,2,0,0,0,0,0,0,0,0
+414,Schar Ciabatta Roll,2,0,0,0,0,0,0,0,0
+415,JP's Brownie,2,0,0,0,0,0,0,0,0
+416,JP's GF Hawaiian Rolls,2,0,0,0,0,0,0,0,0
+417,JP's GF Vegan Chocolate Cupcake,2,0,0,0,0,0,0,0,0
+418,JP's Gluten-Free Blueberry Muffins,2,0,0,0,0,0,0,0,0
+419,JP's Key Lime Cheesecake Bar,2,0,0,0,0,0,0,0,0
+420,Katz Powdered Donut Holes,2,0,0,0,0,0,0,0,0
+421,Katz Cinnamon Donut Hole,2,0,0,0,0,0,0,0,0
+422,Katz Glazed Donut Holes,2,0,0,0,0,0,0,0,0
+423,Katz Oatmeal Creme Pie,2,0,0,0,0,0,0,0,0
+424,Kinnikinnick Birthday Cream Sandwich Cookie,2,0,0,0,0,0,0,0,0
+425,Kinnikinnick Mint Magic Sandwich Creme Cookies,2,0,0,0,0,0,0,0,0
+426,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,2,0,0,0,0,0,0,0,0
+427,Kinnikinnick Chocolate Sandwich Creme Cookies,2,0,0,0,0,0,0,0,0
+428,Kinnikinnick Cinnamon Sugar Donuts,2,0,0,0,0,0,0,0,0
+429,Kinnikinnick Vanilla Glazed Donuts,2,0,0,0,0,0,0,0,0
+430,O'Doughs Original Bagel,2,0,0,0,0,0,0,0,0
+431,O'doughs Everything Bagel,2,0,0,0,0,0,0,0,0
+432,O'Doughs Pumpernickel Bagel,2,0,0,0,0,0,0,0,0
+433,O'Doughs Original Sandwich Slices,2,0,0,0,0,0,0,0,0
+434,O'Doughs Multigrain Sandwich Slices,2,0,0,0,0,0,0,0,0
+435,Apple Jacks,2,0,0,0,0,0,0,0,0
+436,Cinnamon Toast Crunch,2,0,0,0,0,0,0,0,0
+437,Frosted Flakes,2,0,0,0,0,0,0,0,0
+438,Cocoa Puffs,2,0,0,0,0,0,0,0,0
+439,Lucky Charms,2,0,0,0,0,0,0,0,0
+440,Krave Chocolate Cereal,2,0,0,0,0,0,0,0,0
+441,Cheerios,2,0,0,0,0,0,0,0,0
+442,Raisin Bran,2,0,0,0,0,0,0,0,0
+443,Froot Loops,2,0,0,0,0,0,0,0,0
+444,Oats and Honey Granola,2,0,0,0,0,0,0,0,0
+445,Ketchup,2,0,0,0,0,0,0,0,0
+446,Oil and Vinegar,2,0,0,0,0,0,0,0,0
+447,Strawberry Jelly,2,0,0,0,0,0,0,0,0
+448,Strawberry Cream Cheese,2,0,0,0,0,0,0,0,0
+449,Yellow Mustard,2,0,0,0,0,0,0,0,0
+450,Original Creamer,2,0,0,0,0,0,0,0,0
+451,French Vanilla Creamer,2,0,0,0,0,0,0,0,0
+452,Hazelnut Creamer,2,0,0,0,0,0,0,0,0
+453,Vegetable Cream Cheese,2,0,0,0,0,0,0,0,0
+454,Creamy Peanut Butter,2,0,0,0,0,0,0,0,0
+455,Texas Pete Hot Sauce,2,0,0,0,0,0,0,0,0
+456,Sriracha Sauce,2,0,0,0,0,0,0,0,0
+457,Ranch,2,0,0,0,0,0,0,0,0
+458,Grape Jelly,2,0,0,0,0,0,0,0,0
+459,Plain Cream Cheese Spread,2,0,0,0,0,0,0,0,0
+460,Margarine,2,0,0,0,0,0,0,0,0
+461,Plain Bagel,2,0,0,0,0,0,0,0,0
+462,Everything Bagel,2,0,0,0,0,0,0,0,0
+463,Blueberry Bagel,2,0,0,0,0,0,0,0,0
+464,Cheese Bagel,2,0,0,0,0,0,0,0,0
+465,Multigrain Bagel,2,0,0,0,0,0,0,0,0
+466,Rye Bread Slice,2,0,0,0,0,0,0,0,0
+467,Multigrain Bread,2,0,0,0,0,0,0,0,0
+468,Wheat Bread Slice,2,0,0,0,0,0,0,0,0
+469,Kaiser Roll,2,0,0,0,0,0,0,0,0
+470,Hoagie Roll,2,0,0,0,0,0,0,0,0
+471,100% Cranberry Juice,2,0,0,0,0,0,0,0,0
+472,Seasonal Hot Cocoa,2,0,0,0,0,0,0,0,0
+473,Seasonal Apple Cider,2,0,0,0,0,0,0,0,0
+474,Maola Whole Milk,2,0,0,0,0,0,0,0,0
+475,Maola 2% Reduced Fat Milk,2,0,0,0,0,0,0,0,0
+476,Maola Skim Milk,2,0,0,0,0,0,0,0,0
+477,Maola 1% Chocolate Milk,2,0,0,0,0,0,0,0,0
+478,100% Apple Juice,2,0,0,0,0,0,0,0,0
+479,100% Orange Juice,2,0,0,0,0,0,0,0,0
+480,Strawberry Kiwi Juice,2,0,0,0,0,0,0,0,0
+481,Larry's Coffee,2,0,0,0,0,0,0,0,0
+482,Larry's Decaf Coffee,2,0,0,0,0,0,0,0,0
+483,Southern Unsweet Tea,2,0,0,0,0,0,0,0,0
+484,Southern Sweet Tea,2,0,0,0,0,0,0,0,0
+485,Chocolate Soymilk,2,0,0,0,0,0,0,0,0
+486,Vanilla Soymilk,2,0,0,0,0,0,0,0,0
+487,Dr. Pepper,2,0,0,0,0,0,0,0,0
+488,Diet Dr. Pepper,2,0,0,0,0,0,0,0,0
+489,Root Beer,2,0,0,0,0,0,0,0,0
+490,Sunkist Orange,2,0,0,0,0,0,0,0,0
+491,Sierra Mist,2,0,0,0,0,0,0,0,0
+492,Tropicana Lemonade,2,0,0,0,0,0,0,0,0
+493,Tropicana Fruit Punch,2,0,0,0,0,0,0,0,0
+494,Mountain Dew,2,0,0,0,0,0,0,0,0
+495,Diet Mountain Dew,2,0,0,0,0,0,0,0,0
+496,SoBe Lifewater Pomegranate,2,0,0,0,0,0,0,0,0
+497,Brisk Green Tea Peach,2,0,0,0,0,0,0,0,0
+498,Cheerwine,2,0,0,0,0,0,0,0,0
+499,Diet Pepsi,2,0,0,0,0,0,0,0,0
+500,Pepsi,2,0,0,0,0,0,0,0,0
+501,Gatorade Fruit Punch,2,0,0,0,0,0,0,0,0
+502,Gatorade Orange,2,0,0,0,0,0,0,0,0
+503,Waffle Bar,3,0,0,0,0,0,0,0,0
+504,Cinnamon Donut Bites,3,0,0,0,0,0,0,0,0
+505,Chocolate Peanut Butter Cake,3,0,0,0,0,0,0,0,0
+506,Chocolate Chip Cookie,3,0,0,0,0,0,0,0,0
+507,Cake Batter Sugar Cookie,3,0,0,0,0,0,0,0,0
+508,Vanilla Soft Serve Ice Cream,3,0,0,0,0,0,0,0,0
+509,Chocolate Soft Serve Ice Cream,3,0,0,0,0,0,0,0,0
+510,Fudge Brownie,3,0,0,0,0,0,0,0,0
+511,Assorted Cookies,3,0,0,0,0,0,0,0,0
+512,Rice Krispie Treats,3,0,0,0,0,0,0,0,0
+513,Honey BBQ Chicken,3,0,0,0,0,0,0,0,0
+514,Steamed Corn,3,0,0,0,0,0,0,0,0
+515,Steamed Green Peas,3,0,0,0,0,0,0,0,0
+516,EVOO Mashed Potatoes,3,0,0,0,0,0,0,0,0
+517,Sweet Korean Flank Steak,3,0,0,0,0,0,0,0,0
+518,Sesame Garlic Bok Choy,3,0,0,0,0,0,0,0,0
+519,Roasted Mushrooms,3,0,0,0,0,0,0,0,0
+520,Basmati Rice,3,0,0,0,0,0,0,0,0
+521,Crispy Chicken Nuggets,3,0,0,0,0,0,0,0,0
+522,Smiley Fries,3,0,0,0,0,0,0,0,0
+523,Garden Burger Patty,3,0,0,0,0,0,0,0,0
+524,Black Bean Burger Patty,3,0,0,0,0,0,0,0,0
+525,Udi's Gluten-Free Hamburger Bun,3,0,0,0,0,0,0,0,0
+526,Hamburger Bun,3,0,0,0,0,0,0,0,0
+527,Vegan Cheddar Cheese,3,0,0,0,0,0,0,0,0
+528,Potato & Kale Enchiladas,3,0,0,0,0,0,0,0,0
+529,Fried Yucca,3,0,0,0,0,0,0,0,0
+530,Seasoned Black Beans,3,0,0,0,0,0,0,0,0
+531,White Rice,3,0,0,0,0,0,0,0,0
+532,Sunflower Seeds,3,0,0,0,0,0,0,0,0
+533,Confetti Corn Salad,3,0,0,0,0,0,0,0,0
+534,Romaine Lettuce,3,0,0,0,0,0,0,0,0
+535,Curry Chicken,3,0,0,0,0,0,0,0,0
+536,Vegan Cheese Pizza,3,0,0,0,0,0,0,0,0
+537,Classic Cheese Pizza,3,0,0,0,0,0,0,0,0
+538,Classic Pepperoni Pizza,3,0,0,0,0,0,0,0,0
+539,Cheese Bread ,3,0,0,0,0,0,0,0,0
+540,Spaghetti + Meatball Bake,3,0,0,0,0,0,0,0,0
+541,Alfredo Sauce,3,0,0,0,0,0,0,0,0
+542,Marinara Sauce ,3,0,0,0,0,0,0,0,0
+543,Penne Pasta,3,0,0,0,0,0,0,0,0
+544,White Chicken Chili,3,0,0,0,0,0,0,0,0
+545,Tuscan Minestrone Soup,3,0,0,0,0,0,0,0,0
+546,Ground Turkey Taco on Corn Tortilla,3,0,0,0,0,0,0,0,0
+547,Hot Tortilla Chips,3,0,0,0,0,0,0,0,0
+548,Chipotle Pinto Beans,3,0,0,0,0,0,0,0,0
+549,Queso Sauce ,3,0,0,0,0,0,0,0,0
+550,Jalapeno Peppers,3,0,0,0,0,0,0,0,0
+551,Iceberg Lettuce,3,0,0,0,0,0,0,0,0
+552,Black Olives,3,0,0,0,0,0,0,0,0
+553,Cheddar Cheese,3,0,0,0,0,0,0,0,0
+554,Pico Salsa,3,0,0,0,0,0,0,0,0
+555,Guacamole,3,0,0,0,0,0,0,0,0
+556,Sour Cream,3,0,0,0,0,0,0,0,0
+557,White Bread ,3,0,0,0,0,0,0,0,0
+558,Udi's Multigrain Bread,3,0,0,0,0,0,0,0,0
+559,Udi's White Bread,3,0,0,0,0,0,0,0,0
+560,Multigrain Bread,3,0,0,0,0,0,0,0,0
+561,Wheat Bread Slice,3,0,0,0,0,0,0,0,0
+562,Sourdough ,3,0,0,0,0,0,0,0,0
+563,Hoagie Roll,3,0,0,0,0,0,0,0,0
+564,12' Assorted Wraps,3,0,0,0,0,0,0,0,0
+565,Vegan American Sliced Cheese,3,0,0,0,0,0,0,0,0
+566,Sliced Ham,3,0,0,0,0,0,0,0,0
+567,Sliced Roast Beef,3,0,0,0,0,0,0,0,0
+568,Sliced Turkey,3,0,0,0,0,0,0,0,0
+569,Sliced Salami,3,0,0,0,0,0,0,0,0
+570,Chunky Chicken Salad,3,0,0,0,0,0,0,0,0
+571,Tuna Salad,3,0,0,0,0,0,0,0,0
+572,Grilled Chicken Breast,3,0,0,0,0,0,0,0,0
+573,Sliced Red Onion,3,0,0,0,0,0,0,0,0
+574,Heirloom Tomatoes,3,0,0,0,0,0,0,0,0
+575,Sliced Yellow American Cheese,3,0,0,0,0,0,0,0,0
+576,Sliced Pepper Jack Cheese,3,0,0,0,0,0,0,0,0
+577,Swiss Cheese,3,0,0,0,0,0,0,0,0
+578,Sliced Cheddar Cheese,3,0,0,0,0,0,0,0,0
+579,Black Olives,3,0,0,0,0,0,0,0,0
+580,Lettuce,3,0,0,0,0,0,0,0,0
+581,Sliced Dill Pickles ,3,0,0,0,0,0,0,0,0
+582,Banana Peppers,3,0,0,0,0,0,0,0,0
+583,Jalapeno Peppers,3,0,0,0,0,0,0,0,0
+584,Honey Chipotle Sauce,3,0,0,0,0,0,0,0,0
+585,Sriracha Mayonnaise,3,0,0,0,0,0,0,0,0
+586,Chipotle Mayonnaise,3,0,0,0,0,0,0,0,0
+587,Mayonnaise,3,0,0,0,0,0,0,0,0
+588,Yellow Mustard,3,0,0,0,0,0,0,0,0
+589,Spicy Brown Mustard,3,0,0,0,0,0,0,0,0
+590,Oil and Vinegar,3,0,0,0,0,0,0,0,0
+591,Nut-Free Pesto Sauce,3,0,0,0,0,0,0,0,0
+592,Strawberries,3,0,0,0,0,0,0,0,0
+593,Lite Italian Dressing,3,0,0,0,0,0,0,0,0
+594,Thousand Island Dressing,3,0,0,0,0,0,0,0,0
+595,Kidney Beans,3,0,0,0,0,0,0,0,0
+596,Low Fat Cottage Cheese,3,0,0,0,0,0,0,0,0
+597,Diced Chicken,3,0,0,0,0,0,0,0,0
+598,Vanilla Yogurt,3,0,0,0,0,0,0,0,0
+599,Oil and Vinegar,3,0,0,0,0,0,0,0,0
+600,Strawberry Yogurt,3,0,0,0,0,0,0,0,0
+601,Applesauce,3,0,0,0,0,0,0,0,0
+602,Kiwi,3,0,0,0,0,0,0,0,0
+603,Blueberries,3,0,0,0,0,0,0,0,0
+604,Strawberries,3,0,0,0,0,0,0,0,0
+605,Grapes,3,0,0,0,0,0,0,0,0
+606,Pineapple,3,0,0,0,0,0,0,0,0
+607,Honey Dew,3,0,0,0,0,0,0,0,0
+608,Cantaloupe,3,0,0,0,0,0,0,0,0
+609,Raisins,3,0,0,0,0,0,0,0,0
+610,Hummus,3,0,0,0,0,0,0,0,0
+611,Feta Cheese,3,0,0,0,0,0,0,0,0
+612,Cheddar Cheese,3,0,0,0,0,0,0,0,0
+613,Diced Tofu,3,0,0,0,0,0,0,0,0
+614,Quinoa,3,0,0,0,0,0,0,0,0
+615,Black Beans,3,0,0,0,0,0,0,0,0
+616,Garbanzo Beans,3,0,0,0,0,0,0,0,0
+617,Hard Boiled Eggs,3,0,0,0,0,0,0,0,0
+618,Bacon Bits,3,0,0,0,0,0,0,0,0
+619,Green Peppers,3,0,0,0,0,0,0,0,0
+620,Beets,3,0,0,0,0,0,0,0,0
+621,Sliced Red Onion,3,0,0,0,0,0,0,0,0
+622,Shredded Carrots,3,0,0,0,0,0,0,0,0
+623,Sliced Cucumber,3,0,0,0,0,0,0,0,0
+624,Grape Tomatoes,3,0,0,0,0,0,0,0,0
+625,Black Olives,3,0,0,0,0,0,0,0,0
+626,Spring Salad Mix,3,0,0,0,0,0,0,0,0
+627,Baby Spinach,3,0,0,0,0,0,0,0,0
+628,Iceberg Lettuce,3,0,0,0,0,0,0,0,0
+629,Croutons,3,0,0,0,0,0,0,0,0
+630,Sunflower Seeds,3,0,0,0,0,0,0,0,0
+631,Craisins,3,0,0,0,0,0,0,0,0
+632,Ranch Dressing,3,0,0,0,0,0,0,0,0
+633,Fat-Free Italian Dressing,3,0,0,0,0,0,0,0,0
+634,Fat-Free French Dressing,3,0,0,0,0,0,0,0,0
+635,Balsamic Vinaigrette,3,0,0,0,0,0,0,0,0
+636,Honey Mustard Dressing,3,0,0,0,0,0,0,0,0
+637,Blue Cheese Dressing,3,0,0,0,0,0,0,0,0
+638,Caesar Dressing,3,0,0,0,0,0,0,0,0
+639,Schar Ciabatta Roll,3,0,0,0,0,0,0,0,0
+640,JP's Brownie,3,0,0,0,0,0,0,0,0
+641,JP's GF Hawaiian Rolls,3,0,0,0,0,0,0,0,0
+642,JP's GF Vegan Chocolate Cupcake,3,0,0,0,0,0,0,0,0
+643,JP's Gluten-Free Blueberry Muffins,3,0,0,0,0,0,0,0,0
+644,JP's Key Lime Cheesecake Bar,3,0,0,0,0,0,0,0,0
+645,Katz Powdered Donut Holes,3,0,0,0,0,0,0,0,0
+646,Katz Cinnamon Donut Hole,3,0,0,0,0,0,0,0,0
+647,Katz Glazed Donut Holes,3,0,0,0,0,0,0,0,0
+648,Katz Oatmeal Creme Pie,3,0,0,0,0,0,0,0,0
+649,Kinnikinnick Birthday Cream Sandwich Cookie,3,0,0,0,0,0,0,0,0
+650,Kinnikinnick Mint Magic Sandwich Creme Cookies,3,0,0,0,0,0,0,0,0
+651,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,3,0,0,0,0,0,0,0,0
+652,Kinnikinnick Chocolate Sandwich Creme Cookies,3,0,0,0,0,0,0,0,0
+653,Kinnikinnick Cinnamon Sugar Donuts,3,0,0,0,0,0,0,0,0
+654,Kinnikinnick Vanilla Glazed Donuts,3,0,0,0,0,0,0,0,0
+655,O'Doughs Original Bagel,3,0,0,0,0,0,0,0,0
+656,O'doughs Everything Bagel,3,0,0,0,0,0,0,0,0
+657,O'Doughs Pumpernickel Bagel,3,0,0,0,0,0,0,0,0
+658,O'Doughs Original Sandwich Slices,3,0,0,0,0,0,0,0,0
+659,O'Doughs Multigrain Sandwich Slices,3,0,0,0,0,0,0,0,0
+660,Apple Jacks,3,0,0,0,0,0,0,0,0
+661,Cinnamon Toast Crunch,3,0,0,0,0,0,0,0,0
+662,Frosted Flakes,3,0,0,0,0,0,0,0,0
+663,Cocoa Puffs,3,0,0,0,0,0,0,0,0
+664,Lucky Charms,3,0,0,0,0,0,0,0,0
+665,Krave Chocolate Cereal,3,0,0,0,0,0,0,0,0
+666,Cheerios,3,0,0,0,0,0,0,0,0
+667,Raisin Bran,3,0,0,0,0,0,0,0,0
+668,Froot Loops,3,0,0,0,0,0,0,0,0
+669,Oats and Honey Granola,3,0,0,0,0,0,0,0,0
+670,Ranch,3,0,0,0,0,0,0,0,0
+671,Ketchup,3,0,0,0,0,0,0,0,0
+672,BBQ Sauce,3,0,0,0,0,0,0,0,0
+673,Sriracha Sauce,3,0,0,0,0,0,0,0,0
+674,Texas Pete Hot Sauce,3,0,0,0,0,0,0,0,0
+675,Mayonnaise,3,0,0,0,0,0,0,0,0
+676,Yellow Mustard,3,0,0,0,0,0,0,0,0
+677,Vegetable Cream Cheese,3,0,0,0,0,0,0,0,0
+678,Margarine,3,0,0,0,0,0,0,0,0
+679,Oil and Vinegar,3,0,0,0,0,0,0,0,0
+680,Tabasco Hot Sauce,3,0,0,0,0,0,0,0,0
+681,Grape Jelly,3,0,0,0,0,0,0,0,0
+682,Strawberry Jelly,3,0,0,0,0,0,0,0,0
+683,Peanut Butter,3,0,0,0,0,0,0,0,0
+684,Plain Cream Cheese Spread,3,0,0,0,0,0,0,0,0
+685,Strawberry Cream Cheese,3,0,0,0,0,0,0,0,0
+686,Chives and Onion Cream Cheese,3,0,0,0,0,0,0,0,0
+687,Plain Bagel,3,0,0,0,0,0,0,0,0
+688,Everything Bagel,3,0,0,0,0,0,0,0,0
+689,Blueberry Bagel,3,0,0,0,0,0,0,0,0
+690,Cheese Bagel,3,0,0,0,0,0,0,0,0
+691,Multigrain Bagel,3,0,0,0,0,0,0,0,0
+692,Rye Bread Slice,3,0,0,0,0,0,0,0,0
+693,Multigrain Bread,3,0,0,0,0,0,0,0,0
+694,Wheat Bread Slice,3,0,0,0,0,0,0,0,0
+695,Kaiser Roll,3,0,0,0,0,0,0,0,0
+696,Hoagie Roll,3,0,0,0,0,0,0,0,0
+697,100% Cranberry Juice,3,0,0,0,0,0,0,0,0
+698,Seasonal Hot Cocoa,3,0,0,0,0,0,0,0,0
+699,Seasonal Apple Cider,3,0,0,0,0,0,0,0,0
+700,Maola Whole Milk,3,0,0,0,0,0,0,0,0
+701,Maola 2% Reduced Fat Milk,3,0,0,0,0,0,0,0,0
+702,Maola Skim Milk,3,0,0,0,0,0,0,0,0
+703,Maola 1% Chocolate Milk,3,0,0,0,0,0,0,0,0
+704,100% Apple Juice,3,0,0,0,0,0,0,0,0
+705,100% Orange Juice,3,0,0,0,0,0,0,0,0
+706,Strawberry Kiwi Juice,3,0,0,0,0,0,0,0,0
+707,Larry's Coffee,3,0,0,0,0,0,0,0,0
+708,Larry's Decaf Coffee,3,0,0,0,0,0,0,0,0
+709,Southern Unsweet Tea,3,0,0,0,0,0,0,0,0
+710,Southern Sweet Tea,3,0,0,0,0,0,0,0,0
+711,Chocolate Soymilk,3,0,0,0,0,0,0,0,0
+712,Vanilla Soymilk,3,0,0,0,0,0,0,0,0
+713,Dr. Pepper,3,0,0,0,0,0,0,0,0
+714,Diet Dr. Pepper,3,0,0,0,0,0,0,0,0
+715,Root Beer,3,0,0,0,0,0,0,0,0
+716,Sunkist Orange,3,0,0,0,0,0,0,0,0
+717,Sierra Mist,3,0,0,0,0,0,0,0,0
+718,Tropicana Lemonade,3,0,0,0,0,0,0,0,0
+719,Tropicana Fruit Punch,3,0,0,0,0,0,0,0,0
+720,Mountain Dew,3,0,0,0,0,0,0,0,0
+721,Diet Mountain Dew,3,0,0,0,0,0,0,0,0
+722,SoBe Lifewater Pomegranate,3,0,0,0,0,0,0,0,0
+723,Brisk Green Tea Peach,3,0,0,0,0,0,0,0,0
+724,Cheerwine,3,0,0,0,0,0,0,0,0
+725,Diet Pepsi,3,0,0,0,0,0,0,0,0
+726,Pepsi,3,0,0,0,0,0,0,0,0
+727,Gatorade Fruit Punch,3,0,0,0,0,0,0,0,0
+728,Gatorade Orange,3,0,0,0,0,0,0,0,0
