@@ -17,7 +17,7 @@ app.use(function(req, res, next) {
 
 var obj = csv();
 
-function foodItems(n0,date,itemName,mealTime,vegan,vegetarian,smartChoice,local,organic,sustainableSeafood,madeWithoutGluten,halal
+function foodItems(n0,date,itemName,mealTime,vegan,vegetarian,smartChoice,local,organic,madeWithoutGluten,halal
   ) {
   this.n0 = n0;
   this.date = date;
@@ -28,7 +28,6 @@ function foodItems(n0,date,itemName,mealTime,vegan,vegetarian,smartChoice,local,
   this.smartChoice = smartChoice;
   this.local = local;
   this.organic = organic;
-  this.sustainableSeafood = sustainableSeafood;
   this.madeWithoutGluten = madeWithoutGluten;
   this.halal = halal;
 }; 
@@ -47,20 +46,33 @@ const filter = {
   // halal: "1",
 }
 
-
+let allFoodItemsByRestrictions = [];
 obj.from.path('./final.csv').to.array(function (data) {
     for (var index = 1; index < data.length; index++) {
         allFoodItems.push(new foodItems(data[index][0], data[index][1], data[index][2], data[index][3], data[index][4], data[index][5], data[index][6], data[index][7], data[index][8], data[index][9], data[index][10]));
     }
+    allFoodItemsByRestrictions = allFoodItems;
+    
 });
 
 app.get('/', (req, res) => {
   res.send(JSON.stringify(foodItems))
 })
 
+// let allFoodItemsByRestrictions = allFoodItems.filter(item => {
+  // for (let key in filter) {
+  //   if (item[key] === undefined || item[key] != filter[key]) {
+  //     return false
+  //   }
+  // }
+  // return true;
+//   return item.mealTime === "1"
+// })
+
 app.get('/getItems', (req, res) => {
   // res.send(allFoodItemsByRestrictions)
   const mealTime = req.params.mealTime;
+  console.log(allFoodItems)
   res.send(allFoodItems.filter(item => {
     for (let key in filter) {
       if (item[key] == undefined || item[key] != filter[key]) {
