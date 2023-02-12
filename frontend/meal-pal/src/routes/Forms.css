@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+
 .form-page {
     padding: 30px;
     text-align: center;
@@ -6,9 +8,3 @@
 .form-item {
     padding: 20px;
 }
-
-.button-font {
-    font-family: 'Arial';
-    font-size: 18px;
-    color: #FFF;
-  }
