@@ -3,8 +3,13 @@ import React from "react";
 function Forms() {
   const handleClick = () => {
     window.location.href = "/Forms";
-}
-    return (<div>
+  }
+
+  const handleSubmit = (event) => {
+    console.log("Success")
+  }
+  
+  return (<div>
         <form>
   <label>
     Name:
@@ -43,21 +48,16 @@ function Forms() {
         <option value="Halal">Halal</option>
         <option value="Vegetarian">Vegetarian</option>
         <option value="Vegan">Vegan</option>
-        <option value="Nut Allergy">Nut Allergy</option>
-        <option value="Gluten-Free">Gluten-Free</option>
-        <option value="Dairy-Free">Dairy-Free</option>
-        <option value="Egg Allergy">Egg Allergy</option>
+        <option value="Local">Local</option>
+        <option value="Organic">Organic</option>
+        <option value="Smart-Choice">Smart Choice</option>
       </select>
   </label>
 
   </div>
 
-
-
- 
-
-  <input class = "button" type="submit" value="Submit" />
-</form>
+    <button class = "button" type="submit" value="Submit" onSubmit = {handleSubmit}> Submit </button>
+    </form>
     </div>
     )
 }
