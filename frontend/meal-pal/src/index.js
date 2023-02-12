@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './components/App';
 import { BrowserRouter as Router, createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 import Home from './routes/Home';
 import Header from './components/Header';
+import Forms from './routes/Forms';
 
 import './index.css';
 
@@ -16,7 +16,11 @@ const router = createBrowserRouter([
   {
       path: 'header',
       element: <Header />
-  }
+  },
+  {
+    path: 'forms',
+    element: <Forms />
+  },
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
