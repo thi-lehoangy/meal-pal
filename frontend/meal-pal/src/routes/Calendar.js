@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { useLocation } from "react-router-dom";
 // import styled from "styled-components";
 
 function CalendarCell(props) {
@@ -18,11 +19,13 @@ function createCalendarCells(item, date, mealTime) {
 }
 
 function WeekendCalendar(props) {
-    const date = props.date
+  const date = props.date;
   return (
     <div>
       <p>Continental</p>
-      {props.posts.map((item) => createCalendarCells(item, date, "continental"))}
+      {props.posts.map((item) =>
+        createCalendarCells(item, date, "continental")
+      )}
       <p>Brunch</p>
       {props.posts.map((item) => createCalendarCells(item, date, "brunch"))}
       <p>Lite Lunch</p>
@@ -33,7 +36,21 @@ function WeekendCalendar(props) {
   );
 }
 
+function CalendarNavigation() {
+    return <div>
+        <p>Pick a date this week to see food menu</p>
+        <a href="./calendar/19">19</a><br/>
+        <a href="./calendar/20">20</a><br/>
+        <a href="./calendar/21">21</a><br/>
+        <a href="./calendar/22">22</a><br/>
+        <a href="./calendar/23">23</a><br/>
+    </div>
+}
+
 function Calendar() {
+  let params = useLocation().pathname.split("/")
+  let date = params[params.length - 1]
+//   const date = query.get(dateParam);
   const [posts, setPosts] = useState([]);
 
   useEffect(() => {
@@ -46,14 +63,13 @@ function Calendar() {
     fetchPost();
   }, []);
 
-  return <div>
-    <p>19</p>
-    <WeekendCalendar posts={posts} date="19" />
-    <p>20</p>
-    <WeekendCalendar posts={posts} date="20" />
-    <p>21</p>
-    <WeekendCalendar posts={posts} date="21" />
-    </div>;
+  return (
+    <div>
+      <p>{date}</p>
+      <WeekendCalendar posts={posts} date={date} />
+    </div>
+  );
 }
 
 export default Calendar;
+export { CalendarNavigation }
