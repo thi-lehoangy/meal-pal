@@ -1,0 +1,1155 @@
+date,itemName,mealTime,vegan,vegetarian,smartChoice,local,organic,madeWithoutGluten,halal
+23,Waffle Bar,0,0,1,0,0,0,0,0
+23,Apple Spice Cake,0,1,1,0,0,0,0,0
+23,Double Chocolate Chip Muffin,0,0,1,0,0,0,1,0
+23,Chocolate Croissant,0,0,1,0,0,0,0,0
+23,Apple Crumb Muffin,0,0,1,0,0,0,0,0
+23,Raisin Bran Muffin ,0,0,1,0,0,0,0,0
+23,Assorted Donuts,0,0,1,0,0,0,0,0
+23,Chocolate Soft Serve Ice Cream,0,0,1,0,0,0,1,0
+23,Vanilla Soft Serve Ice Cream,0,0,1,0,0,0,1,0
+23,Oatmeal,0,1,1,1,0,0,0,0
+23,Pancake Syrup ,0,1,1,0,0,0,1,0
+23,Southwest Tofu Scramble,0,1,1,1,0,0,1,0
+23,Impossible Sausage Patty,0,1,1,0,0,0,1,0
+23,Turkey Bacon,0,0,0,1,0,0,1,0
+23,Grits,0,1,1,1,0,0,1,0
+23,Buttermilk Pancakes,0,0,1,0,0,0,0,0
+23,Breakfast Potatoes,0,1,1,0,0,0,1,0
+23,Pork Sausage Patties,0,0,0,0,1,0,1,0
+23,Scrambled Eggs,0,0,1,1,0,0,1,0
+23,Pork Sausage Gravy,0,0,0,0,0,0,1,0
+23,Biscuits,0,0,1,0,0,0,0,0
+23,Shredded Monterey Jack Cheese,0,0,1,0,0,0,1,0
+23,Freshly Scrambled Eggs,0,0,0,0,0,0,0,0
+23,Pico de Gallo ,0,1,1,1,0,0,1,0
+23,Bacon Bits,0,0,0,0,0,0,1,0
+23,Flour Tortilla,0,1,1,0,0,0,0,0
+23,Frozen Strawberries,0,1,1,1,0,0,1,0
+23,Peaches,0,1,1,1,0,0,1,0
+23,Vanilla Greek Yogurt,0,0,1,0,0,0,1,0
+23,Blueberries,0,1,1,1,0,0,1,0
+23,Sliced Bananas,0,1,1,1,0,0,1,0
+23,Frozen Pineapple Cubes,0,1,1,1,0,0,1,0
+23,Frozen Mango ,0,1,1,1,0,0,1,0
+23,Baby Spinach,0,1,1,1,0,0,1,0
+23,100% Apple Juice,0,1,1,0,0,0,1,0
+23,100% Orange Juice,0,1,1,1,0,0,1,0
+23,Low Fat Cottage Cheese,0,0,1,1,0,0,1,0
+23,Strawberry Yogurt,0,0,1,1,0,0,1,0
+23,Vanilla Yogurt,0,0,1,1,0,0,1,0
+23,Applesauce,0,1,1,1,0,0,1,0
+23,Grapes,0,1,1,1,0,0,1,0
+23,Pineapple,0,1,1,1,0,0,1,0
+23,Honey Dew,0,1,1,1,0,0,1,0
+23,Cantaloupe,0,1,1,1,0,0,1,0
+23,Raisins,0,1,1,1,0,0,1,0
+23,Brown Sugar,0,1,1,0,0,0,1,0
+23,Schar Ciabatta Roll,0,1,1,0,0,0,1,0
+23,JP's Brownie,0,1,1,0,0,0,1,0
+23,JP's GF Hawaiian Rolls,0,0,1,0,0,0,1,0
+23,JP's GF Vegan Chocolate Cupcake,0,1,1,0,0,0,1,0
+23,JP's Gluten-Free Blueberry Muffins,0,0,0,0,0,0,1,0
+23,JP's Key Lime Cheesecake Bar,0,0,1,0,0,0,1,0
+23,Katz Powdered Donut Holes,0,0,1,0,0,0,1,0
+23,Katz Cinnamon Donut Hole,0,0,1,0,0,0,1,0
+23,Katz Glazed Donut Holes,0,0,1,0,0,0,1,0
+23,Katz Oatmeal Creme Pie,0,0,1,0,0,0,1,0
+23,Kinnikinnick Birthday Cream Sandwich Cookie,0,1,1,0,0,0,1,0
+23,Kinnikinnick Mint Magic Sandwich Creme Cookies,0,1,1,0,0,0,1,0
+23,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,0,1,1,0,0,0,1,0
+23,Kinnikinnick Chocolate Sandwich Creme Cookies,0,1,1,0,0,0,1,0
+23,Kinnikinnick Cinnamon Sugar Donuts,0,0,1,0,0,0,1,0
+23,Kinnikinnick Vanilla Glazed Donuts,0,0,1,0,0,0,1,0
+23,O'Doughs Original Bagel,0,1,1,0,0,0,1,0
+23,O'doughs Everything Bagel,0,1,1,0,0,0,1,0
+23,O'Doughs Pumpernickel Bagel,0,1,1,0,0,0,1,0
+23,O'Doughs Original Sandwich Slices,0,1,1,0,0,0,1,0
+23,O'Doughs Multigrain Sandwich Slices,0,1,1,0,0,0,1,0
+23,Apple Jacks,0,0,1,0,0,0,0,0
+23,Cinnamon Toast Crunch,0,0,1,0,0,0,0,0
+23,Frosted Flakes,0,0,1,0,0,0,0,0
+23,Cocoa Puffs,0,0,1,0,0,0,0,0
+23,Lucky Charms,0,0,0,0,0,0,0,0
+23,Krave Chocolate Cereal,0,0,1,0,0,0,0,0
+23,Cheerios,0,0,1,1,0,0,1,0
+23,Raisin Bran,0,0,1,0,0,0,0,0
+23,Froot Loops,0,0,1,0,0,0,0,0
+23,Oats and Honey Granola,0,0,1,0,0,0,0,0
+23,Ketchup,0,1,1,0,0,0,1,0
+23,Oil and Vinegar,0,1,1,1,0,0,1,0
+23,Strawberry Jelly,0,1,1,0,0,0,1,0
+23,Strawberry Cream Cheese,0,0,1,0,0,0,1,0
+23,Yellow Mustard,0,1,1,1,0,0,1,0
+23,Original Creamer,0,0,1,0,0,0,1,0
+23,French Vanilla Creamer,0,0,1,0,0,0,1,0
+23,Hazelnut Creamer,0,0,1,0,0,0,1,0
+23,Vegetable Cream Cheese,0,0,1,0,0,0,1,0
+23,Creamy Peanut Butter,0,1,1,0,0,0,1,0
+23,Texas Pete Hot Sauce,0,1,1,1,0,0,1,0
+23,Sriracha Sauce,0,1,1,0,0,0,1,0
+23,Ranch,0,0,1,0,0,0,1,0
+23,Grape Jelly,0,1,1,0,0,0,1,0
+23,Plain Cream Cheese Spread,0,0,1,0,0,0,1,0
+23,Margarine,0,1,1,0,0,0,1,0
+23,Plain Bagel,0,0,1,0,0,0,0,0
+23,Everything Bagel,0,0,1,0,0,0,0,0
+23,Blueberry Bagel,0,0,1,0,0,0,0,0
+23,Cheese Bagel,0,0,1,0,0,0,0,0
+23,Multigrain Bagel,0,1,1,0,0,0,0,0
+23,Rye Bread Slice,0,1,1,0,0,0,0,0
+23,Multigrain Bread,0,0,1,0,0,0,0,0
+23,Wheat Bread Slice,0,1,1,1,0,0,0,0
+23,Kaiser Roll,0,0,1,0,0,0,0,0
+23,Hoagie Roll,0,0,1,0,0,0,0,0
+23,100% Cranberry Juice,0,1,1,0,0,0,1,0
+23,Seasonal Hot Cocoa,0,0,1,0,0,0,1,0
+23,Seasonal Apple Cider,0,1,1,0,1,0,1,0
+23,Maola Whole Milk,0,0,1,0,0,0,1,0
+23,Maola 2% Reduced Fat Milk,0,0,1,0,0,0,1,0
+23,Maola Skim Milk,0,0,1,0,0,0,1,0
+23,Maola 1% Chocolate Milk,0,0,1,0,0,0,1,0
+23,100% Apple Juice,0,1,1,0,0,0,1,0
+23,100% Orange Juice,0,1,1,1,0,0,1,0
+23,Strawberry Kiwi Juice,0,1,1,0,0,0,1,0
+23,Larry's Coffee,0,1,1,1,1,1,1,0
+23,Larry's Decaf Coffee,0,1,1,1,1,1,1,0
+23,Southern Unsweet Tea,0,1,1,0,0,0,0,0
+23,Southern Sweet Tea,0,1,1,0,0,0,0,0
+23,Chocolate Soymilk,0,1,1,1,0,0,1,0
+23,Vanilla Soymilk,0,1,1,1,0,0,1,0
+23,Dr. Pepper,0,1,1,0,0,0,1,0
+23,Diet Dr. Pepper,0,1,1,0,0,0,1,0
+23,Root Beer,0,1,1,0,0,0,1,0
+23,Sunkist Orange,0,1,1,0,0,0,1,0
+23,Sierra Mist,0,1,1,0,0,0,1,0
+23,Tropicana Lemonade,0,1,1,0,0,0,1,0
+23,Tropicana Fruit Punch,0,1,1,0,0,0,1,0
+23,Mountain Dew,0,1,1,0,0,0,1,0
+23,Diet Mountain Dew,0,1,1,0,0,0,1,0
+23,SoBe Lifewater Pomegranate,0,1,1,0,0,0,0,0
+23,Brisk Green Tea Peach,0,1,1,0,0,0,0,0
+23,Cheerwine,0,1,1,0,0,0,1,0
+23,Diet Pepsi,0,1,1,0,0,0,1,0
+23,Pepsi,0,1,1,0,0,0,1,0
+23,Gatorade Fruit Punch,0,1,1,0,0,0,1,0
+23,Gatorade Orange,0,1,1,0,0,0,0,0
+23,Waffle Bar,1,0,1,0,0,0,0,0
+23,Texas Sheet Cake,1,0,1,0,0,0,1,0
+23,Peach Cobbler,1,1,1,0,0,0,0,0
+23,Chocolate Mousse Cake,1,0,1,0,0,0,0,0
+23,Vanilla Eclair Parfait,1,0,1,0,0,0,0,0
+23,Vanilla Soft Serve Ice Cream,1,0,1,0,0,0,1,0
+23,Chocolate Soft Serve Ice Cream,1,0,1,0,0,0,1,0
+23,Assorted Cookies,1,0,1,0,0,0,0,0
+23,Fudge Brownie,1,0,1,0,0,0,0,0
+23,Rice Krispie Treats,1,0,0,0,0,0,0,0
+23,Southwest Chicken,1,0,0,0,1,0,1,1
+23,Steamed Broccoli ,1,1,1,1,0,0,1,0
+23,White Rice,1,1,1,1,0,0,1,0
+23,Honey Glazed Baby Carrots,1,0,1,0,0,0,1,0
+23,Tomato Glazed Meatloaf,1,0,0,0,0,0,0,0
+23,Buttered Egg Noodles with Parsley,1,0,1,0,0,0,0,0
+23,Steamed Corn,1,1,1,1,0,0,1,0
+23,Steamed Green Peas,1,1,1,1,0,0,1,0
+23,Local Grass-fed Burger Patties,1,0,0,0,1,0,1,0
+23,Shoestring Fries,1,1,1,0,0,0,0,0
+23,Vegan Cheddar Cheese,1,1,1,0,0,0,0,0
+23,Garden Burger Patty,1,0,1,1,0,0,0,0
+23,Black Bean Burger Patty,1,0,1,1,0,0,0,0
+23,Hamburger Bun,1,1,1,0,0,0,0,0
+23,Udi's Gluten-Free Hamburger Bun,1,0,1,0,0,0,1,0
+23,Sliced Dill Pickles ,1,1,1,1,0,0,1,0
+23,Heirloom Tomatoes,1,1,1,1,0,0,1,0
+23,Sliced Yellow American Cheese,1,0,1,0,0,0,1,0
+23,BBQ Soy Nuggets,1,1,1,0,1,0,0,0
+23,Vegan Mashed Potatoes,1,1,1,1,0,0,1,0
+23,Steamed Whole Green Beans,1,1,1,1,0,0,1,0
+23,Frozen Strawberries,1,1,1,1,0,0,1,0
+23,Peaches,1,1,1,1,0,0,1,0
+23,Vanilla Greek Yogurt,1,0,1,0,0,0,1,0
+23,Blueberries,1,1,1,1,0,0,1,0
+23,Sliced Bananas,1,1,1,1,0,0,1,0
+23,Frozen Pineapple Cubes,1,1,1,1,0,0,1,0
+23,Frozen Mango ,1,1,1,1,0,0,1,0
+23,Baby Spinach,1,1,1,1,0,0,1,0
+23,100% Apple Juice,1,1,1,0,0,0,1,0
+23,100% Orange Juice,1,1,1,1,0,0,1,0
+23,Chicken & Potato Mash Bowl,1,0,0,0,0,0,0,0
+23,Sliced Pepperoni,1,0,0,0,0,0,1,0
+23,Goat Cheese and Spinach Pizza,1,0,1,0,0,0,0,0
+23,Honey Sriracha Chicken Pizza,1,0,0,0,0,0,0,0
+23,Diced Red Onions,1,1,1,1,0,0,1,0
+23,Spinach,1,1,1,1,0,0,1,0
+23,Pineapple,1,1,1,1,0,0,1,0
+23,Diced Chicken,1,0,0,1,0,0,0,0
+23,Ham,1,0,0,0,0,0,1,0
+23,Sauteed Sliced Mushrooms,1,0,0,0,0,0,0,0
+23,Vegan Cheese Pizza,1,1,1,0,0,0,0,0
+23,Black Olives,1,1,1,1,0,0,1,0
+23,Diced Jalapenos,1,1,1,0,0,0,1,0
+23,Banana Peppers,1,1,1,1,0,0,1,0
+23,Italian Sausage,1,0,0,0,0,0,1,0
+23,Green Peppers,1,1,1,1,0,0,1,0
+23,Classic Pepperoni Pizza,1,0,0,0,0,0,0,0
+23,Classic Cheese Pizza,1,0,1,0,0,0,0,0
+23,Smoked Salmon Sushi ,1,0,0,0,0,0,1,0
+23,Spicy Cucumber Roll,1,0,1,0,0,0,1,0
+23,Soy Sauce,1,1,1,0,0,0,0,0
+23,Sriracha Mayonnaise,1,0,1,0,0,0,1,0
+23,Marinara Sauce ,1,1,1,1,0,0,1,0
+23,Penne Pasta,1,1,1,0,0,0,0,0
+23,Tortellini Alla Vodka,1,0,1,0,0,0,0,0
+23,Alfredo Sauce,1,0,1,0,0,0,1,0
+23,Red Skin Potato Salad,1,0,1,0,0,0,1,0
+23,Classic Macaroni Salad,1,0,1,0,0,0,0,0
+23,Italian Lentil Salad,1,1,1,0,0,0,1,0
+23,Creamy Tomato ,1,0,1,0,0,0,1,0
+23,Ancho Vegetable Beef Soup,1,0,0,1,0,0,0,0
+23,Red Skin Potato Salad,1,0,1,0,0,0,1,0
+23,Classic Macaroni Salad,1,0,1,0,0,0,0,0
+23,Italian Lentil Salad,1,1,1,0,0,0,1,0
+23,White Bread ,1,1,1,0,0,0,0,0
+23,Udi's Multigrain Bread,1,0,1,0,0,0,1,0
+23,Udi's White Bread,1,0,1,0,0,0,1,0
+23,Multigrain Bread,1,1,1,1,0,0,0,0
+23,Wheat Bread Slice,1,1,1,1,0,0,0,0
+23,Sourdough ,1,0,1,0,0,0,0,0
+23,Hoagie Roll,1,0,1,0,0,0,0,0
+23,12' Assorted Wraps,1,1,1,0,0,0,0,0
+23,Vegan American Sliced Cheese,1,1,1,0,0,0,1,0
+23,Sliced Ham,1,0,0,0,0,0,1,0
+23,Sliced Roast Beef,1,0,0,0,0,0,1,0
+23,Sliced Turkey,1,0,0,1,0,0,1,0
+23,Sliced Salami,1,0,0,0,0,0,1,0
+23,Chunky Chicken Salad,1,0,0,0,0,0,1,0
+23,Tuna Salad,1,0,0,0,0,0,1,0
+23,Grilled Chicken Breast,1,0,0,0,0,0,1,0
+23,Sliced Red Onion,1,1,1,1,0,0,1,0
+23,Heirloom Tomatoes,1,1,1,1,0,0,1,0
+23,Sliced Yellow American Cheese,1,0,1,0,0,0,1,0
+23,Sliced Pepper Jack Cheese,1,0,1,0,0,0,1,0
+23,Swiss Cheese,1,0,1,0,0,0,1,0
+23,Sliced Cheddar Cheese,1,0,1,0,0,0,1,0
+23,Black Olives,1,1,1,1,0,0,1,0
+23,Lettuce,1,1,1,1,1,0,1,0
+23,Sliced Dill Pickles ,1,1,1,1,0,0,1,0
+23,Banana Peppers,1,1,1,1,0,0,1,0
+23,Jalapeno Peppers,1,1,1,1,0,0,1,0
+23,Honey Chipotle Sauce,1,0,1,0,0,0,1,0
+23,Sriracha Mayonnaise,1,0,1,0,0,0,1,0
+23,Chipotle Mayonnaise,1,0,1,0,0,0,1,0
+23,Mayonnaise,1,0,1,0,0,0,1,0
+23,Yellow Mustard,1,1,1,1,0,0,1,0
+23,Spicy Brown Mustard,1,1,1,1,0,0,1,0
+23,Oil and Vinegar,1,1,1,1,0,0,1,0
+23,Nut-Free Pesto Sauce,1,0,1,0,0,0,1,0
+23,Strawberries,1,1,1,1,0,0,1,0
+23,Lite Italian Dressing,1,1,1,0,0,0,1,0
+23,Thousand Island Dressing,1,0,1,0,0,0,1,0
+23,Kidney Beans,1,1,1,1,0,0,1,0
+23,Low Fat Cottage Cheese,1,0,1,1,0,0,1,0
+23,Diced Chicken,1,0,0,1,0,0,0,0
+23,Vanilla Yogurt,1,0,1,1,0,0,1,0
+23,Oil and Vinegar,1,1,1,1,0,0,1,0
+23,Strawberry Yogurt,1,0,1,1,0,0,1,0
+23,Applesauce,1,1,1,1,0,0,1,0
+23,Kiwi,1,1,1,1,0,0,1,0
+23,Blueberries,1,1,1,1,0,0,1,0
+23,Strawberries,1,1,1,1,0,0,1,0
+23,Grapes,1,1,1,1,0,0,1,0
+23,Pineapple,1,1,1,1,0,0,1,0
+23,Honey Dew,1,1,1,1,0,0,1,0
+23,Cantaloupe,1,1,1,1,0,0,1,0
+23,Raisins,1,1,1,1,0,0,1,0
+23,Hummus,1,1,1,1,0,0,1,0
+23,Feta Cheese,1,0,1,0,0,0,1,0
+23,Cheddar Cheese,1,0,1,0,0,0,1,0
+23,Diced Tofu,1,1,1,1,1,0,1,0
+23,Quinoa,1,1,1,1,0,0,1,0
+23,Black Beans,1,1,1,1,0,0,1,0
+23,Garbanzo Beans,1,1,1,1,0,0,1,0
+23,Hard Boiled Eggs,1,0,1,0,0,0,0,0
+23,Bacon Bits,1,0,0,0,0,0,1,0
+23,Green Peppers,1,1,1,1,0,0,1,0
+23,Beets,1,1,1,1,0,0,1,0
+23,Sliced Red Onion,1,1,1,1,0,0,1,0
+23,Shredded Carrots,1,1,1,1,0,0,1,0
+23,Sliced Cucumber,1,1,1,1,0,0,1,0
+23,Grape Tomatoes,1,1,1,1,0,0,1,0
+23,Black Olives,1,1,1,1,0,0,1,0
+23,Spring Salad Mix,1,1,1,1,1,0,1,0
+23,Baby Spinach,1,1,1,1,0,0,1,0
+23,Iceberg Lettuce,1,1,1,1,0,0,1,0
+23,Croutons,1,0,1,0,0,0,0,0
+23,Sunflower Seeds,1,1,1,1,0,0,1,0
+23,Craisins,1,1,1,1,0,0,1,0
+23,Ranch Dressing,1,0,1,0,0,0,1,0
+23,Fat-Free Italian Dressing,1,1,1,0,0,0,1,0
+23,Fat-Free French Dressing,1,1,1,0,0,0,1,0
+23,Balsamic Vinaigrette,1,1,1,0,0,0,1,0
+23,Honey Mustard Dressing,1,0,1,0,0,0,1,0
+23,Blue Cheese Dressing,1,0,1,0,0,0,1,0
+23,Caesar Dressing,1,0,0,0,0,0,1,0
+23,Schar Ciabatta Roll,1,1,1,0,0,0,1,0
+23,JP's Brownie,1,1,1,0,0,0,1,0
+23,JP's GF Hawaiian Rolls,1,0,1,0,0,0,1,0
+23,JP's GF Vegan Chocolate Cupcake,1,1,1,0,0,0,1,0
+23,JP's Gluten-Free Blueberry Muffins,1,0,0,0,0,0,1,0
+23,JP's Key Lime Cheesecake Bar,1,0,1,0,0,0,1,0
+23,Katz Powdered Donut Holes,1,0,1,0,0,0,1,0
+23,Katz Cinnamon Donut Hole,1,0,1,0,0,0,1,0
+23,Katz Glazed Donut Holes,1,0,1,0,0,0,1,0
+23,Katz Oatmeal Creme Pie,1,0,1,0,0,0,1,0
+23,Kinnikinnick Birthday Cream Sandwich Cookie,1,1,1,0,0,0,1,0
+23,Kinnikinnick Mint Magic Sandwich Creme Cookies,1,1,1,0,0,0,1,0
+23,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,1,1,1,0,0,0,1,0
+23,Kinnikinnick Chocolate Sandwich Creme Cookies,1,1,1,0,0,0,1,0
+23,Kinnikinnick Cinnamon Sugar Donuts,1,0,1,0,0,0,1,0
+23,Kinnikinnick Vanilla Glazed Donuts,1,0,1,0,0,0,1,0
+23,O'Doughs Original Bagel,1,1,1,0,0,0,1,0
+23,O'doughs Everything Bagel,1,1,1,0,0,0,1,0
+23,O'Doughs Pumpernickel Bagel,1,1,1,0,0,0,1,0
+23,O'Doughs Original Sandwich Slices,1,1,1,0,0,0,1,0
+23,O'Doughs Multigrain Sandwich Slices,1,1,1,0,0,0,1,0
+23,Apple Jacks,1,0,1,0,0,0,0,0
+23,Cinnamon Toast Crunch,1,0,1,0,0,0,0,0
+23,Frosted Flakes,1,0,1,0,0,0,0,0
+23,Cocoa Puffs,1,0,1,0,0,0,0,0
+23,Lucky Charms,1,0,0,0,0,0,0,0
+23,Krave Chocolate Cereal,1,0,1,0,0,0,0,0
+23,Cheerios,1,0,1,1,0,0,1,0
+23,Raisin Bran,1,0,1,0,0,0,0,0
+23,Froot Loops,1,0,1,0,0,0,0,0
+23,Oats and Honey Granola,1,0,1,0,0,0,0,0
+23,Ranch,1,0,1,0,0,0,1,0
+23,Ketchup,1,1,1,0,0,0,1,0
+23,BBQ Sauce,1,1,1,0,0,0,1,0
+23,Sriracha Sauce,1,1,1,0,0,0,1,0
+23,Texas Pete Hot Sauce,1,1,1,1,0,0,1,0
+23,Mayonnaise,1,0,1,0,0,0,1,0
+23,Yellow Mustard,1,1,1,1,0,0,1,0
+23,Vegetable Cream Cheese,1,0,1,0,0,0,1,0
+23,Margarine,1,1,1,0,0,0,1,0
+23,Oil and Vinegar,1,1,1,1,0,0,1,0
+23,Tabasco Hot Sauce,1,1,1,1,0,0,1,0
+23,Grape Jelly,1,1,1,0,0,0,1,0
+23,Strawberry Jelly,1,1,1,0,0,0,1,0
+23,Peanut Butter,1,1,1,0,0,0,1,0
+23,Plain Cream Cheese Spread,1,0,1,0,0,0,1,0
+23,Strawberry Cream Cheese,1,0,1,0,0,0,1,0
+23,Chives and Onion Cream Cheese,1,0,1,1,0,0,1,0
+23,Plain Bagel,1,0,1,0,0,0,0,0
+23,Everything Bagel,1,0,1,0,0,0,0,0
+23,Blueberry Bagel,1,0,1,0,0,0,0,0
+23,Cheese Bagel,1,0,1,0,0,0,0,0
+23,Multigrain Bagel,1,1,1,0,0,0,0,0
+23,Rye Bread Slice,1,1,1,0,0,0,0,0
+23,Multigrain Bread,1,0,1,0,0,0,0,0
+23,Wheat Bread Slice,1,1,1,1,0,0,0,0
+23,Kaiser Roll,1,0,1,0,0,0,0,0
+23,Hoagie Roll,1,0,1,0,0,0,0,0
+23,100% Cranberry Juice,1,1,1,0,0,0,1,0
+23,Seasonal Hot Cocoa,1,0,1,0,0,0,1,0
+23,Seasonal Apple Cider,1,1,1,0,1,0,1,0
+23,Maola Whole Milk,1,0,1,0,0,0,1,0
+23,Maola 2% Reduced Fat Milk,1,0,1,0,0,0,1,0
+23,Maola Skim Milk,1,0,1,0,0,0,1,0
+23,Maola 1% Chocolate Milk,1,0,1,0,0,0,1,0
+23,100% Apple Juice,1,1,1,0,0,0,1,0
+23,100% Orange Juice,1,1,1,1,0,0,1,0
+23,Strawberry Kiwi Juice,1,1,1,0,0,0,1,0
+23,Larry's Coffee,1,1,1,1,1,1,1,0
+23,Larry's Decaf Coffee,1,1,1,1,1,1,1,0
+23,Southern Unsweet Tea,1,1,1,0,0,0,0,0
+23,Southern Sweet Tea,1,1,1,0,0,0,0,0
+23,Chocolate Soymilk,1,1,1,1,0,0,1,0
+23,Vanilla Soymilk,1,1,1,1,0,0,1,0
+23,Dr. Pepper,1,1,1,0,0,0,1,0
+23,Diet Dr. Pepper,1,1,1,0,0,0,1,0
+23,Root Beer,1,1,1,0,0,0,1,0
+23,Sunkist Orange,1,1,1,0,0,0,1,0
+23,Sierra Mist,1,1,1,0,0,0,1,0
+23,Tropicana Lemonade,1,1,1,0,0,0,1,0
+23,Tropicana Fruit Punch,1,1,1,0,0,0,1,0
+23,Mountain Dew,1,1,1,0,0,0,1,0
+23,Diet Mountain Dew,1,1,1,0,0,0,1,0
+23,SoBe Lifewater Pomegranate,1,1,1,0,0,0,0,0
+23,Brisk Green Tea Peach,1,1,1,0,0,0,0,0
+23,Cheerwine,1,1,1,0,0,0,1,0
+23,Diet Pepsi,1,1,1,0,0,0,1,0
+23,Pepsi,1,1,1,0,0,0,1,0
+23,Gatorade Fruit Punch,1,1,1,0,0,0,1,0
+23,Gatorade Orange,1,1,1,0,0,0,0,0
+23,Waffle Bar,2,0,1,0,0,0,0,0
+23,Assorted Cookies,2,0,1,0,0,0,0,0
+23,Rice Krispie Treats,2,0,0,0,0,0,0,0
+23,Fudge Brownie,2,0,1,0,0,0,0,0
+23,Chocolate Soft Serve Ice Cream,2,0,1,0,0,0,1,0
+23,Vanilla Soft Serve Ice Cream,2,0,1,0,0,0,1,0
+23,Classic Cheese Pizza,2,0,1,0,0,0,0,0
+23,Classic Pepperoni Pizza,2,0,0,0,0,0,0,0
+23,Cheese Bread ,2,0,1,0,0,0,0,0
+23,Creamy Tomato ,2,0,1,0,0,0,1,0
+23,Ancho Vegetable Beef Soup,2,0,0,1,0,0,0,0
+23,White Bread ,2,1,1,0,0,0,0,0
+23,Udi's Multigrain Bread,2,0,1,0,0,0,1,0
+23,Udi's White Bread,2,0,1,0,0,0,1,0
+23,Multigrain Bread,2,1,1,1,0,0,0,0
+23,Wheat Bread Slice,2,1,1,1,0,0,0,0
+23,Sourdough ,2,0,1,0,0,0,0,0
+23,Hoagie Roll,2,0,1,0,0,0,0,0
+23,12' Assorted Wraps,2,1,1,0,0,0,0,0
+23,Vegan American Sliced Cheese,2,1,1,0,0,0,1,0
+23,Sliced Ham,2,0,0,0,0,0,1,0
+23,Sliced Roast Beef,2,0,0,0,0,0,1,0
+23,Sliced Turkey,2,0,0,1,0,0,1,0
+23,Sliced Salami,2,0,0,0,0,0,1,0
+23,Chunky Chicken Salad,2,0,0,0,0,0,1,0
+23,Tuna Salad,2,0,0,0,0,0,1,0
+23,Grilled Chicken Breast,2,0,0,0,0,0,1,0
+23,Sliced Red Onion,2,1,1,1,0,0,1,0
+23,Heirloom Tomatoes,2,1,1,1,0,0,1,0
+23,Sliced Yellow American Cheese,2,0,1,0,0,0,1,0
+23,Sliced Pepper Jack Cheese,2,0,1,0,0,0,1,0
+23,Swiss Cheese,2,0,1,0,0,0,1,0
+23,Sliced Cheddar Cheese,2,0,1,0,0,0,1,0
+23,Black Olives,2,1,1,1,0,0,1,0
+23,Lettuce,2,1,1,1,1,0,1,0
+23,Sliced Dill Pickles ,2,1,1,1,0,0,1,0
+23,Banana Peppers,2,1,1,1,0,0,1,0
+23,Jalapeno Peppers,2,1,1,1,0,0,1,0
+23,Honey Chipotle Sauce,2,0,1,0,0,0,1,0
+23,Sriracha Mayonnaise,2,0,1,0,0,0,1,0
+23,Chipotle Mayonnaise,2,0,1,0,0,0,1,0
+23,Mayonnaise,2,0,1,0,0,0,1,0
+23,Yellow Mustard,2,1,1,1,0,0,1,0
+23,Spicy Brown Mustard,2,1,1,1,0,0,1,0
+23,Oil and Vinegar,2,1,1,1,0,0,1,0
+23,Nut-Free Pesto Sauce,2,0,1,0,0,0,1,0
+23,Strawberries,2,1,1,1,0,0,1,0
+23,Lite Italian Dressing,2,1,1,0,0,0,1,0
+23,Thousand Island Dressing,2,0,1,0,0,0,1,0
+23,Kidney Beans,2,1,1,1,0,0,1,0
+23,Low Fat Cottage Cheese,2,0,1,1,0,0,1,0
+23,Diced Chicken,2,0,0,1,0,0,0,0
+23,Vanilla Yogurt,2,0,1,1,0,0,1,0
+23,Oil and Vinegar,2,1,1,1,0,0,1,0
+23,Strawberry Yogurt,2,0,1,1,0,0,1,0
+23,Applesauce,2,1,1,1,0,0,1,0
+23,Kiwi,2,1,1,1,0,0,1,0
+23,Blueberries,2,1,1,1,0,0,1,0
+23,Strawberries,2,1,1,1,0,0,1,0
+23,Grapes,2,1,1,1,0,0,1,0
+23,Pineapple,2,1,1,1,0,0,1,0
+23,Honey Dew,2,1,1,1,0,0,1,0
+23,Cantaloupe,2,1,1,1,0,0,1,0
+23,Raisins,2,1,1,1,0,0,1,0
+23,Hummus,2,1,1,1,0,0,1,0
+23,Feta Cheese,2,0,1,0,0,0,1,0
+23,Cheddar Cheese,2,0,1,0,0,0,1,0
+23,Diced Tofu,2,1,1,1,1,0,1,0
+23,Quinoa,2,1,1,1,0,0,1,0
+23,Black Beans,2,1,1,1,0,0,1,0
+23,Garbanzo Beans,2,1,1,1,0,0,1,0
+23,Hard Boiled Eggs,2,0,1,0,0,0,0,0
+23,Bacon Bits,2,0,0,0,0,0,1,0
+23,Green Peppers,2,1,1,1,0,0,1,0
+23,Beets,2,1,1,1,0,0,1,0
+23,Sliced Red Onion,2,1,1,1,0,0,1,0
+23,Shredded Carrots,2,1,1,1,0,0,1,0
+23,Sliced Cucumber,2,1,1,1,0,0,1,0
+23,Grape Tomatoes,2,1,1,1,0,0,1,0
+23,Black Olives,2,1,1,1,0,0,1,0
+23,Spring Salad Mix,2,1,1,1,1,0,1,0
+23,Baby Spinach,2,1,1,1,0,0,1,0
+23,Iceberg Lettuce,2,1,1,1,0,0,1,0
+23,Croutons,2,0,1,0,0,0,0,0
+23,Sunflower Seeds,2,1,1,1,0,0,1,0
+23,Craisins,2,1,1,1,0,0,1,0
+23,Ranch Dressing,2,0,1,0,0,0,1,0
+23,Fat-Free Italian Dressing,2,1,1,0,0,0,1,0
+23,Fat-Free French Dressing,2,1,1,0,0,0,1,0
+23,Balsamic Vinaigrette,2,1,1,0,0,0,1,0
+23,Honey Mustard Dressing,2,0,1,0,0,0,1,0
+23,Blue Cheese Dressing,2,0,1,0,0,0,1,0
+23,Caesar Dressing,2,0,0,0,0,0,1,0
+23,Schar Ciabatta Roll,2,1,1,0,0,0,1,0
+23,JP's Brownie,2,1,1,0,0,0,1,0
+23,JP's GF Hawaiian Rolls,2,0,1,0,0,0,1,0
+23,JP's GF Vegan Chocolate Cupcake,2,1,1,0,0,0,1,0
+23,JP's Gluten-Free Blueberry Muffins,2,0,0,0,0,0,1,0
+23,JP's Key Lime Cheesecake Bar,2,0,1,0,0,0,1,0
+23,Katz Powdered Donut Holes,2,0,1,0,0,0,1,0
+23,Katz Cinnamon Donut Hole,2,0,1,0,0,0,1,0
+23,Katz Glazed Donut Holes,2,0,1,0,0,0,1,0
+23,Katz Oatmeal Creme Pie,2,0,1,0,0,0,1,0
+23,Kinnikinnick Birthday Cream Sandwich Cookie,2,1,1,0,0,0,1,0
+23,Kinnikinnick Mint Magic Sandwich Creme Cookies,2,1,1,0,0,0,1,0
+23,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,2,1,1,0,0,0,1,0
+23,Kinnikinnick Chocolate Sandwich Creme Cookies,2,1,1,0,0,0,1,0
+23,Kinnikinnick Cinnamon Sugar Donuts,2,0,1,0,0,0,1,0
+23,Kinnikinnick Vanilla Glazed Donuts,2,0,1,0,0,0,1,0
+23,O'Doughs Original Bagel,2,1,1,0,0,0,1,0
+23,O'doughs Everything Bagel,2,1,1,0,0,0,1,0
+23,O'Doughs Pumpernickel Bagel,2,1,1,0,0,0,1,0
+23,O'Doughs Original Sandwich Slices,2,1,1,0,0,0,1,0
+23,O'Doughs Multigrain Sandwich Slices,2,1,1,0,0,0,1,0
+23,Apple Jacks,2,0,1,0,0,0,0,0
+23,Cinnamon Toast Crunch,2,0,1,0,0,0,0,0
+23,Frosted Flakes,2,0,1,0,0,0,0,0
+23,Cocoa Puffs,2,0,1,0,0,0,0,0
+23,Lucky Charms,2,0,0,0,0,0,0,0
+23,Krave Chocolate Cereal,2,0,1,0,0,0,0,0
+23,Cheerios,2,0,1,1,0,0,1,0
+23,Raisin Bran,2,0,1,0,0,0,0,0
+23,Froot Loops,2,0,1,0,0,0,0,0
+23,Oats and Honey Granola,2,0,1,0,0,0,0,0
+23,Ketchup,2,1,1,0,0,0,1,0
+23,Oil and Vinegar,2,1,1,1,0,0,1,0
+23,Strawberry Jelly,2,1,1,0,0,0,1,0
+23,Strawberry Cream Cheese,2,0,1,0,0,0,1,0
+23,Yellow Mustard,2,1,1,1,0,0,1,0
+23,Original Creamer,2,0,1,0,0,0,1,0
+23,French Vanilla Creamer,2,0,1,0,0,0,1,0
+23,Hazelnut Creamer,2,0,1,0,0,0,1,0
+23,Vegetable Cream Cheese,2,0,1,0,0,0,1,0
+23,Creamy Peanut Butter,2,1,1,0,0,0,1,0
+23,Texas Pete Hot Sauce,2,1,1,1,0,0,1,0
+23,Sriracha Sauce,2,1,1,0,0,0,1,0
+23,Ranch,2,0,1,0,0,0,1,0
+23,Grape Jelly,2,1,1,0,0,0,1,0
+23,Plain Cream Cheese Spread,2,0,1,0,0,0,1,0
+23,Margarine,2,1,1,0,0,0,1,0
+23,Plain Bagel,2,0,1,0,0,0,0,0
+23,Everything Bagel,2,0,1,0,0,0,0,0
+23,Blueberry Bagel,2,0,1,0,0,0,0,0
+23,Cheese Bagel,2,0,1,0,0,0,0,0
+23,Multigrain Bagel,2,1,1,0,0,0,0,0
+23,Rye Bread Slice,2,1,1,0,0,0,0,0
+23,Multigrain Bread,2,0,1,0,0,0,0,0
+23,Wheat Bread Slice,2,1,1,1,0,0,0,0
+23,Kaiser Roll,2,0,1,0,0,0,0,0
+23,Hoagie Roll,2,0,1,0,0,0,0,0
+23,100% Cranberry Juice,2,1,1,0,0,0,1,0
+23,Seasonal Hot Cocoa,2,0,1,0,0,0,1,0
+23,Seasonal Apple Cider,2,1,1,0,1,0,1,0
+23,Maola Whole Milk,2,0,1,0,0,0,1,0
+23,Maola 2% Reduced Fat Milk,2,0,1,0,0,0,1,0
+23,Maola Skim Milk,2,0,1,0,0,0,1,0
+23,Maola 1% Chocolate Milk,2,0,1,0,0,0,1,0
+23,100% Apple Juice,2,1,1,0,0,0,1,0
+23,100% Orange Juice,2,1,1,1,0,0,1,0
+23,Strawberry Kiwi Juice,2,1,1,0,0,0,1,0
+23,Larry's Coffee,2,1,1,1,1,1,1,0
+23,Larry's Decaf Coffee,2,1,1,1,1,1,1,0
+23,Southern Unsweet Tea,2,1,1,0,0,0,0,0
+23,Southern Sweet Tea,2,1,1,0,0,0,0,0
+23,Chocolate Soymilk,2,1,1,1,0,0,1,0
+23,Vanilla Soymilk,2,1,1,1,0,0,1,0
+23,Dr. Pepper,2,1,1,0,0,0,1,0
+23,Diet Dr. Pepper,2,1,1,0,0,0,1,0
+23,Root Beer,2,1,1,0,0,0,1,0
+23,Sunkist Orange,2,1,1,0,0,0,1,0
+23,Sierra Mist,2,1,1,0,0,0,1,0
+23,Tropicana Lemonade,2,1,1,0,0,0,1,0
+23,Tropicana Fruit Punch,2,1,1,0,0,0,1,0
+23,Mountain Dew,2,1,1,0,0,0,1,0
+23,Diet Mountain Dew,2,1,1,0,0,0,1,0
+23,SoBe Lifewater Pomegranate,2,1,1,0,0,0,0,0
+23,Brisk Green Tea Peach,2,1,1,0,0,0,0,0
+23,Cheerwine,2,1,1,0,0,0,1,0
+23,Diet Pepsi,2,1,1,0,0,0,1,0
+23,Pepsi,2,1,1,0,0,0,1,0
+23,Gatorade Fruit Punch,2,1,1,0,0,0,1,0
+23,Gatorade Orange,2,1,1,0,0,0,0,0
+23,Waffle Bar,3,0,1,0,0,0,0,0
+23,Texas Sheet Cake,3,0,1,0,0,0,1,0
+23,Peach Cobbler,3,1,1,0,0,0,0,0
+23,Chocolate Mousse Cake,3,0,1,0,0,0,0,0
+23,Vanilla Eclair Parfait,3,0,1,0,0,0,0,0
+23,Vanilla Soft Serve Ice Cream,3,0,1,0,0,0,1,0
+23,Chocolate Soft Serve Ice Cream,3,0,1,0,0,0,1,0
+23,Assorted Cookies,3,0,1,0,0,0,0,0
+23,Fudge Brownie,3,0,1,0,0,0,0,0
+23,Rice Krispie Treats,3,0,0,0,0,0,0,0
+23,Roasted Al Pastor Pork,3,0,0,0,0,0,1,0
+23,Mashed Sweet Potatoes,3,0,1,1,0,0,1,0
+23,Simply Roasted Green Chili Corn,3,1,1,1,0,0,1,0
+23,Steamed Whole Green Beans,3,1,1,1,0,0,1,0
+23,Sesame Shrimp Taco,3,0,0,0,0,0,0,0
+23,Vegetable Egg Roll,3,0,1,0,0,0,0,0
+23,Roasted Garlic Green Beans,3,1,1,1,0,0,1,0
+23,Chipotle BBQ Chicken,3,0,0,0,0,0,0,0
+23,Shoestring Fries,3,1,1,0,0,0,0,0
+23,Black Bean Burger Patty,3,0,1,1,0,0,0,0
+23,Garden Burger Patty,3,0,1,1,0,0,0,0
+23,Udi's Gluten-Free Hamburger Bun,3,0,1,0,0,0,1,0
+23,Hamburger Bun,3,1,1,0,0,0,0,0
+23,Vegan Cheddar Cheese,3,1,1,0,0,0,0,0
+23,Vegan Breakfast Bowl,3,1,1,0,0,0,1,0
+23,Breakfast Potatoes,3,1,1,0,0,0,1,0
+23,Vegan Breakfast Bowl,3,1,1,0,0,0,1,0
+23,Hot Tortilla Chips,3,1,1,0,0,0,1,0
+23,Chicken Mushroom Marsala Bowl,3,0,0,0,0,0,0,0
+23,Goat Cheese and Spinach Pizza,3,0,1,0,0,0,0,0
+23,Classic Pepperoni Pizza,3,0,0,0,0,0,0,0
+23,Classic Cheese Pizza,3,0,1,0,0,0,0,0
+23,Cheese Bread ,3,0,1,0,0,0,0,0
+23,Honey Sriracha Chicken Pizza,3,0,0,0,0,0,0,0
+23,Vegan Cheese Pizza,3,1,1,0,0,0,0,0
+23,Smoked Salmon Sushi ,3,0,0,0,0,0,1,0
+23,Spicy Cucumber Roll,3,0,1,0,0,0,1,0
+23,Soy Sauce,3,1,1,0,0,0,0,0
+23,Sriracha Mayonnaise,3,0,1,0,0,0,1,0
+23,Tortellini with Meat Sauce,3,0,0,0,0,0,0,0
+23,Alfredo Sauce,3,0,1,0,0,0,1,0
+23,Penne Pasta,3,1,1,0,0,0,0,0
+23,Marinara Sauce ,3,1,1,1,0,0,1,0
+23,Red Skin Potato Salad,3,0,1,0,0,0,1,0
+23,Classic Macaroni Salad,3,0,1,0,0,0,0,0
+23,Italian Lentil Salad,3,1,1,0,0,0,1,0
+23,Creamy Tomato ,3,0,1,0,0,0,1,0
+23,Ancho Vegetable Beef Soup,3,0,0,1,0,0,0,0
+23,Chipotle Pulled Pork,3,0,0,0,0,0,1,0
+23,Chipotle Pinto Beans,3,1,1,1,0,0,1,0
+23,Guacamole,3,1,1,1,0,0,1,0
+23,Sour Cream,3,0,0,0,0,0,1,0
+23,Pico Salsa,3,1,1,1,0,0,1,0
+23,Cheddar Cheese,3,0,1,0,0,0,1,0
+23,Black Olives,3,1,1,1,0,0,1,0
+23,Iceberg Lettuce,3,1,1,1,1,0,1,0
+23,Jalapeno Peppers,3,1,1,1,0,0,1,0
+23,Queso Sauce ,3,0,1,0,0,0,1,0
+23,Hot Tortilla Chips,3,1,1,0,0,0,1,0
+23,Cilantro Marinated Chicken,3,0,0,1,1,0,1,0
+23,Shredded Parmesan Cheese,3,0,1,0,0,0,1,0
+23,Italian Sausage,3,0,0,0,0,0,1,0
+23,Mushrooms,3,1,1,1,0,0,1,0
+23,Sliced Onions,3,1,1,1,0,0,1,0
+23,Mixed Bell Peppers,3,1,1,1,0,0,1,0
+23,Artichoke Hearts,3,1,1,1,0,0,1,0
+23,Kalamata Olives,3,1,1,1,0,0,1,0
+23,Bacon Bits,3,0,0,0,0,0,1,0
+23,Diced Ham,3,0,0,0,0,0,1,0
+23,Marinara Sauce ,3,1,1,1,0,0,1,0
+23,Alfredo Sauce,3,0,1,0,0,0,1,0
+23,Gemelli Pasta,3,1,1,0,0,0,0,0
+23,White Bread ,3,1,1,0,0,0,0,0
+23,Udi's Multigrain Bread,3,0,1,0,0,0,1,0
+23,Udi's White Bread,3,0,1,0,0,0,1,0
+23,Multigrain Bread,3,1,1,1,0,0,0,0
+23,Wheat Bread Slice,3,1,1,1,0,0,0,0
+23,Sourdough ,3,0,1,0,0,0,0,0
+23,Hoagie Roll,3,0,1,0,0,0,0,0
+23,12' Assorted Wraps,3,1,1,0,0,0,0,0
+23,Vegan American Sliced Cheese,3,1,1,0,0,0,1,0
+23,Sliced Ham,3,0,0,0,0,0,1,0
+23,Sliced Roast Beef,3,0,0,0,0,0,1,0
+23,Sliced Turkey,3,0,0,1,0,0,1,0
+23,Sliced Salami,3,0,0,0,0,0,1,0
+23,Chunky Chicken Salad,3,0,0,0,0,0,1,0
+23,Tuna Salad,3,0,0,0,0,0,1,0
+23,Grilled Chicken Breast,3,0,0,0,0,0,1,0
+23,Sliced Red Onion,3,1,1,1,0,0,1,0
+23,Heirloom Tomatoes,3,1,1,1,0,0,1,0
+23,Sliced Yellow American Cheese,3,0,1,0,0,0,1,0
+23,Sliced Pepper Jack Cheese,3,0,1,0,0,0,1,0
+23,Swiss Cheese,3,0,1,0,0,0,1,0
+23,Sliced Cheddar Cheese,3,0,1,0,0,0,1,0
+23,Black Olives,3,1,1,1,0,0,1,0
+23,Lettuce,3,1,1,1,1,0,1,0
+23,Sliced Dill Pickles ,3,1,1,1,0,0,1,0
+23,Banana Peppers,3,1,1,1,0,0,1,0
+23,Jalapeno Peppers,3,1,1,1,0,0,1,0
+23,Honey Chipotle Sauce,3,0,1,0,0,0,1,0
+23,Sriracha Mayonnaise,3,0,1,0,0,0,1,0
+23,Chipotle Mayonnaise,3,0,1,0,0,0,1,0
+23,Mayonnaise,3,0,1,0,0,0,1,0
+23,Yellow Mustard,3,1,1,1,0,0,1,0
+23,Spicy Brown Mustard,3,1,1,1,0,0,1,0
+23,Oil and Vinegar,3,1,1,1,0,0,1,0
+23,Nut-Free Pesto Sauce,3,0,1,0,0,0,1,0
+23,Strawberries,3,1,1,1,0,0,1,0
+23,Lite Italian Dressing,3,1,1,0,0,0,1,0
+23,Thousand Island Dressing,3,0,1,0,0,0,1,0
+23,Kidney Beans,3,1,1,1,0,0,1,0
+23,Low Fat Cottage Cheese,3,0,1,1,0,0,1,0
+23,Diced Chicken,3,0,0,1,0,0,0,0
+23,Vanilla Yogurt,3,0,1,1,0,0,1,0
+23,Oil and Vinegar,3,1,1,1,0,0,1,0
+23,Strawberry Yogurt,3,0,1,1,0,0,1,0
+23,Applesauce,3,1,1,1,0,0,1,0
+23,Kiwi,3,1,1,1,0,0,1,0
+23,Blueberries,3,1,1,1,0,0,1,0
+23,Strawberries,3,1,1,1,0,0,1,0
+23,Grapes,3,1,1,1,0,0,1,0
+23,Pineapple,3,1,1,1,0,0,1,0
+23,Honey Dew,3,1,1,1,0,0,1,0
+23,Cantaloupe,3,1,1,1,0,0,1,0
+23,Raisins,3,1,1,1,0,0,1,0
+23,Hummus,3,1,1,1,0,0,1,0
+23,Feta Cheese,3,0,1,0,0,0,1,0
+23,Cheddar Cheese,3,0,1,0,0,0,1,0
+23,Diced Tofu,3,1,1,1,1,0,1,0
+23,Quinoa,3,1,1,1,0,0,1,0
+23,Black Beans,3,1,1,1,0,0,1,0
+23,Garbanzo Beans,3,1,1,1,0,0,1,0
+23,Hard Boiled Eggs,3,0,1,0,0,0,0,0
+23,Bacon Bits,3,0,0,0,0,0,1,0
+23,Green Peppers,3,1,1,1,0,0,1,0
+23,Beets,3,1,1,1,0,0,1,0
+23,Sliced Red Onion,3,1,1,1,0,0,1,0
+23,Shredded Carrots,3,1,1,1,0,0,1,0
+23,Sliced Cucumber,3,1,1,1,0,0,1,0
+23,Grape Tomatoes,3,1,1,1,0,0,1,0
+23,Black Olives,3,1,1,1,0,0,1,0
+23,Spring Salad Mix,3,1,1,1,1,0,1,0
+23,Baby Spinach,3,1,1,1,0,0,1,0
+23,Iceberg Lettuce,3,1,1,1,0,0,1,0
+23,Croutons,3,0,1,0,0,0,0,0
+23,Sunflower Seeds,3,1,1,1,0,0,1,0
+23,Craisins,3,1,1,1,0,0,1,0
+23,Ranch Dressing,3,0,1,0,0,0,1,0
+23,Fat-Free Italian Dressing,3,1,1,0,0,0,1,0
+23,Fat-Free French Dressing,3,1,1,0,0,0,1,0
+23,Balsamic Vinaigrette,3,1,1,0,0,0,1,0
+23,Honey Mustard Dressing,3,0,1,0,0,0,1,0
+23,Blue Cheese Dressing,3,0,1,0,0,0,1,0
+23,Caesar Dressing,3,0,0,0,0,0,1,0
+23,Schar Ciabatta Roll,3,1,1,0,0,0,1,0
+23,JP's Brownie,3,1,1,0,0,0,1,0
+23,JP's GF Hawaiian Rolls,3,0,1,0,0,0,1,0
+23,JP's GF Vegan Chocolate Cupcake,3,1,1,0,0,0,1,0
+23,JP's Gluten-Free Blueberry Muffins,3,0,0,0,0,0,1,0
+23,JP's Key Lime Cheesecake Bar,3,0,1,0,0,0,1,0
+23,Katz Powdered Donut Holes,3,0,1,0,0,0,1,0
+23,Katz Cinnamon Donut Hole,3,0,1,0,0,0,1,0
+23,Katz Glazed Donut Holes,3,0,1,0,0,0,1,0
+23,Katz Oatmeal Creme Pie,3,0,1,0,0,0,1,0
+23,Kinnikinnick Birthday Cream Sandwich Cookie,3,1,1,0,0,0,1,0
+23,Kinnikinnick Mint Magic Sandwich Creme Cookies,3,1,1,0,0,0,1,0
+23,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,3,1,1,0,0,0,1,0
+23,Kinnikinnick Chocolate Sandwich Creme Cookies,3,1,1,0,0,0,1,0
+23,Kinnikinnick Cinnamon Sugar Donuts,3,0,1,0,0,0,1,0
+23,Kinnikinnick Vanilla Glazed Donuts,3,0,1,0,0,0,1,0
+23,O'Doughs Original Bagel,3,1,1,0,0,0,1,0
+23,O'doughs Everything Bagel,3,1,1,0,0,0,1,0
+23,O'Doughs Pumpernickel Bagel,3,1,1,0,0,0,1,0
+23,O'Doughs Original Sandwich Slices,3,1,1,0,0,0,1,0
+23,O'Doughs Multigrain Sandwich Slices,3,1,1,0,0,0,1,0
+23,Apple Jacks,3,0,1,0,0,0,0,0
+23,Cinnamon Toast Crunch,3,0,1,0,0,0,0,0
+23,Frosted Flakes,3,0,1,0,0,0,0,0
+23,Cocoa Puffs,3,0,1,0,0,0,0,0
+23,Lucky Charms,3,0,0,0,0,0,0,0
+23,Krave Chocolate Cereal,3,0,1,0,0,0,0,0
+23,Cheerios,3,0,1,1,0,0,1,0
+23,Raisin Bran,3,0,1,0,0,0,0,0
+23,Froot Loops,3,0,1,0,0,0,0,0
+23,Oats and Honey Granola,3,0,1,0,0,0,0,0
+23,Ranch,3,0,1,0,0,0,1,0
+23,Ketchup,3,1,1,0,0,0,1,0
+23,BBQ Sauce,3,1,1,0,0,0,1,0
+23,Sriracha Sauce,3,1,1,0,0,0,1,0
+23,Texas Pete Hot Sauce,3,1,1,1,0,0,1,0
+23,Mayonnaise,3,0,1,0,0,0,1,0
+23,Yellow Mustard,3,1,1,1,0,0,1,0
+23,Vegetable Cream Cheese,3,0,1,0,0,0,1,0
+23,Margarine,3,1,1,0,0,0,1,0
+23,Oil and Vinegar,3,1,1,1,0,0,1,0
+23,Tabasco Hot Sauce,3,1,1,1,0,0,1,0
+23,Grape Jelly,3,1,1,0,0,0,1,0
+23,Strawberry Jelly,3,1,1,0,0,0,1,0
+23,Peanut Butter,3,1,1,0,0,0,1,0
+23,Plain Cream Cheese Spread,3,0,1,0,0,0,1,0
+23,Strawberry Cream Cheese,3,0,1,0,0,0,1,0
+23,Chives and Onion Cream Cheese,3,0,1,1,0,0,1,0
+23,Plain Bagel,3,0,1,0,0,0,0,0
+23,Everything Bagel,3,0,1,0,0,0,0,0
+23,Blueberry Bagel,3,0,1,0,0,0,0,0
+23,Cheese Bagel,3,0,1,0,0,0,0,0
+23,Multigrain Bagel,3,1,1,0,0,0,0,0
+23,Rye Bread Slice,3,1,1,0,0,0,0,0
+23,Multigrain Bread,3,0,1,0,0,0,0,0
+23,Wheat Bread Slice,3,1,1,1,0,0,0,0
+23,Kaiser Roll,3,0,1,0,0,0,0,0
+23,Hoagie Roll,3,0,1,0,0,0,0,0
+23,100% Cranberry Juice,3,1,1,0,0,0,1,0
+23,Seasonal Hot Cocoa,3,0,1,0,0,0,1,0
+23,Seasonal Apple Cider,3,1,1,0,1,0,1,0
+23,Maola Whole Milk,3,0,1,0,0,0,1,0
+23,Maola 2% Reduced Fat Milk,3,0,1,0,0,0,1,0
+23,Maola Skim Milk,3,0,1,0,0,0,1,0
+23,Maola 1% Chocolate Milk,3,0,1,0,0,0,1,0
+23,100% Apple Juice,3,1,1,0,0,0,1,0
+23,100% Orange Juice,3,1,1,1,0,0,1,0
+23,Strawberry Kiwi Juice,3,1,1,0,0,0,1,0
+23,Larry's Coffee,3,1,1,1,1,1,1,0
+23,Larry's Decaf Coffee,3,1,1,1,1,1,1,0
+23,Southern Unsweet Tea,3,1,1,0,0,0,0,0
+23,Southern Sweet Tea,3,1,1,0,0,0,0,0
+23,Chocolate Soymilk,3,1,1,1,0,0,1,0
+23,Vanilla Soymilk,3,1,1,1,0,0,1,0
+23,Dr. Pepper,3,1,1,0,0,0,1,0
+23,Diet Dr. Pepper,3,1,1,0,0,0,1,0
+23,Root Beer,3,1,1,0,0,0,1,0
+23,Sunkist Orange,3,1,1,0,0,0,1,0
+23,Sierra Mist,3,1,1,0,0,0,1,0
+23,Tropicana Lemonade,3,1,1,0,0,0,1,0
+23,Tropicana Fruit Punch,3,1,1,0,0,0,1,0
+23,Mountain Dew,3,1,1,0,0,0,1,0
+23,Diet Mountain Dew,3,1,1,0,0,0,1,0
+23,SoBe Lifewater Pomegranate,3,1,1,0,0,0,0,0
+23,Brisk Green Tea Peach,3,1,1,0,0,0,0,0
+23,Cheerwine,3,1,1,0,0,0,1,0
+23,Diet Pepsi,3,1,1,0,0,0,1,0
+23,Pepsi,3,1,1,0,0,0,1,0
+23,Gatorade Fruit Punch,3,1,1,0,0,0,1,0
+23,Gatorade Orange,3,1,1,0,0,0,0,0
+23,Waffle Bar,4,0,1,0,0,0,0,0
+23,Assorted Cookies,4,0,1,0,0,0,0,0
+23,Rice Krispie Treats,4,0,0,0,0,0,0,0
+23,Fudge Brownie,4,0,1,0,0,0,0,0
+23,Chocolate Soft Serve Ice Cream,4,0,1,0,0,0,1,0
+23,Vanilla Soft Serve Ice Cream,4,0,1,0,0,0,1,0
+23,Chicken Parmesan Melt,4,0,0,0,0,0,0,0
+23,Black Bean Burger Patty,4,0,1,1,0,0,0,0
+23,Garden Burger Patty,4,0,1,1,0,0,0,0
+23,Iceberg Lettuce,4,1,1,1,1,0,1,0
+23,Sliced Dill Pickles ,4,1,1,1,0,0,1,0
+23,Heirloom Tomatoes,4,1,1,1,0,0,1,0
+23,Sliced Yellow American Cheese,4,0,1,0,0,0,1,0
+23,Udi's Gluten-Free Hamburger Bun,4,0,1,0,0,0,1,0
+23,Hamburger Bun,4,1,1,0,0,0,0,0
+23,Shoestring Fries,4,1,1,0,0,0,0,0
+23,Classic Pepperoni Pizza,4,0,0,0,0,0,0,0
+23,Classic Cheese Pizza,4,0,1,0,0,0,0,0
+23,Cheese Bread ,4,0,1,0,0,0,0,0
+23,Strawberries,4,1,1,1,0,0,1,0
+23,Lite Italian Dressing,4,1,1,0,0,0,1,0
+23,Thousand Island Dressing,4,0,1,0,0,0,1,0
+23,Kidney Beans,4,1,1,1,0,0,1,0
+23,Low Fat Cottage Cheese,4,0,1,1,0,0,1,0
+23,Diced Chicken,4,0,0,1,0,0,0,0
+23,Vanilla Yogurt,4,0,1,1,0,0,1,0
+23,Oil and Vinegar,4,1,1,1,0,0,1,0
+23,Strawberry Yogurt,4,0,1,1,0,0,1,0
+23,Applesauce,4,1,1,1,0,0,1,0
+23,Kiwi,4,1,1,1,0,0,1,0
+23,Blueberries,4,1,1,1,0,0,1,0
+23,Strawberries,4,1,1,1,0,0,1,0
+23,Grapes,4,1,1,1,0,0,1,0
+23,Pineapple,4,1,1,1,0,0,1,0
+23,Honey Dew,4,1,1,1,0,0,1,0
+23,Cantaloupe,4,1,1,1,0,0,1,0
+23,Raisins,4,1,1,1,0,0,1,0
+23,Hummus,4,1,1,1,0,0,1,0
+23,Feta Cheese,4,0,1,0,0,0,1,0
+23,Cheddar Cheese,4,0,1,0,0,0,1,0
+23,Diced Tofu,4,1,1,1,1,0,1,0
+23,Quinoa,4,1,1,1,0,0,1,0
+23,Black Beans,4,1,1,1,0,0,1,0
+23,Garbanzo Beans,4,1,1,1,0,0,1,0
+23,Hard Boiled Eggs,4,0,1,0,0,0,0,0
+23,Bacon Bits,4,0,0,0,0,0,1,0
+23,Green Peppers,4,1,1,1,0,0,1,0
+23,Beets,4,1,1,1,0,0,1,0
+23,Sliced Red Onion,4,1,1,1,0,0,1,0
+23,Shredded Carrots,4,1,1,1,0,0,1,0
+23,Sliced Cucumber,4,1,1,1,0,0,1,0
+23,Grape Tomatoes,4,1,1,1,0,0,1,0
+23,Black Olives,4,1,1,1,0,0,1,0
+23,Spring Salad Mix,4,1,1,1,1,0,1,0
+23,Baby Spinach,4,1,1,1,0,0,1,0
+23,Iceberg Lettuce,4,1,1,1,0,0,1,0
+23,Croutons,4,0,1,0,0,0,0,0
+23,Sunflower Seeds,4,1,1,1,0,0,1,0
+23,Craisins,4,1,1,1,0,0,1,0
+23,Ranch Dressing,4,0,1,0,0,0,1,0
+23,Fat-Free Italian Dressing,4,1,1,0,0,0,1,0
+23,Fat-Free French Dressing,4,1,1,0,0,0,1,0
+23,Balsamic Vinaigrette,4,1,1,0,0,0,1,0
+23,Honey Mustard Dressing,4,0,1,0,0,0,1,0
+23,Blue Cheese Dressing,4,0,1,0,0,0,1,0
+23,Caesar Dressing,4,0,0,0,0,0,1,0
+23,Schar Ciabatta Roll,4,1,1,0,0,0,1,0
+23,JP's Brownie,4,1,1,0,0,0,1,0
+23,JP's GF Hawaiian Rolls,4,0,1,0,0,0,1,0
+23,JP's GF Vegan Chocolate Cupcake,4,1,1,0,0,0,1,0
+23,JP's Gluten-Free Blueberry Muffins,4,0,0,0,0,0,1,0
+23,JP's Key Lime Cheesecake Bar,4,0,1,0,0,0,1,0
+23,Katz Powdered Donut Holes,4,0,1,0,0,0,1,0
+23,Katz Cinnamon Donut Hole,4,0,1,0,0,0,1,0
+23,Katz Glazed Donut Holes,4,0,1,0,0,0,1,0
+23,Katz Oatmeal Creme Pie,4,0,1,0,0,0,1,0
+23,Kinnikinnick Birthday Cream Sandwich Cookie,4,1,1,0,0,0,1,0
+23,Kinnikinnick Mint Magic Sandwich Creme Cookies,4,1,1,0,0,0,1,0
+23,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,4,1,1,0,0,0,1,0
+23,Kinnikinnick Chocolate Sandwich Creme Cookies,4,1,1,0,0,0,1,0
+23,Kinnikinnick Cinnamon Sugar Donuts,4,0,1,0,0,0,1,0
+23,Kinnikinnick Vanilla Glazed Donuts,4,0,1,0,0,0,1,0
+23,O'Doughs Original Bagel,4,1,1,0,0,0,1,0
+23,O'doughs Everything Bagel,4,1,1,0,0,0,1,0
+23,O'Doughs Pumpernickel Bagel,4,1,1,0,0,0,1,0
+23,O'Doughs Original Sandwich Slices,4,1,1,0,0,0,1,0
+23,O'Doughs Multigrain Sandwich Slices,4,1,1,0,0,0,1,0
+23,Apple Jacks,4,0,1,0,0,0,0,0
+23,Cinnamon Toast Crunch,4,0,1,0,0,0,0,0
+23,Frosted Flakes,4,0,1,0,0,0,0,0
+23,Cocoa Puffs,4,0,1,0,0,0,0,0
+23,Lucky Charms,4,0,0,0,0,0,0,0
+23,Krave Chocolate Cereal,4,0,1,0,0,0,0,0
+23,Cheerios,4,0,1,1,0,0,1,0
+23,Raisin Bran,4,0,1,0,0,0,0,0
+23,Froot Loops,4,0,1,0,0,0,0,0
+23,Oats and Honey Granola,4,0,1,0,0,0,0,0
+23,Ketchup,4,1,1,0,0,0,1,0
+23,Oil and Vinegar,4,1,1,1,0,0,1,0
+23,Strawberry Jelly,4,1,1,0,0,0,1,0
+23,Strawberry Cream Cheese,4,0,1,0,0,0,1,0
+23,Yellow Mustard,4,1,1,1,0,0,1,0
+23,Original Creamer,4,0,1,0,0,0,1,0
+23,French Vanilla Creamer,4,0,1,0,0,0,1,0
+23,Hazelnut Creamer,4,0,1,0,0,0,1,0
+23,Vegetable Cream Cheese,4,0,1,0,0,0,1,0
+23,Creamy Peanut Butter,4,1,1,0,0,0,1,0
+23,Texas Pete Hot Sauce,4,1,1,1,0,0,1,0
+23,Sriracha Sauce,4,1,1,0,0,0,1,0
+23,Ranch,4,0,1,0,0,0,1,0
+23,Grape Jelly,4,1,1,0,0,0,1,0
+23,Plain Cream Cheese Spread,4,0,1,0,0,0,1,0
+23,Margarine,4,1,1,0,0,0,1,0
+23,Plain Bagel,4,0,1,0,0,0,0,0
+23,Everything Bagel,4,0,1,0,0,0,0,0
+23,Blueberry Bagel,4,0,1,0,0,0,0,0
+23,Cheese Bagel,4,0,1,0,0,0,0,0
+23,Multigrain Bagel,4,1,1,0,0,0,0,0
+23,Rye Bread Slice,4,1,1,0,0,0,0,0
+23,Multigrain Bread,4,0,1,0,0,0,0,0
+23,Wheat Bread Slice,4,1,1,1,0,0,0,0
+23,Kaiser Roll,4,0,1,0,0,0,0,0
+23,Hoagie Roll,4,0,1,0,0,0,0,0
+23,100% Cranberry Juice,4,1,1,0,0,0,1,0
+23,Seasonal Hot Cocoa,4,0,1,0,0,0,1,0
+23,Seasonal Apple Cider,4,1,1,0,1,0,1,0
+23,Maola Whole Milk,4,0,1,0,0,0,1,0
+23,Maola 2% Reduced Fat Milk,4,0,1,0,0,0,1,0
+23,Maola Skim Milk,4,0,1,0,0,0,1,0
+23,Maola 1% Chocolate Milk,4,0,1,0,0,0,1,0
+23,100% Apple Juice,4,1,1,0,0,0,1,0
+23,100% Orange Juice,4,1,1,1,0,0,1,0
+23,Strawberry Kiwi Juice,4,1,1,0,0,0,1,0
+23,Larry's Coffee,4,1,1,1,1,1,1,0
+23,Larry's Decaf Coffee,4,1,1,1,1,1,1,0
+23,Southern Unsweet Tea,4,1,1,0,0,0,0,0
+23,Southern Sweet Tea,4,1,1,0,0,0,0,0
+23,Chocolate Soymilk,4,1,1,1,0,0,1,0
+23,Vanilla Soymilk,4,1,1,1,0,0,1,0
+23,Dr. Pepper,4,1,1,0,0,0,1,0
+23,Diet Dr. Pepper,4,1,1,0,0,0,1,0
+23,Root Beer,4,1,1,0,0,0,1,0
+23,Sunkist Orange,4,1,1,0,0,0,1,0
+23,Sierra Mist,4,1,1,0,0,0,1,0
+23,Tropicana Lemonade,4,1,1,0,0,0,1,0
+23,Tropicana Fruit Punch,4,1,1,0,0,0,1,0
+23,Mountain Dew,4,1,1,0,0,0,1,0
+23,Diet Mountain Dew,4,1,1,0,0,0,1,0
+23,SoBe Lifewater Pomegranate,4,1,1,0,0,0,0,0
+23,Brisk Green Tea Peach,4,1,1,0,0,0,0,0
+23,Cheerwine,4,1,1,0,0,0,1,0
+23,Diet Pepsi,4,1,1,0,0,0,1,0
+23,Pepsi,4,1,1,0,0,0,1,0
+23,Gatorade Fruit Punch,4,1,1,0,0,0,1,0
+23,Gatorade Orange,4,1,1,0,0,0,0,0
+23,Waffle Bar,5,0,1,0,0,0,0,0
+23,Pineapple Mango Smoothie,5,0,1,0,0,0,1,0
+23,Assorted Cookies,5,0,1,0,0,0,0,0
+23,Rice Krispie Treats,5,0,0,0,0,0,0,0
+23,Fudge Brownie,5,0,1,0,0,0,0,0
+23,Chocolate Soft Serve Ice Cream,5,0,1,0,0,0,1,0
+23,Vanilla Soft Serve Ice Cream,5,0,1,0,0,0,1,0
+23,Buttermilk Pancakes,5,0,1,0,0,0,0,0
+23,Impossible Sausage Patty,5,1,1,0,0,0,1,0
+23,Breakfast Potatoes,5,1,1,0,0,0,1,0
+23,Scrambled Eggs,5,0,1,1,0,0,1,0
+23,Pork Sausage Patties,5,0,0,0,1,0,1,0
+23,Pork Sausage Gravy,5,0,0,0,0,0,1,0
+23,Biscuits,5,0,1,0,0,0,0,0
+23,Pancake Syrup ,5,1,1,0,0,0,1,0
+23,Crispy Chicken Nuggets,5,0,0,0,0,0,0,0
+23,Smiley Fries,5,1,1,0,0,0,0,0
+23,Garden Burger Patty,5,0,1,1,0,0,0,0
+23,Black Bean Burger Patty,5,0,1,1,0,0,0,0
+23,Fried Hush Puppies,5,0,1,0,0,0,0,0
+23,Classic Cheese Pizza,5,0,1,0,0,0,0,0
+23,Classic Pepperoni Pizza,5,0,0,0,0,0,0,0
+23,Cheese Bread ,5,0,1,0,0,0,0,0
+23,Ground Beef,5,0,0,0,0,0,0,0
+23,Hot Tortilla Chips,5,1,1,0,0,0,1,0
+23,Pico Salsa,5,1,1,1,0,0,1,0
+23,Cheddar Cheese,5,0,1,0,0,0,1,0
+23,Jalapeno Peppers,5,1,1,1,0,0,1,0
+23,Sour Cream,5,0,0,0,0,0,1,0
+23,Guacamole,5,1,1,1,0,0,1,0
+23,White Bread ,5,1,1,0,0,0,0,0
+23,Udi's Multigrain Bread,5,0,1,0,0,0,1,0
+23,Udi's White Bread,5,0,1,0,0,0,1,0
+23,Multigrain Bread,5,1,1,1,0,0,0,0
+23,Wheat Bread Slice,5,1,1,1,0,0,0,0
+23,Sourdough ,5,0,1,0,0,0,0,0
+23,Hoagie Roll,5,0,1,0,0,0,0,0
+23,12' Assorted Wraps,5,1,1,0,0,0,0,0
+23,Vegan American Sliced Cheese,5,1,1,0,0,0,1,0
+23,Sliced Ham,5,0,0,0,0,0,1,0
+23,Sliced Roast Beef,5,0,0,0,0,0,1,0
+23,Sliced Turkey,5,0,0,1,0,0,1,0
+23,Sliced Salami,5,0,0,0,0,0,1,0
+23,Chunky Chicken Salad,5,0,0,0,0,0,1,0
+23,Tuna Salad,5,0,0,0,0,0,1,0
+23,Grilled Chicken Breast,5,0,0,0,0,0,1,0
+23,Sliced Red Onion,5,1,1,1,0,0,1,0
+23,Heirloom Tomatoes,5,1,1,1,0,0,1,0
+23,Sliced Yellow American Cheese,5,0,1,0,0,0,1,0
+23,Sliced Pepper Jack Cheese,5,0,1,0,0,0,1,0
+23,Swiss Cheese,5,0,1,0,0,0,1,0
+23,Sliced Cheddar Cheese,5,0,1,0,0,0,1,0
+23,Black Olives,5,1,1,1,0,0,1,0
+23,Lettuce,5,1,1,1,1,0,1,0
+23,Sliced Dill Pickles ,5,1,1,1,0,0,1,0
+23,Banana Peppers,5,1,1,1,0,0,1,0
+23,Jalapeno Peppers,5,1,1,1,0,0,1,0
+23,Honey Chipotle Sauce,5,0,1,0,0,0,1,0
+23,Sriracha Mayonnaise,5,0,1,0,0,0,1,0
+23,Chipotle Mayonnaise,5,0,1,0,0,0,1,0
+23,Mayonnaise,5,0,1,0,0,0,1,0
+23,Yellow Mustard,5,1,1,1,0,0,1,0
+23,Spicy Brown Mustard,5,1,1,1,0,0,1,0
+23,Oil and Vinegar,5,1,1,1,0,0,1,0
+23,Nut-Free Pesto Sauce,5,0,1,0,0,0,1,0
+23,Strawberries,5,1,1,1,0,0,1,0
+23,Lite Italian Dressing,5,1,1,0,0,0,1,0
+23,Thousand Island Dressing,5,0,1,0,0,0,1,0
+23,Kidney Beans,5,1,1,1,0,0,1,0
+23,Low Fat Cottage Cheese,5,0,1,1,0,0,1,0
+23,Diced Chicken,5,0,0,1,0,0,0,0
+23,Vanilla Yogurt,5,0,1,1,0,0,1,0
+23,Oil and Vinegar,5,1,1,1,0,0,1,0
+23,Strawberry Yogurt,5,0,1,1,0,0,1,0
+23,Applesauce,5,1,1,1,0,0,1,0
+23,Kiwi,5,1,1,1,0,0,1,0
+23,Blueberries,5,1,1,1,0,0,1,0
+23,Strawberries,5,1,1,1,0,0,1,0
+23,Grapes,5,1,1,1,0,0,1,0
+23,Pineapple,5,1,1,1,0,0,1,0
+23,Honey Dew,5,1,1,1,0,0,1,0
+23,Cantaloupe,5,1,1,1,0,0,1,0
+23,Raisins,5,1,1,1,0,0,1,0
+23,Hummus,5,1,1,1,0,0,1,0
+23,Feta Cheese,5,0,1,0,0,0,1,0
+23,Cheddar Cheese,5,0,1,0,0,0,1,0
+23,Diced Tofu,5,1,1,1,1,0,1,0
+23,Quinoa,5,1,1,1,0,0,1,0
+23,Black Beans,5,1,1,1,0,0,1,0
+23,Garbanzo Beans,5,1,1,1,0,0,1,0
+23,Hard Boiled Eggs,5,0,1,0,0,0,0,0
+23,Bacon Bits,5,0,0,0,0,0,1,0
+23,Green Peppers,5,1,1,1,0,0,1,0
+23,Beets,5,1,1,1,0,0,1,0
+23,Sliced Red Onion,5,1,1,1,0,0,1,0
+23,Shredded Carrots,5,1,1,1,0,0,1,0
+23,Sliced Cucumber,5,1,1,1,0,0,1,0
+23,Grape Tomatoes,5,1,1,1,0,0,1,0
+23,Black Olives,5,1,1,1,0,0,1,0
+23,Spring Salad Mix,5,1,1,1,1,0,1,0
+23,Baby Spinach,5,1,1,1,0,0,1,0
+23,Iceberg Lettuce,5,1,1,1,0,0,1,0
+23,Croutons,5,0,1,0,0,0,0,0
+23,Sunflower Seeds,5,1,1,1,0,0,1,0
+23,Craisins,5,1,1,1,0,0,1,0
+23,Ranch Dressing,5,0,1,0,0,0,1,0
+23,Fat-Free Italian Dressing,5,1,1,0,0,0,1,0
+23,Fat-Free French Dressing,5,1,1,0,0,0,1,0
+23,Balsamic Vinaigrette,5,1,1,0,0,0,1,0
+23,Honey Mustard Dressing,5,0,1,0,0,0,1,0
+23,Blue Cheese Dressing,5,0,1,0,0,0,1,0
+23,Caesar Dressing,5,0,0,0,0,0,1,0
+23,Schar Ciabatta Roll,5,1,1,0,0,0,1,0
+23,JP's Brownie,5,1,1,0,0,0,1,0
+23,JP's GF Hawaiian Rolls,5,0,1,0,0,0,1,0
+23,JP's GF Vegan Chocolate Cupcake,5,1,1,0,0,0,1,0
+23,JP's Gluten-Free Blueberry Muffins,5,0,0,0,0,0,1,0
+23,JP's Key Lime Cheesecake Bar,5,0,1,0,0,0,1,0
+23,Katz Powdered Donut Holes,5,0,1,0,0,0,1,0
+23,Katz Cinnamon Donut Hole,5,0,1,0,0,0,1,0
+23,Katz Glazed Donut Holes,5,0,1,0,0,0,1,0
+23,Katz Oatmeal Creme Pie,5,0,1,0,0,0,1,0
+23,Kinnikinnick Birthday Cream Sandwich Cookie,5,1,1,0,0,0,1,0
+23,Kinnikinnick Mint Magic Sandwich Creme Cookies,5,1,1,0,0,0,1,0
+23,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,5,1,1,0,0,0,1,0
+23,Kinnikinnick Chocolate Sandwich Creme Cookies,5,1,1,0,0,0,1,0
+23,Kinnikinnick Cinnamon Sugar Donuts,5,0,1,0,0,0,1,0
+23,Kinnikinnick Vanilla Glazed Donuts,5,0,1,0,0,0,1,0
+23,O'Doughs Original Bagel,5,1,1,0,0,0,1,0
+23,O'doughs Everything Bagel,5,1,1,0,0,0,1,0
+23,O'Doughs Pumpernickel Bagel,5,1,1,0,0,0,1,0
+23,O'Doughs Original Sandwich Slices,5,1,1,0,0,0,1,0
+23,O'Doughs Multigrain Sandwich Slices,5,1,1,0,0,0,1,0
+23,Apple Jacks,5,0,1,0,0,0,0,0
+23,Cinnamon Toast Crunch,5,0,1,0,0,0,0,0
+23,Frosted Flakes,5,0,1,0,0,0,0,0
+23,Cocoa Puffs,5,0,1,0,0,0,0,0
+23,Lucky Charms,5,0,0,0,0,0,0,0
+23,Krave Chocolate Cereal,5,0,1,0,0,0,0,0
+23,Cheerios,5,0,1,1,0,0,1,0
+23,Raisin Bran,5,0,1,0,0,0,0,0
+23,Froot Loops,5,0,1,0,0,0,0,0
+23,Oats and Honey Granola,5,0,1,0,0,0,0,0
+23,Ketchup,5,1,1,0,0,0,1,0
+23,Oil and Vinegar,5,1,1,1,0,0,1,0
+23,Strawberry Jelly,5,1,1,0,0,0,1,0
+23,Strawberry Cream Cheese,5,0,1,0,0,0,1,0
+23,Yellow Mustard,5,1,1,1,0,0,1,0
+23,Original Creamer,5,0,1,0,0,0,1,0
+23,French Vanilla Creamer,5,0,1,0,0,0,1,0
+23,Hazelnut Creamer,5,0,1,0,0,0,1,0
+23,Vegetable Cream Cheese,5,0,1,0,0,0,1,0
+23,Creamy Peanut Butter,5,1,1,0,0,0,1,0
+23,Texas Pete Hot Sauce,5,1,1,1,0,0,1,0
+23,Sriracha Sauce,5,1,1,0,0,0,1,0
+23,Ranch,5,0,1,0,0,0,1,0
+23,Grape Jelly,5,1,1,0,0,0,1,0
+23,Plain Cream Cheese Spread,5,0,1,0,0,0,1,0
+23,Margarine,5,1,1,0,0,0,1,0
+23,100% Cranberry Juice,5,1,1,0,0,0,1,0
+23,Seasonal Hot Cocoa,5,0,1,0,0,0,1,0
+23,Seasonal Apple Cider,5,1,1,0,1,0,1,0
+23,Maola Whole Milk,5,0,1,0,0,0,1,0
+23,Maola 2% Reduced Fat Milk,5,0,1,0,0,0,1,0
+23,Maola Skim Milk,5,0,1,0,0,0,1,0
+23,Maola 1% Chocolate Milk,5,0,1,0,0,0,1,0
+23,100% Apple Juice,5,1,1,0,0,0,1,0
+23,100% Orange Juice,5,1,1,1,0,0,1,0
+23,Strawberry Kiwi Juice,5,1,1,0,0,0,1,0
+23,Larry's Coffee,5,1,1,1,1,1,1,0
+23,Larry's Decaf Coffee,5,1,1,1,1,1,1,0
+23,Southern Unsweet Tea,5,1,1,0,0,0,0,0
+23,Southern Sweet Tea,5,1,1,0,0,0,0,0
+23,Chocolate Soymilk,5,1,1,1,0,0,1,0
+23,Vanilla Soymilk,5,1,1,1,0,0,1,0
+23,Dr. Pepper,5,1,1,0,0,0,1,0
+23,Diet Dr. Pepper,5,1,1,0,0,0,1,0
+23,Root Beer,5,1,1,0,0,0,1,0
+23,Sunkist Orange,5,1,1,0,0,0,1,0
+23,Sierra Mist,5,1,1,0,0,0,1,0
+23,Tropicana Lemonade,5,1,1,0,0,0,1,0
+23,Tropicana Fruit Punch,5,1,1,0,0,0,1,0
+23,Mountain Dew,5,1,1,0,0,0,1,0
+23,Diet Mountain Dew,5,1,1,0,0,0,1,0
+23,SoBe Lifewater Pomegranate,5,1,1,0,0,0,0,0
+23,Brisk Green Tea Peach,5,1,1,0,0,0,0,0
+23,Cheerwine,5,1,1,0,0,0,1,0
+23,Diet Pepsi,5,1,1,0,0,0,1,0
+23,Pepsi,5,1,1,0,0,0,1,0
+23,Gatorade Fruit Punch,5,1,1,0,0,0,1,0
+23,Gatorade Orange,5,1,1,0,0,0,0,0
