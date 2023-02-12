@@ -18,16 +18,17 @@ function createCalendarCells(item, date, mealTime) {
 }
 
 function WeekendCalendar(props) {
+    const date = props.date
   return (
     <div>
       <p>Continental</p>
-      {props.posts.map((item) => createCalendarCells(item, "19", "continental"))}
+      {props.posts.map((item) => createCalendarCells(item, date, "continental"))}
       <p>Brunch</p>
-      {props.posts.map((item) => createCalendarCells(item, "19", "brunch"))}
+      {props.posts.map((item) => createCalendarCells(item, date, "brunch"))}
       <p>Lite Lunch</p>
-      {props.posts.map((item) => createCalendarCells(item, "19", "liteLunch"))}
+      {props.posts.map((item) => createCalendarCells(item, date, "liteLunch"))}
       <p>Dinner</p>
-      {props.posts.map((item) => createCalendarCells(item, "19", "dinner"))}
+      {props.posts.map((item) => createCalendarCells(item, date, "dinner"))}
     </div>
   );
 }
@@ -45,7 +46,14 @@ function Calendar() {
     fetchPost();
   }, []);
 
-  return <div><WeekendCalendar posts={posts} /></div>;
+  return <div>
+    <p>19</p>
+    <WeekendCalendar posts={posts} date="19" />
+    <p>20</p>
+    <WeekendCalendar posts={posts} date="20" />
+    <p>21</p>
+    <WeekendCalendar posts={posts} date="21" />
+    </div>;
 }
 
 export default Calendar;
