@@ -20,8 +20,6 @@ function Home() {
         </div>
         
       
-       
-
         <div>
           <button type="button" class = "button" onClick = {handleClick}> <h4 class = "button-font">GET STARTED</h4></button>
         </div>
