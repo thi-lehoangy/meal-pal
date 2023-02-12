@@ -2,11 +2,11 @@ import React from 'react';
 
 function Home() {
     const handleClick = () => {
-        window.location.href = "/Forms";
+        window.location.href = "/";
     }
 
     return (
-    <header className="App-header">
+      <header className="App-header">
         <p>
           Weekly meal plans curated just for you.
         </p>

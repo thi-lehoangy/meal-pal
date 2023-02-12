@@ -1,6 +1,9 @@
 import React from "react";
 
 function Forms() {
+  const handleClick = () => {
+    window.location.href = "/Forms";
+}
     return (<div>
         <form>
   <label>
@@ -48,6 +51,10 @@ function Forms() {
   </label>
 
   </div>
+
+  <div>
+          <button type="button" class = "button" onClick = {handleClick}> <h4 class = "button-font">GET STARTED</h4></button>
+        </div>
 
 
  
