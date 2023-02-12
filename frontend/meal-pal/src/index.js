@@ -6,7 +6,7 @@ import Home from './routes/Home';
 import Header from './components/Header';
 import Forms from './routes/Forms';
 import Calender from './routes/Calender';
-
+import CalenderUI from './routes/CalenderUI';
 import './index.css';
 
 const router = createBrowserRouter([
@@ -25,6 +25,10 @@ const router = createBrowserRouter([
   {
     path: 'calender',
     element: <Calender />
+  },
+  {
+    path: 'test-calender',
+    element: <CalenderUI />
   }
 ]);
 
