@@ -1,14 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
 
-function App() {
-  const handleClick = () => {
-    window.location.href = "typeform.html";
-  }
-  return (
-    <div className="App">
+function Home() {
+    const handleClick = () => {
+        window.location.href = "/";
+    }
+
+    return (
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Weekly meal plans curated just for you.
         </p>
@@ -16,10 +14,7 @@ function App() {
           <button type="button" class = "button" onClick = {handleClick}> <h4 class = "button-font">GET STARTED</h4></button>
         </div>
       </header>
-    </div>
-  );
+    )
 }
 
-
-
-export default App;
+export default Home;
