@@ -3,12 +3,9 @@ import './Forms.css';
 import Select from 'react-select'
 
 function Forms() {
-  const handleClick = () => {
-    window.location.href = "/Forms";
-  }
-
-  const handleSubmit = (event) => {
-    console.log("Success")
+  const onSubmitHandler = (event) => {
+    event.preventDefault();
+    window.location.href = "calender";
   }
   
   return (<div class = "form-page">
@@ -43,7 +40,7 @@ function Forms() {
     <DietNeeds />
   </div>
 
-    <button class = "button" type="submit" value="Submit" onSubmit = {handleSubmit}> <h4 class = "button-font">SUBMIT</h4> </button>
+    <button class = "button" type="submit" onClick = {onSubmitHandler}> <h4 class = "button-font">SUBMIT</h4> </button>
     </form>
     </div>
     )

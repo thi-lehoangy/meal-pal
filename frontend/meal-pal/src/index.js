@@ -5,6 +5,7 @@ import { BrowserRouter as Router, createBrowserRouter, RouterProvider } from 're
 import Home from './routes/Home';
 import Header from './components/Header';
 import Forms from './routes/Forms';
+import Calender from './routes/Calender';
 
 import './index.css';
 
@@ -21,6 +22,10 @@ const router = createBrowserRouter([
     path: 'forms',
     element: <Forms />
   },
+  {
+    path: 'calender',
+    element: <Calender />
+  }
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
