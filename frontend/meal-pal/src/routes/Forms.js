@@ -5,7 +5,7 @@ import Select from 'react-select'
 function Forms() {
   const onSubmitHandler = (event) => {
     event.preventDefault();
-    window.location.href = "calender";
+    window.location.href = "calendar";
   }
   
   return (<div class = "form-page">

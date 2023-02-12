@@ -5,7 +5,7 @@ import { BrowserRouter as Router, createBrowserRouter, RouterProvider } from 're
 import Home from './routes/Home';
 import Header from './components/Header';
 import Forms from './routes/Forms';
-import Calender from './routes/Calender';
+import Calendar from './routes/Calendar';
 
 import './index.css';
 
@@ -23,8 +23,8 @@ const router = createBrowserRouter([
     element: <Forms />
   },
   {
-    path: 'calender',
-    element: <Calender />
+    path: 'calendar',
+    element: <Calendar />
   }
 ]);
 
@@ -42,4 +42,3 @@ root.render(
 // )
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
-
