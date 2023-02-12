@@ -1,8 +1,11 @@
 const express = require('express')
+const csv = require('csv');
 const app = express()
 const port = 3000
 
-const csv = require('csv');
+var cors = require('cors')
+
+app.use(cors()) // Use this after the variable declaration
 
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Credentials", "true")
@@ -12,14 +15,12 @@ app.use(function(req, res, next) {
   next();
 });
 
-// loads the csv module referenced above.
+var obj = csv();
 
-var obj = csv(); 
-// gets the csv module to access the required functionality
-
-function MyCSV(n0,itemName,mealTime,vegan,vegetarian,smartChoice,local,organic,sustainableSeafood,madeWithoutGluten,halal
+function foodItems(n0,date,itemName,mealTime,vegan,vegetarian,smartChoice,local,organic,sustainableSeafood,madeWithoutGluten,halal
   ) {
   this.n0 = n0;
+  this.date = date;
   this.itemName = itemName;
   this.mealTime = mealTime;
   this.vegan = vegan;
@@ -32,26 +33,54 @@ function MyCSV(n0,itemName,mealTime,vegan,vegetarian,smartChoice,local,organic,s
   this.halal = halal;
 }; 
 
-var MyData = []; 
-// MyData array will contain the data from the CSV file and it will be sent to the clients request over HTTP. 
+const allFoodItems = []; 
+
+// This should be imported from the front-end
+const filter = {
+  vegan: "1",
+  vegetarian: "1",
+  // smartChoice: "1",
+  // local: "1",
+  // organic: "1",
+  // sustainableSeafood: "1",
+  // madeWithoutGluten: "1",
+  // halal: "1",
+}
 
 
-obj.from.path('./services/today.csv').to.array(function (data) {
+obj.from.path('./final.csv').to.array(function (data) {
     for (var index = 1; index < data.length; index++) {
-        MyData.push(new MyCSV(data[index][0], data[index][1], data[index][2], data[index][3], data[index][4], data[index][5], data[index][6], data[index][7], data[index][8], data[index][9], data[index][10]));
+        allFoodItems.push(new foodItems(data[index][0], data[index][1], data[index][2], data[index][3], data[index][4], data[index][5], data[index][6], data[index][7], data[index][8], data[index][9], data[index][10]));
     }
 });
-//Reads the CSV file from the path you specify, and the data is stored in the array we specified using callback function.  This function iterates through an array and each line from the CSV file will be pushed as a record to another array called MyData , and logs the data into the console to ensure it worked.
 
 app.get('/', (req, res) => {
-  res.send(JSON.stringify(MyData))
+  res.send(JSON.stringify(foodItems))
 })
 
-// breakfast, continental, brunch, lunch, liteLunch, dinner, lateDinner, lateNight
-
-app.get('/get/:mealTime', (req, res) => {
+app.get('/getItems', (req, res) => {
+  // res.send(allFoodItemsByRestrictions)
   const mealTime = req.params.mealTime;
-  res.send(MyData.filter(item => item.mealTime == mealTime))
+  res.send(allFoodItems.filter(item => {
+    for (let key in filter) {
+      if (item[key] == undefined || item[key] != filter[key]) {
+        return false
+      }
+    }
+    return true;
+  }))
+})
+
+app.get('/getFoodItems/:mealTime', (req, res) => {
+  const mealTime = req.params.mealTime;
+  res.send(allFoodItems.filter(item => {
+    for (let key in filter) {
+      if (item[key] === undefined || item[key] != filter[key])
+        return false;
+    }
+    return true;
+  }))
+  // res.send(allFoodItems.filter(item => item.mealTime == mealTime))
   
 })
 
