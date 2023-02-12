@@ -52,14 +52,11 @@ function Forms() {
 
   </div>
 
-  <div>
-          <button type="button" class = "button" onClick = {handleClick}> <h4 class = "button-font">GET STARTED</h4></button>
-        </div>
 
 
  
 
-  <input type="submit" value="Submit" />
+  <input class = "button" type="submit" value="Submit" />
 </form>
     </div>
     )

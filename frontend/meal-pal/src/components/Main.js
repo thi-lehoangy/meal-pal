@@ -9,6 +9,7 @@ import App from "./App";
 function Main() {
     return(<div className = "main">
         This is main
+        <Home />
         {/* <Router>
             <Route path='/' element={<h1>Home Page Component</h1>} />
             <Route path='/login' element={<h1>Login Page Component</h1>} />
