@@ -13,13 +13,18 @@
   }
 }
 
+.adjust-line-height {
+  line-height: 1em;
+}
+
 .App-header {
-  background-color: #ffffff;
+  background-color: #add8e6;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  font-family: 'Kreon';
   font-size: calc(10px + 2vmin);
   color: black;
 }
@@ -28,15 +33,36 @@
   color: #61dafb;
 }
 .button {
-  background-color: #0E2F54;
+  background-color: #62C6F2;
   padding: 10px;
   width: 178px;
   height: 85px;
+  align-items: center;
+  text-align: center;
+  border: white;
 }
 .button-font {
-  font-family: 'Arial';
+  font-family: 'Roboto Condensed';
   font-size: 18px;
-  color: #FFF;
+  color: black;
+  align-items: center;
+  text-align: center;
+  
+}
+.title{
+  font-family: 'Kreon';
+  font-size: 18px;
+  color: #62C6F2;
+  align-items: center;
+  text-align: center;
+}
+
+.otherWords{
+  font-family: 'Inter';
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+  align-items: center;
+  text-align: center;
 }
 @keyframes App-logo-spin {
   from {
