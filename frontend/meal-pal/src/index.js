@@ -10,6 +10,7 @@ import Home from "./routes/Home";
 import Header from "./components/Header";
 import Forms from "./routes/Forms";
 import Calendar, { CalendarNavigation } from "./routes/Calendar";
+import CalenderUI from "./routes/CalenderUI";
 
 import "./index.css";
 
@@ -34,6 +35,10 @@ const router = createBrowserRouter([
     path: "calendar-nav",
     element: <CalendarNavigation />
   },
+  {
+    path: 'test-calender',
+    element: <CalenderUI />
+  }
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
