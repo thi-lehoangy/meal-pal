@@ -17,9 +17,8 @@ app.use(function(req, res, next) {
 
 var obj = csv();
 
-function foodItems(n0,date,itemName,mealTime,vegan,vegetarian,smartChoice,local,organic,madeWithoutGluten,halal
+function foodItems(date,itemName,mealTime,vegan,vegetarian,smartChoice,local,organic,madeWithoutGluten,halal,location
   ) {
-  this.n0 = n0;
   this.date = date;
   this.itemName = itemName;
   this.mealTime = mealTime;
@@ -30,6 +29,7 @@ function foodItems(n0,date,itemName,mealTime,vegan,vegetarian,smartChoice,local,
   this.organic = organic;
   this.madeWithoutGluten = madeWithoutGluten;
   this.halal = halal;
+  this.location = location
 }; 
 
 const allFoodItems = []; 
@@ -47,7 +47,7 @@ const filter = {
 }
 
 let allFoodItemsByRestrictions = [];
-obj.from.path('./final.csv').to.array(function (data) {
+obj.from.path('./combined.csv').to.array(function (data) {
     for (var index = 1; index < data.length; index++) {
         allFoodItems.push(new foodItems(data[index][0], data[index][1], data[index][2], data[index][3], data[index][4], data[index][5], data[index][6], data[index][7], data[index][8], data[index][9], data[index][10]));
     }
@@ -57,6 +57,11 @@ obj.from.path('./final.csv').to.array(function (data) {
 
 app.get('/', (req, res) => {
   res.send(JSON.stringify(foodItems))
+})
+
+app.post("/signup", (req, res) => {
+  console.log(JSON.stringify(req))
+  res.json({status: "success"})
 })
 
 // let allFoodItemsByRestrictions = allFoodItems.filter(item => {

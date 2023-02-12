@@ -1,0 +1,804 @@
+date,itemName,mealTime,vegan,vegetarian,smartChoice,local,organic,madeWithoutGluten,halal,location
+24,Waffle Bar,0,0,1,0,0,0,0,0,Chase
+24,Vegan Coffee Cake,0,1,1,0,0,0,0,0,Chase
+24,Peanut Butter & Jelly Muffins,0,0,1,0,0,0,1,0,Chase
+24,Strawberry Overnight Chia Oats,0,0,1,0,0,0,0,0,Chase
+24,Almond Croissant,0,0,1,0,0,0,0,0,Chase
+24,Double Chocolate Chip Muffin ,0,0,1,0,0,0,0,0,Chase
+24,Assorted Donuts,0,0,1,0,0,0,0,0,Chase
+24,Savory Bacon Muffins,0,0,0,0,0,0,0,0,Chase
+24,Vanilla Soft Serve Ice Cream,0,0,1,0,0,0,1,0,Chase
+24,Chocolate Soft Serve Ice Cream,0,0,1,0,0,0,1,0,Chase
+24,Oatmeal,0,1,1,1,0,0,0,0,Chase
+24,Pancake Syrup ,0,1,1,0,0,0,1,0,Chase
+24,Congee,0,1,1,0,0,0,0,0,Chase
+24,Impossible Sausage Patty,0,1,1,0,0,0,1,0,Chase
+24,Grits,0,1,1,1,0,0,1,0,Chase
+24,Whole Wheat French Toast,0,0,1,1,0,0,0,0,Chase
+24,Fried Tater Tots,0,1,1,0,0,0,1,0,Chase
+24,Bacon,0,0,0,0,0,0,1,0,Chase
+24,Scrambled Eggs,0,0,1,1,0,0,1,0,Chase
+24,Pork Sausage Gravy,0,0,0,0,0,0,1,0,Chase
+24,Biscuits,0,0,1,0,0,0,0,0,Chase
+24,Crispy Chicken Biscuit,0,0,0,0,0,0,0,0,Chase
+24,Turkey Sausage Patty,0,0,0,0,0,0,1,0,Chase
+24,Hash Brown Potato Patty,0,1,1,0,0,0,0,0,Chase
+24,Frozen Strawberries,0,1,1,1,0,0,1,0,Chase
+24,Peaches,0,1,1,1,0,0,1,0,Chase
+24,Vanilla Greek Yogurt,0,0,1,0,0,0,1,0,Chase
+24,Blueberries,0,1,1,1,0,0,1,0,Chase
+24,Sliced Bananas,0,1,1,1,0,0,1,0,Chase
+24,Frozen Pineapple Cubes,0,1,1,1,0,0,1,0,Chase
+24,Frozen Mango ,0,1,1,1,0,0,1,0,Chase
+24,Baby Spinach,0,1,1,1,0,0,1,0,Chase
+24,100% Apple Juice,0,1,1,0,0,0,1,0,Chase
+24,100% Orange Juice,0,1,1,1,0,0,1,0,Chase
+24,Low Fat Cottage Cheese,0,0,1,1,0,0,1,0,Chase
+24,Strawberry Yogurt,0,0,1,1,0,0,1,0,Chase
+24,Vanilla Yogurt,0,0,1,1,0,0,1,0,Chase
+24,Applesauce,0,1,1,1,0,0,1,0,Chase
+24,Grapes,0,1,1,1,0,0,1,0,Chase
+24,Pineapple,0,1,1,1,0,0,1,0,Chase
+24,Honey Dew,0,1,1,1,0,0,1,0,Chase
+24,Cantaloupe,0,1,1,1,0,0,1,0,Chase
+24,Raisins,0,1,1,1,0,0,1,0,Chase
+24,Brown Sugar,0,1,1,0,0,0,1,0,Chase
+24,Schar Ciabatta Roll,0,1,1,0,0,0,1,0,Chase
+24,JP's Brownie,0,1,1,0,0,0,1,0,Chase
+24,JP's GF Hawaiian Rolls,0,0,1,0,0,0,1,0,Chase
+24,JP's GF Vegan Chocolate Cupcake,0,1,1,0,0,0,1,0,Chase
+24,JP's Gluten-Free Blueberry Muffins,0,0,0,0,0,0,1,0,Chase
+24,JP's Key Lime Cheesecake Bar,0,0,1,0,0,0,1,0,Chase
+24,Katz Powdered Donut Holes,0,0,1,0,0,0,1,0,Chase
+24,Katz Cinnamon Donut Hole,0,0,1,0,0,0,1,0,Chase
+24,Katz Glazed Donut Holes,0,0,1,0,0,0,1,0,Chase
+24,Katz Oatmeal Creme Pie,0,0,1,0,0,0,1,0,Chase
+24,Kinnikinnick Birthday Cream Sandwich Cookie,0,1,1,0,0,0,1,0,Chase
+24,Kinnikinnick Mint Magic Sandwich Creme Cookies,0,1,1,0,0,0,1,0,Chase
+24,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,0,1,1,0,0,0,1,0,Chase
+24,Kinnikinnick Chocolate Sandwich Creme Cookies,0,1,1,0,0,0,1,0,Chase
+24,Kinnikinnick Cinnamon Sugar Donuts,0,0,1,0,0,0,1,0,Chase
+24,Kinnikinnick Vanilla Glazed Donuts,0,0,1,0,0,0,1,0,Chase
+24,O'Doughs Original Bagel,0,1,1,0,0,0,1,0,Chase
+24,O'doughs Everything Bagel,0,1,1,0,0,0,1,0,Chase
+24,O'Doughs Pumpernickel Bagel,0,1,1,0,0,0,1,0,Chase
+24,O'Doughs Original Sandwich Slices,0,1,1,0,0,0,1,0,Chase
+24,O'Doughs Multigrain Sandwich Slices,0,1,1,0,0,0,1,0,Chase
+24,Apple Jacks,0,0,1,0,0,0,0,0,Chase
+24,Cinnamon Toast Crunch,0,0,1,0,0,0,0,0,Chase
+24,Frosted Flakes,0,0,1,0,0,0,0,0,Chase
+24,Cocoa Puffs,0,0,1,0,0,0,0,0,Chase
+24,Lucky Charms,0,0,0,0,0,0,0,0,Chase
+24,Krave Chocolate Cereal,0,0,1,0,0,0,0,0,Chase
+24,Cheerios,0,0,1,1,0,0,1,0,Chase
+24,Raisin Bran,0,0,1,0,0,0,0,0,Chase
+24,Froot Loops,0,0,1,0,0,0,0,0,Chase
+24,Oats and Honey Granola,0,0,1,0,0,0,0,0,Chase
+24,Ketchup,0,1,1,0,0,0,1,0,Chase
+24,Oil and Vinegar,0,1,1,1,0,0,1,0,Chase
+24,Strawberry Jelly,0,1,1,0,0,0,1,0,Chase
+24,Strawberry Cream Cheese,0,0,1,0,0,0,1,0,Chase
+24,Yellow Mustard,0,1,1,1,0,0,1,0,Chase
+24,Original Creamer,0,0,1,0,0,0,1,0,Chase
+24,French Vanilla Creamer,0,0,1,0,0,0,1,0,Chase
+24,Hazelnut Creamer,0,0,1,0,0,0,1,0,Chase
+24,Vegetable Cream Cheese,0,0,1,0,0,0,1,0,Chase
+24,Creamy Peanut Butter,0,1,1,0,0,0,1,0,Chase
+24,Texas Pete Hot Sauce,0,1,1,1,0,0,1,0,Chase
+24,Sriracha Sauce,0,1,1,0,0,0,1,0,Chase
+24,Ranch,0,0,1,0,0,0,1,0,Chase
+24,Grape Jelly,0,1,1,0,0,0,1,0,Chase
+24,Plain Cream Cheese Spread,0,0,1,0,0,0,1,0,Chase
+24,Margarine,0,1,1,0,0,0,1,0,Chase
+24,Plain Bagel,0,0,1,0,0,0,0,0,Chase
+24,Everything Bagel,0,0,1,0,0,0,0,0,Chase
+24,Blueberry Bagel,0,0,1,0,0,0,0,0,Chase
+24,Cheese Bagel,0,0,1,0,0,0,0,0,Chase
+24,Multigrain Bagel,0,1,1,0,0,0,0,0,Chase
+24,Rye Bread Slice,0,1,1,0,0,0,0,0,Chase
+24,Multigrain Bread,0,0,1,0,0,0,0,0,Chase
+24,Wheat Bread Slice,0,1,1,1,0,0,0,0,Chase
+24,Kaiser Roll,0,0,1,0,0,0,0,0,Chase
+24,Hoagie Roll,0,0,1,0,0,0,0,0,Chase
+24,100% Cranberry Juice,0,1,1,0,0,0,1,0,Chase
+24,Seasonal Hot Cocoa,0,0,1,0,0,0,1,0,Chase
+24,Seasonal Apple Cider,0,1,1,0,1,0,1,0,Chase
+24,Maola Whole Milk,0,0,1,0,0,0,1,0,Chase
+24,Maola 2% Reduced Fat Milk,0,0,1,0,0,0,1,0,Chase
+24,Maola Skim Milk,0,0,1,0,0,0,1,0,Chase
+24,Maola 1% Chocolate Milk,0,0,1,0,0,0,1,0,Chase
+24,100% Apple Juice,0,1,1,0,0,0,1,0,Chase
+24,100% Orange Juice,0,1,1,1,0,0,1,0,Chase
+24,Strawberry Kiwi Juice,0,1,1,0,0,0,1,0,Chase
+24,Larry's Coffee,0,1,1,1,1,1,1,0,Chase
+24,Larry's Decaf Coffee,0,1,1,1,1,1,1,0,Chase
+24,Southern Unsweet Tea,0,1,1,0,0,0,0,0,Chase
+24,Southern Sweet Tea,0,1,1,0,0,0,0,0,Chase
+24,Chocolate Soymilk,0,1,1,1,0,0,1,0,Chase
+24,Vanilla Soymilk,0,1,1,1,0,0,1,0,Chase
+24,Dr. Pepper,0,1,1,0,0,0,1,0,Chase
+24,Diet Dr. Pepper,0,1,1,0,0,0,1,0,Chase
+24,Root Beer,0,1,1,0,0,0,1,0,Chase
+24,Sunkist Orange,0,1,1,0,0,0,1,0,Chase
+24,Sierra Mist,0,1,1,0,0,0,1,0,Chase
+24,Tropicana Lemonade,0,1,1,0,0,0,1,0,Chase
+24,Tropicana Fruit Punch,0,1,1,0,0,0,1,0,Chase
+24,Mountain Dew,0,1,1,0,0,0,1,0,Chase
+24,Diet Mountain Dew,0,1,1,0,0,0,1,0,Chase
+24,SoBe Lifewater Pomegranate,0,1,1,0,0,0,0,0,Chase
+24,Brisk Green Tea Peach,0,1,1,0,0,0,0,0,Chase
+24,Cheerwine,0,1,1,0,0,0,1,0,Chase
+24,Diet Pepsi,0,1,1,0,0,0,1,0,Chase
+24,Pepsi,0,1,1,0,0,0,1,0,Chase
+24,Gatorade Fruit Punch,0,1,1,0,0,0,1,0,Chase
+24,Gatorade Orange,0,1,1,0,0,0,0,0,Chase
+24,Waffle Bar,1,0,1,0,0,0,0,0,Chase
+24,Red Velvet Cupcake,1,0,1,0,0,0,1,0,Chase
+24,Dragonfruit & Mango Parfait,1,0,1,0,0,0,1,0,Chase
+24,Matcha Donut Bites,1,0,1,0,0,0,0,0,Chase
+24,Lucky Charms Bar,1,0,0,0,0,0,1,0,Chase
+24,Vanilla Soft Serve Ice Cream,1,0,1,0,0,0,1,0,Chase
+24,Chocolate Soft Serve Ice Cream,1,0,1,0,0,0,1,0,Chase
+24,Assorted Cookies,1,0,1,0,0,0,0,0,Chase
+24,Fudge Brownie,1,0,1,0,0,0,0,0,Chase
+24,Rice Krispie Treats,1,0,0,0,0,0,0,0,Chase
+24,Herbed Grilled Pork Chop,1,0,0,1,0,0,1,0,Chase
+24,Potato Hash,1,1,1,1,0,0,1,0,Chase
+24,Roasted Apples,1,1,1,0,0,0,1,0,Chase
+24,Steamed Broccoli ,1,1,1,1,0,0,1,0,Chase
+24,Seasoned Baked Chicken Wings,1,0,0,0,0,0,1,0,Chase
+24,Honey BBQ Sauce ,1,0,1,0,0,0,1,0,Chase
+24,Steamed Whole Green Beans,1,1,1,1,0,0,1,0,Chase
+24,Corn on the Cob ,1,1,1,1,0,0,1,0,Chase
+24,Mac & Cheese ,1,0,1,0,0,0,0,0,Chase
+24,Spicy Crispy Chicken Sandwich,1,0,0,0,0,0,0,0,Chase
+24,Waffle Fries,1,1,1,0,0,0,0,0,Chase
+24,Garden Burger Patty,1,0,1,1,0,0,0,0,Chase
+24,Black Bean Burger Patty,1,0,1,1,0,0,0,0,Chase
+24,Udi's Gluten-Free Hamburger Bun,1,0,1,0,0,0,1,0,Chase
+24,Hamburger Bun,1,1,1,0,0,0,0,0,Chase
+24,Iceberg Lettuce,1,1,1,1,1,0,1,0,Chase
+24,Sliced Dill Pickles ,1,1,1,1,0,0,1,0,Chase
+24,Heirloom Tomatoes,1,1,1,1,0,0,1,0,Chase
+24,Vegan Cheddar Cheese,1,1,1,0,0,0,0,0,Chase
+24,Sliced Yellow American Cheese,1,0,1,0,0,0,1,0,Chase
+24,Middle Eastern Falafel,1,1,1,0,0,0,1,0,Chase
+24,Moroccan Vegetable Stew,1,1,1,1,0,0,1,0,Chase
+24,Basmati Rice,1,1,1,1,0,0,1,0,Chase
+24,Frozen Strawberries,1,1,1,1,0,0,1,0,Chase
+24,Peaches,1,1,1,1,0,0,1,0,Chase
+24,Vanilla Greek Yogurt,1,0,1,0,0,0,1,0,Chase
+24,Blueberries,1,1,1,1,0,0,1,0,Chase
+24,Sliced Bananas,1,1,1,1,0,0,1,0,Chase
+24,Frozen Pineapple Cubes,1,1,1,1,0,0,1,0,Chase
+24,Frozen Mango ,1,1,1,1,0,0,1,0,Chase
+24,Baby Spinach,1,1,1,1,0,0,1,0,Chase
+24,100% Apple Juice,1,1,1,0,0,0,1,0,Chase
+24,100% Orange Juice,1,1,1,1,0,0,1,0,Chase
+24,Curry Chicken,1,0,0,0,0,0,1,0,Chase
+24,Strawberry Balsamic Goat Cheese Pizza,1,0,1,0,0,0,0,0,Chase
+24,Vegan Cheese Pizza,1,1,1,0,0,0,0,0,Chase
+24,Ham and Pineapple Pizza,1,0,0,0,0,0,0,0,Chase
+24,Cheese Bread ,1,0,1,0,0,0,0,0,Chase
+24,Classic Cheese Pizza,1,0,1,0,0,0,0,0,Chase
+24,Classic Pepperoni Pizza,1,0,0,0,0,0,0,0,Chase
+24,Ahi Tuna Umami Poke Bowl,1,0,0,0,0,0,0,0,Chase
+24,Tofu Poke Bowl,1,0,1,0,0,0,0,0,Chase
+24,Soy Sauce,1,1,1,0,0,0,0,0,Chase
+24,Sriracha Mayonnaise,1,0,1,0,0,0,1,0,Chase
+24,Chicken Penne with Fire Roasted Tomatoes,1,0,0,0,0,0,0,0,Chase
+24,Alfredo Sauce,1,0,1,0,0,0,1,0,Chase
+24,Marinara Sauce ,1,1,1,1,0,0,1,0,Chase
+24,Penne Pasta,1,1,1,0,0,0,0,0,Chase
+24,Red Skin Potato Salad,1,0,1,0,0,0,1,0,Chase
+24,Classic Macaroni Salad,1,0,1,0,0,0,0,0,Chase
+24,Italian Lentil Salad,1,1,1,0,0,0,1,0,Chase
+24,Manhattan Clam Chowder,1,0,0,1,0,0,1,0,Chase
+24,Tomato Lentil Soup,1,1,1,1,0,0,0,0,Chase
+24,Red Skin Potato Salad,1,0,1,0,0,0,1,0,Chase
+24,Classic Macaroni Salad,1,0,1,0,0,0,0,0,Chase
+24,Italian Lentil Salad,1,1,1,0,0,0,1,0,Chase
+24,White Bread ,1,1,1,0,0,0,0,0,Chase
+24,Udi's Multigrain Bread,1,0,1,0,0,0,1,0,Chase
+24,Udi's White Bread,1,0,1,0,0,0,1,0,Chase
+24,Multigrain Bread,1,1,1,1,0,0,0,0,Chase
+24,Wheat Bread Slice,1,1,1,1,0,0,0,0,Chase
+24,Sourdough ,1,0,1,0,0,0,0,0,Chase
+24,Hoagie Roll,1,0,1,0,0,0,0,0,Chase
+24,12' Assorted Wraps,1,1,1,0,0,0,0,0,Chase
+24,Vegan American Sliced Cheese,1,1,1,0,0,0,1,0,Chase
+24,Sliced Ham,1,0,0,0,0,0,1,0,Chase
+24,Sliced Roast Beef,1,0,0,0,0,0,1,0,Chase
+24,Sliced Turkey,1,0,0,1,0,0,1,0,Chase
+24,Sliced Salami,1,0,0,0,0,0,1,0,Chase
+24,Chunky Chicken Salad,1,0,0,0,0,0,1,0,Chase
+24,Tuna Salad,1,0,0,0,0,0,1,0,Chase
+24,Grilled Chicken Breast,1,0,0,0,0,0,1,0,Chase
+24,Sliced Red Onion,1,1,1,1,0,0,1,0,Chase
+24,Heirloom Tomatoes,1,1,1,1,0,0,1,0,Chase
+24,Sliced Yellow American Cheese,1,0,1,0,0,0,1,0,Chase
+24,Sliced Pepper Jack Cheese,1,0,1,0,0,0,1,0,Chase
+24,Swiss Cheese,1,0,1,0,0,0,1,0,Chase
+24,Sliced Cheddar Cheese,1,0,1,0,0,0,1,0,Chase
+24,Black Olives,1,1,1,1,0,0,1,0,Chase
+24,Lettuce,1,1,1,1,1,0,1,0,Chase
+24,Sliced Dill Pickles ,1,1,1,1,0,0,1,0,Chase
+24,Banana Peppers,1,1,1,1,0,0,1,0,Chase
+24,Jalapeno Peppers,1,1,1,1,0,0,1,0,Chase
+24,Honey Chipotle Sauce,1,0,1,0,0,0,1,0,Chase
+24,Sriracha Mayonnaise,1,0,1,0,0,0,1,0,Chase
+24,Chipotle Mayonnaise,1,0,1,0,0,0,1,0,Chase
+24,Mayonnaise,1,0,1,0,0,0,1,0,Chase
+24,Yellow Mustard,1,1,1,1,0,0,1,0,Chase
+24,Spicy Brown Mustard,1,1,1,1,0,0,1,0,Chase
+24,Oil and Vinegar,1,1,1,1,0,0,1,0,Chase
+24,Nut-Free Pesto Sauce,1,0,1,0,0,0,1,0,Chase
+24,Strawberries,1,1,1,1,0,0,1,0,Chase
+24,Lite Italian Dressing,1,1,1,0,0,0,1,0,Chase
+24,Thousand Island Dressing,1,0,1,0,0,0,1,0,Chase
+24,Kidney Beans,1,1,1,1,0,0,1,0,Chase
+24,Low Fat Cottage Cheese,1,0,1,1,0,0,1,0,Chase
+24,Diced Chicken,1,0,0,1,0,0,0,0,Chase
+24,Vanilla Yogurt,1,0,1,1,0,0,1,0,Chase
+24,Oil and Vinegar,1,1,1,1,0,0,1,0,Chase
+24,Strawberry Yogurt,1,0,1,1,0,0,1,0,Chase
+24,Applesauce,1,1,1,1,0,0,1,0,Chase
+24,Kiwi,1,1,1,1,0,0,1,0,Chase
+24,Blueberries,1,1,1,1,0,0,1,0,Chase
+24,Strawberries,1,1,1,1,0,0,1,0,Chase
+24,Grapes,1,1,1,1,0,0,1,0,Chase
+24,Pineapple,1,1,1,1,0,0,1,0,Chase
+24,Honey Dew,1,1,1,1,0,0,1,0,Chase
+24,Cantaloupe,1,1,1,1,0,0,1,0,Chase
+24,Raisins,1,1,1,1,0,0,1,0,Chase
+24,Hummus,1,1,1,1,0,0,1,0,Chase
+24,Feta Cheese,1,0,1,0,0,0,1,0,Chase
+24,Cheddar Cheese,1,0,1,0,0,0,1,0,Chase
+24,Diced Tofu,1,1,1,1,1,0,1,0,Chase
+24,Quinoa,1,1,1,1,0,0,1,0,Chase
+24,Black Beans,1,1,1,1,0,0,1,0,Chase
+24,Garbanzo Beans,1,1,1,1,0,0,1,0,Chase
+24,Hard Boiled Eggs,1,0,1,0,0,0,0,0,Chase
+24,Bacon Bits,1,0,0,0,0,0,1,0,Chase
+24,Green Peppers,1,1,1,1,0,0,1,0,Chase
+24,Beets,1,1,1,1,0,0,1,0,Chase
+24,Sliced Red Onion,1,1,1,1,0,0,1,0,Chase
+24,Shredded Carrots,1,1,1,1,0,0,1,0,Chase
+24,Sliced Cucumber,1,1,1,1,0,0,1,0,Chase
+24,Grape Tomatoes,1,1,1,1,0,0,1,0,Chase
+24,Black Olives,1,1,1,1,0,0,1,0,Chase
+24,Spring Salad Mix,1,1,1,1,1,0,1,0,Chase
+24,Baby Spinach,1,1,1,1,0,0,1,0,Chase
+24,Iceberg Lettuce,1,1,1,1,0,0,1,0,Chase
+24,Croutons,1,0,1,0,0,0,0,0,Chase
+24,Sunflower Seeds,1,1,1,1,0,0,1,0,Chase
+24,Craisins,1,1,1,1,0,0,1,0,Chase
+24,Ranch Dressing,1,0,1,0,0,0,1,0,Chase
+24,Fat-Free Italian Dressing,1,1,1,0,0,0,1,0,Chase
+24,Fat-Free French Dressing,1,1,1,0,0,0,1,0,Chase
+24,Balsamic Vinaigrette,1,1,1,0,0,0,1,0,Chase
+24,Honey Mustard Dressing,1,0,1,0,0,0,1,0,Chase
+24,Blue Cheese Dressing,1,0,1,0,0,0,1,0,Chase
+24,Caesar Dressing,1,0,0,0,0,0,1,0,Chase
+24,Schar Ciabatta Roll,1,1,1,0,0,0,1,0,Chase
+24,JP's Brownie,1,1,1,0,0,0,1,0,Chase
+24,JP's GF Hawaiian Rolls,1,0,1,0,0,0,1,0,Chase
+24,JP's GF Vegan Chocolate Cupcake,1,1,1,0,0,0,1,0,Chase
+24,JP's Gluten-Free Blueberry Muffins,1,0,0,0,0,0,1,0,Chase
+24,JP's Key Lime Cheesecake Bar,1,0,1,0,0,0,1,0,Chase
+24,Katz Powdered Donut Holes,1,0,1,0,0,0,1,0,Chase
+24,Katz Cinnamon Donut Hole,1,0,1,0,0,0,1,0,Chase
+24,Katz Glazed Donut Holes,1,0,1,0,0,0,1,0,Chase
+24,Katz Oatmeal Creme Pie,1,0,1,0,0,0,1,0,Chase
+24,Kinnikinnick Birthday Cream Sandwich Cookie,1,1,1,0,0,0,1,0,Chase
+24,Kinnikinnick Mint Magic Sandwich Creme Cookies,1,1,1,0,0,0,1,0,Chase
+24,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,1,1,1,0,0,0,1,0,Chase
+24,Kinnikinnick Chocolate Sandwich Creme Cookies,1,1,1,0,0,0,1,0,Chase
+24,Kinnikinnick Cinnamon Sugar Donuts,1,0,1,0,0,0,1,0,Chase
+24,Kinnikinnick Vanilla Glazed Donuts,1,0,1,0,0,0,1,0,Chase
+24,O'Doughs Original Bagel,1,1,1,0,0,0,1,0,Chase
+24,O'doughs Everything Bagel,1,1,1,0,0,0,1,0,Chase
+24,O'Doughs Pumpernickel Bagel,1,1,1,0,0,0,1,0,Chase
+24,O'Doughs Original Sandwich Slices,1,1,1,0,0,0,1,0,Chase
+24,O'Doughs Multigrain Sandwich Slices,1,1,1,0,0,0,1,0,Chase
+24,Apple Jacks,1,0,1,0,0,0,0,0,Chase
+24,Cinnamon Toast Crunch,1,0,1,0,0,0,0,0,Chase
+24,Frosted Flakes,1,0,1,0,0,0,0,0,Chase
+24,Cocoa Puffs,1,0,1,0,0,0,0,0,Chase
+24,Lucky Charms,1,0,0,0,0,0,0,0,Chase
+24,Krave Chocolate Cereal,1,0,1,0,0,0,0,0,Chase
+24,Cheerios,1,0,1,1,0,0,1,0,Chase
+24,Raisin Bran,1,0,1,0,0,0,0,0,Chase
+24,Froot Loops,1,0,1,0,0,0,0,0,Chase
+24,Oats and Honey Granola,1,0,1,0,0,0,0,0,Chase
+24,Ranch,1,0,1,0,0,0,1,0,Chase
+24,Ketchup,1,1,1,0,0,0,1,0,Chase
+24,BBQ Sauce,1,1,1,0,0,0,1,0,Chase
+24,Sriracha Sauce,1,1,1,0,0,0,1,0,Chase
+24,Texas Pete Hot Sauce,1,1,1,1,0,0,1,0,Chase
+24,Mayonnaise,1,0,1,0,0,0,1,0,Chase
+24,Yellow Mustard,1,1,1,1,0,0,1,0,Chase
+24,Vegetable Cream Cheese,1,0,1,0,0,0,1,0,Chase
+24,Margarine,1,1,1,0,0,0,1,0,Chase
+24,Oil and Vinegar,1,1,1,1,0,0,1,0,Chase
+24,Tabasco Hot Sauce,1,1,1,1,0,0,1,0,Chase
+24,Grape Jelly,1,1,1,0,0,0,1,0,Chase
+24,Strawberry Jelly,1,1,1,0,0,0,1,0,Chase
+24,Peanut Butter,1,1,1,0,0,0,1,0,Chase
+24,Plain Cream Cheese Spread,1,0,1,0,0,0,1,0,Chase
+24,Strawberry Cream Cheese,1,0,1,0,0,0,1,0,Chase
+24,Chives and Onion Cream Cheese,1,0,1,1,0,0,1,0,Chase
+24,Plain Bagel,1,0,1,0,0,0,0,0,Chase
+24,Everything Bagel,1,0,1,0,0,0,0,0,Chase
+24,Blueberry Bagel,1,0,1,0,0,0,0,0,Chase
+24,Cheese Bagel,1,0,1,0,0,0,0,0,Chase
+24,Multigrain Bagel,1,1,1,0,0,0,0,0,Chase
+24,Rye Bread Slice,1,1,1,0,0,0,0,0,Chase
+24,Multigrain Bread,1,0,1,0,0,0,0,0,Chase
+24,Wheat Bread Slice,1,1,1,1,0,0,0,0,Chase
+24,Kaiser Roll,1,0,1,0,0,0,0,0,Chase
+24,Hoagie Roll,1,0,1,0,0,0,0,0,Chase
+24,100% Cranberry Juice,1,1,1,0,0,0,1,0,Chase
+24,Seasonal Hot Cocoa,1,0,1,0,0,0,1,0,Chase
+24,Seasonal Apple Cider,1,1,1,0,1,0,1,0,Chase
+24,Maola Whole Milk,1,0,1,0,0,0,1,0,Chase
+24,Maola 2% Reduced Fat Milk,1,0,1,0,0,0,1,0,Chase
+24,Maola Skim Milk,1,0,1,0,0,0,1,0,Chase
+24,Maola 1% Chocolate Milk,1,0,1,0,0,0,1,0,Chase
+24,100% Apple Juice,1,1,1,0,0,0,1,0,Chase
+24,100% Orange Juice,1,1,1,1,0,0,1,0,Chase
+24,Strawberry Kiwi Juice,1,1,1,0,0,0,1,0,Chase
+24,Larry's Coffee,1,1,1,1,1,1,1,0,Chase
+24,Larry's Decaf Coffee,1,1,1,1,1,1,1,0,Chase
+24,Southern Unsweet Tea,1,1,1,0,0,0,0,0,Chase
+24,Southern Sweet Tea,1,1,1,0,0,0,0,0,Chase
+24,Chocolate Soymilk,1,1,1,1,0,0,1,0,Chase
+24,Vanilla Soymilk,1,1,1,1,0,0,1,0,Chase
+24,Dr. Pepper,1,1,1,0,0,0,1,0,Chase
+24,Diet Dr. Pepper,1,1,1,0,0,0,1,0,Chase
+24,Root Beer,1,1,1,0,0,0,1,0,Chase
+24,Sunkist Orange,1,1,1,0,0,0,1,0,Chase
+24,Sierra Mist,1,1,1,0,0,0,1,0,Chase
+24,Tropicana Lemonade,1,1,1,0,0,0,1,0,Chase
+24,Tropicana Fruit Punch,1,1,1,0,0,0,1,0,Chase
+24,Mountain Dew,1,1,1,0,0,0,1,0,Chase
+24,Diet Mountain Dew,1,1,1,0,0,0,1,0,Chase
+24,SoBe Lifewater Pomegranate,1,1,1,0,0,0,0,0,Chase
+24,Brisk Green Tea Peach,1,1,1,0,0,0,0,0,Chase
+24,Cheerwine,1,1,1,0,0,0,1,0,Chase
+24,Diet Pepsi,1,1,1,0,0,0,1,0,Chase
+24,Pepsi,1,1,1,0,0,0,1,0,Chase
+24,Gatorade Fruit Punch,1,1,1,0,0,0,1,0,Chase
+24,Gatorade Orange,1,1,1,0,0,0,0,0,Chase
+24,Waffle Bar,2,0,1,0,0,0,0,0,Chase
+24,Assorted Cookies,2,0,1,0,0,0,0,0,Chase
+24,Rice Krispie Treats,2,0,0,0,0,0,0,0,Chase
+24,Fudge Brownie,2,0,1,0,0,0,0,0,Chase
+24,Chocolate Soft Serve Ice Cream,2,0,1,0,0,0,1,0,Chase
+24,Vanilla Soft Serve Ice Cream,2,0,1,0,0,0,1,0,Chase
+24,Classic Cheese Pizza,2,0,1,0,0,0,0,0,Chase
+24,Classic Pepperoni Pizza,2,0,0,0,0,0,0,0,Chase
+24,Cheese Bread ,2,0,1,0,0,0,0,0,Chase
+24,Manhattan Clam Chowder,2,0,0,1,0,0,1,0,Chase
+24,French Onion Soup,2,0,0,0,0,0,0,0,Chase
+24,White Bread ,2,1,1,0,0,0,0,0,Chase
+24,Udi's Multigrain Bread,2,0,1,0,0,0,1,0,Chase
+24,Udi's White Bread,2,0,1,0,0,0,1,0,Chase
+24,Multigrain Bread,2,1,1,1,0,0,0,0,Chase
+24,Wheat Bread Slice,2,1,1,1,0,0,0,0,Chase
+24,Sourdough ,2,0,1,0,0,0,0,0,Chase
+24,Hoagie Roll,2,0,1,0,0,0,0,0,Chase
+24,12' Assorted Wraps,2,1,1,0,0,0,0,0,Chase
+24,Vegan American Sliced Cheese,2,1,1,0,0,0,1,0,Chase
+24,Sliced Ham,2,0,0,0,0,0,1,0,Chase
+24,Sliced Roast Beef,2,0,0,0,0,0,1,0,Chase
+24,Sliced Turkey,2,0,0,1,0,0,1,0,Chase
+24,Sliced Salami,2,0,0,0,0,0,1,0,Chase
+24,Chunky Chicken Salad,2,0,0,0,0,0,1,0,Chase
+24,Tuna Salad,2,0,0,0,0,0,1,0,Chase
+24,Grilled Chicken Breast,2,0,0,0,0,0,1,0,Chase
+24,Sliced Red Onion,2,1,1,1,0,0,1,0,Chase
+24,Heirloom Tomatoes,2,1,1,1,0,0,1,0,Chase
+24,Sliced Yellow American Cheese,2,0,1,0,0,0,1,0,Chase
+24,Sliced Pepper Jack Cheese,2,0,1,0,0,0,1,0,Chase
+24,Swiss Cheese,2,0,1,0,0,0,1,0,Chase
+24,Sliced Cheddar Cheese,2,0,1,0,0,0,1,0,Chase
+24,Black Olives,2,1,1,1,0,0,1,0,Chase
+24,Lettuce,2,1,1,1,1,0,1,0,Chase
+24,Sliced Dill Pickles ,2,1,1,1,0,0,1,0,Chase
+24,Banana Peppers,2,1,1,1,0,0,1,0,Chase
+24,Jalapeno Peppers,2,1,1,1,0,0,1,0,Chase
+24,Honey Chipotle Sauce,2,0,1,0,0,0,1,0,Chase
+24,Sriracha Mayonnaise,2,0,1,0,0,0,1,0,Chase
+24,Chipotle Mayonnaise,2,0,1,0,0,0,1,0,Chase
+24,Mayonnaise,2,0,1,0,0,0,1,0,Chase
+24,Yellow Mustard,2,1,1,1,0,0,1,0,Chase
+24,Spicy Brown Mustard,2,1,1,1,0,0,1,0,Chase
+24,Oil and Vinegar,2,1,1,1,0,0,1,0,Chase
+24,Nut-Free Pesto Sauce,2,0,1,0,0,0,1,0,Chase
+24,Strawberries,2,1,1,1,0,0,1,0,Chase
+24,Lite Italian Dressing,2,1,1,0,0,0,1,0,Chase
+24,Thousand Island Dressing,2,0,1,0,0,0,1,0,Chase
+24,Kidney Beans,2,1,1,1,0,0,1,0,Chase
+24,Low Fat Cottage Cheese,2,0,1,1,0,0,1,0,Chase
+24,Diced Chicken,2,0,0,1,0,0,0,0,Chase
+24,Vanilla Yogurt,2,0,1,1,0,0,1,0,Chase
+24,Oil and Vinegar,2,1,1,1,0,0,1,0,Chase
+24,Strawberry Yogurt,2,0,1,1,0,0,1,0,Chase
+24,Applesauce,2,1,1,1,0,0,1,0,Chase
+24,Kiwi,2,1,1,1,0,0,1,0,Chase
+24,Blueberries,2,1,1,1,0,0,1,0,Chase
+24,Strawberries,2,1,1,1,0,0,1,0,Chase
+24,Grapes,2,1,1,1,0,0,1,0,Chase
+24,Pineapple,2,1,1,1,0,0,1,0,Chase
+24,Honey Dew,2,1,1,1,0,0,1,0,Chase
+24,Cantaloupe,2,1,1,1,0,0,1,0,Chase
+24,Raisins,2,1,1,1,0,0,1,0,Chase
+24,Hummus,2,1,1,1,0,0,1,0,Chase
+24,Feta Cheese,2,0,1,0,0,0,1,0,Chase
+24,Cheddar Cheese,2,0,1,0,0,0,1,0,Chase
+24,Diced Tofu,2,1,1,1,1,0,1,0,Chase
+24,Quinoa,2,1,1,1,0,0,1,0,Chase
+24,Black Beans,2,1,1,1,0,0,1,0,Chase
+24,Garbanzo Beans,2,1,1,1,0,0,1,0,Chase
+24,Hard Boiled Eggs,2,0,1,0,0,0,0,0,Chase
+24,Bacon Bits,2,0,0,0,0,0,1,0,Chase
+24,Green Peppers,2,1,1,1,0,0,1,0,Chase
+24,Beets,2,1,1,1,0,0,1,0,Chase
+24,Sliced Red Onion,2,1,1,1,0,0,1,0,Chase
+24,Shredded Carrots,2,1,1,1,0,0,1,0,Chase
+24,Sliced Cucumber,2,1,1,1,0,0,1,0,Chase
+24,Grape Tomatoes,2,1,1,1,0,0,1,0,Chase
+24,Black Olives,2,1,1,1,0,0,1,0,Chase
+24,Spring Salad Mix,2,1,1,1,1,0,1,0,Chase
+24,Baby Spinach,2,1,1,1,0,0,1,0,Chase
+24,Iceberg Lettuce,2,1,1,1,0,0,1,0,Chase
+24,Croutons,2,0,1,0,0,0,0,0,Chase
+24,Sunflower Seeds,2,1,1,1,0,0,1,0,Chase
+24,Craisins,2,1,1,1,0,0,1,0,Chase
+24,Ranch Dressing,2,0,1,0,0,0,1,0,Chase
+24,Fat-Free Italian Dressing,2,1,1,0,0,0,1,0,Chase
+24,Fat-Free French Dressing,2,1,1,0,0,0,1,0,Chase
+24,Balsamic Vinaigrette,2,1,1,0,0,0,1,0,Chase
+24,Honey Mustard Dressing,2,0,1,0,0,0,1,0,Chase
+24,Blue Cheese Dressing,2,0,1,0,0,0,1,0,Chase
+24,Caesar Dressing,2,0,0,0,0,0,1,0,Chase
+24,Schar Ciabatta Roll,2,1,1,0,0,0,1,0,Chase
+24,JP's Brownie,2,1,1,0,0,0,1,0,Chase
+24,JP's GF Hawaiian Rolls,2,0,1,0,0,0,1,0,Chase
+24,JP's GF Vegan Chocolate Cupcake,2,1,1,0,0,0,1,0,Chase
+24,JP's Gluten-Free Blueberry Muffins,2,0,0,0,0,0,1,0,Chase
+24,JP's Key Lime Cheesecake Bar,2,0,1,0,0,0,1,0,Chase
+24,Katz Powdered Donut Holes,2,0,1,0,0,0,1,0,Chase
+24,Katz Cinnamon Donut Hole,2,0,1,0,0,0,1,0,Chase
+24,Katz Glazed Donut Holes,2,0,1,0,0,0,1,0,Chase
+24,Katz Oatmeal Creme Pie,2,0,1,0,0,0,1,0,Chase
+24,Kinnikinnick Birthday Cream Sandwich Cookie,2,1,1,0,0,0,1,0,Chase
+24,Kinnikinnick Mint Magic Sandwich Creme Cookies,2,1,1,0,0,0,1,0,Chase
+24,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,2,1,1,0,0,0,1,0,Chase
+24,Kinnikinnick Chocolate Sandwich Creme Cookies,2,1,1,0,0,0,1,0,Chase
+24,Kinnikinnick Cinnamon Sugar Donuts,2,0,1,0,0,0,1,0,Chase
+24,Kinnikinnick Vanilla Glazed Donuts,2,0,1,0,0,0,1,0,Chase
+24,O'Doughs Original Bagel,2,1,1,0,0,0,1,0,Chase
+24,O'doughs Everything Bagel,2,1,1,0,0,0,1,0,Chase
+24,O'Doughs Pumpernickel Bagel,2,1,1,0,0,0,1,0,Chase
+24,O'Doughs Original Sandwich Slices,2,1,1,0,0,0,1,0,Chase
+24,O'Doughs Multigrain Sandwich Slices,2,1,1,0,0,0,1,0,Chase
+24,Apple Jacks,2,0,1,0,0,0,0,0,Chase
+24,Cinnamon Toast Crunch,2,0,1,0,0,0,0,0,Chase
+24,Frosted Flakes,2,0,1,0,0,0,0,0,Chase
+24,Cocoa Puffs,2,0,1,0,0,0,0,0,Chase
+24,Lucky Charms,2,0,0,0,0,0,0,0,Chase
+24,Krave Chocolate Cereal,2,0,1,0,0,0,0,0,Chase
+24,Cheerios,2,0,1,1,0,0,1,0,Chase
+24,Raisin Bran,2,0,1,0,0,0,0,0,Chase
+24,Froot Loops,2,0,1,0,0,0,0,0,Chase
+24,Oats and Honey Granola,2,0,1,0,0,0,0,0,Chase
+24,Ketchup,2,1,1,0,0,0,1,0,Chase
+24,Oil and Vinegar,2,1,1,1,0,0,1,0,Chase
+24,Strawberry Jelly,2,1,1,0,0,0,1,0,Chase
+24,Strawberry Cream Cheese,2,0,1,0,0,0,1,0,Chase
+24,Yellow Mustard,2,1,1,1,0,0,1,0,Chase
+24,Original Creamer,2,0,1,0,0,0,1,0,Chase
+24,French Vanilla Creamer,2,0,1,0,0,0,1,0,Chase
+24,Hazelnut Creamer,2,0,1,0,0,0,1,0,Chase
+24,Vegetable Cream Cheese,2,0,1,0,0,0,1,0,Chase
+24,Creamy Peanut Butter,2,1,1,0,0,0,1,0,Chase
+24,Texas Pete Hot Sauce,2,1,1,1,0,0,1,0,Chase
+24,Sriracha Sauce,2,1,1,0,0,0,1,0,Chase
+24,Ranch,2,0,1,0,0,0,1,0,Chase
+24,Grape Jelly,2,1,1,0,0,0,1,0,Chase
+24,Plain Cream Cheese Spread,2,0,1,0,0,0,1,0,Chase
+24,Margarine,2,1,1,0,0,0,1,0,Chase
+24,Plain Bagel,2,0,1,0,0,0,0,0,Chase
+24,Everything Bagel,2,0,1,0,0,0,0,0,Chase
+24,Blueberry Bagel,2,0,1,0,0,0,0,0,Chase
+24,Cheese Bagel,2,0,1,0,0,0,0,0,Chase
+24,Multigrain Bagel,2,1,1,0,0,0,0,0,Chase
+24,Rye Bread Slice,2,1,1,0,0,0,0,0,Chase
+24,Multigrain Bread,2,0,1,0,0,0,0,0,Chase
+24,Wheat Bread Slice,2,1,1,1,0,0,0,0,Chase
+24,Kaiser Roll,2,0,1,0,0,0,0,0,Chase
+24,Hoagie Roll,2,0,1,0,0,0,0,0,Chase
+24,100% Cranberry Juice,2,1,1,0,0,0,1,0,Chase
+24,Seasonal Hot Cocoa,2,0,1,0,0,0,1,0,Chase
+24,Seasonal Apple Cider,2,1,1,0,1,0,1,0,Chase
+24,Maola Whole Milk,2,0,1,0,0,0,1,0,Chase
+24,Maola 2% Reduced Fat Milk,2,0,1,0,0,0,1,0,Chase
+24,Maola Skim Milk,2,0,1,0,0,0,1,0,Chase
+24,Maola 1% Chocolate Milk,2,0,1,0,0,0,1,0,Chase
+24,100% Apple Juice,2,1,1,0,0,0,1,0,Chase
+24,100% Orange Juice,2,1,1,1,0,0,1,0,Chase
+24,Strawberry Kiwi Juice,2,1,1,0,0,0,1,0,Chase
+24,Larry's Coffee,2,1,1,1,1,1,1,0,Chase
+24,Larry's Decaf Coffee,2,1,1,1,1,1,1,0,Chase
+24,Southern Unsweet Tea,2,1,1,0,0,0,0,0,Chase
+24,Southern Sweet Tea,2,1,1,0,0,0,0,0,Chase
+24,Chocolate Soymilk,2,1,1,1,0,0,1,0,Chase
+24,Vanilla Soymilk,2,1,1,1,0,0,1,0,Chase
+24,Dr. Pepper,2,1,1,0,0,0,1,0,Chase
+24,Diet Dr. Pepper,2,1,1,0,0,0,1,0,Chase
+24,Root Beer,2,1,1,0,0,0,1,0,Chase
+24,Sunkist Orange,2,1,1,0,0,0,1,0,Chase
+24,Sierra Mist,2,1,1,0,0,0,1,0,Chase
+24,Tropicana Lemonade,2,1,1,0,0,0,1,0,Chase
+24,Tropicana Fruit Punch,2,1,1,0,0,0,1,0,Chase
+24,Mountain Dew,2,1,1,0,0,0,1,0,Chase
+24,Diet Mountain Dew,2,1,1,0,0,0,1,0,Chase
+24,SoBe Lifewater Pomegranate,2,1,1,0,0,0,0,0,Chase
+24,Brisk Green Tea Peach,2,1,1,0,0,0,0,0,Chase
+24,Cheerwine,2,1,1,0,0,0,1,0,Chase
+24,Diet Pepsi,2,1,1,0,0,0,1,0,Chase
+24,Pepsi,2,1,1,0,0,0,1,0,Chase
+24,Gatorade Fruit Punch,2,1,1,0,0,0,1,0,Chase
+24,Gatorade Orange,2,1,1,0,0,0,0,0,Chase
+24,Waffle Bar,3,0,1,0,0,0,0,0,Chase
+24,Red Velvet Cupcake,3,0,1,0,0,0,1,0,Chase
+24,Dragonfruit & Mango Parfait,3,0,1,0,0,0,1,0,Chase
+24,Matcha Donut Bites,3,0,1,0,0,0,0,0,Chase
+24,Lucky Charms Bar,3,0,0,0,0,0,1,0,Chase
+24,Vanilla Soft Serve Ice Cream,3,0,1,0,0,0,1,0,Chase
+24,Chocolate Soft Serve Ice Cream,3,0,1,0,0,0,1,0,Chase
+24,Assorted Cookies,3,0,1,0,0,0,0,0,Chase
+24,Fudge Brownie,3,0,1,0,0,0,0,0,Chase
+24,Rice Krispie Treats,3,0,0,0,0,0,0,0,Chase
+24,Honey BBQ Chicken,3,0,0,0,0,0,1,1,Chase
+24,Steamed Corn,3,1,1,1,0,0,1,0,Chase
+24,Steamed Green Peas,3,1,1,1,0,0,1,0,Chase
+24,EVOO Mashed Potatoes,3,1,1,1,0,0,1,0,Chase
+24,Sweet Korean Flank Steak,3,0,0,0,0,0,0,0,Chase
+24,Sesame Garlic Bok Choy,3,1,1,1,0,0,1,0,Chase
+24,Roasted Mushrooms,3,1,1,1,0,0,1,0,Chase
+24,Basmati Rice,3,1,1,1,0,0,1,0,Chase
+24,Local Grass-fed Burger Patties,3,0,0,0,1,0,1,0,Chase
+24,Shoestring Fries,3,1,1,0,0,0,0,0,Chase
+24,Udi's Gluten-Free Hamburger Bun,3,0,1,0,0,0,1,0,Chase
+24,Iceberg Lettuce,3,1,1,1,1,0,1,0,Chase
+24,Sliced Dill Pickles ,3,1,1,1,0,0,1,0,Chase
+24,Heirloom Tomatoes,3,1,1,1,0,0,1,0,Chase
+24,Sliced Yellow American Cheese,3,0,1,0,0,0,1,0,Chase
+24,Black Bean Burger Patty,3,0,1,1,0,0,0,0,Chase
+24,Garden Burger Patty,3,0,1,1,0,0,0,0,Chase
+24,Vegan Cheddar Cheese,3,1,1,0,0,0,0,0,Chase
+24,Hamburger Bun,3,1,1,0,0,0,0,0,Chase
+24,Soy Nuggets with Arrabiata Sauce,3,1,1,0,0,0,0,0,Chase
+24,Penne with Summer Vegetables,3,1,1,0,0,0,0,0,Chase
+24,Penne with Vegetables,3,1,1,0,0,0,0,0,Chase
+24,Sunflower Seeds,3,1,1,1,0,0,1,0,Chase
+24,Grilled Party Baguette,3,1,1,0,0,0,0,0,Chase
+24,Teriyaki Beef ,3,0,0,0,0,0,0,0,Chase
+24,Strawberry Balsamic Goat Cheese Pizza,3,0,1,0,0,0,0,0,Chase
+24,Vegan Cheese Pizza,3,1,1,0,0,0,0,0,Chase
+24,Ham and Pineapple Pizza,3,0,0,0,0,0,0,0,Chase
+24,Cheese Bread ,3,0,1,0,0,0,0,0,Chase
+24,Classic Cheese Pizza,3,0,1,0,0,0,0,0,Chase
+24,Classic Pepperoni Pizza,3,0,0,0,0,0,0,0,Chase
+24,Ahi Tuna Umami Poke Bowl,3,0,0,0,0,0,0,0,Chase
+24,Tofu Poke Bowl,3,0,1,0,0,0,0,0,Chase
+24,Soy Sauce,3,1,1,0,0,0,0,0,Chase
+24,Sriracha Mayonnaise,3,0,1,0,0,0,1,0,Chase
+24,Chicken Artichoke & Spinach Pasta Bake,3,0,0,0,0,0,0,0,Chase
+24,Marinara Sauce ,3,1,1,1,0,0,1,0,Chase
+24,Penne Pasta,3,1,1,0,0,0,0,0,Chase
+24,Alfredo Sauce,3,0,1,0,0,0,1,0,Chase
+24,Red Skin Potato Salad,3,0,1,0,0,0,1,0,Chase
+24,Classic Macaroni Salad,3,0,1,0,0,0,0,0,Chase
+24,Italian Lentil Salad,3,1,1,0,0,0,1,0,Chase
+24,Manhattan Clam Chowder,3,0,0,1,0,0,1,0,Chase
+24,Tomato Lentil Soup,3,1,1,1,0,0,0,0,Chase
+24,Ground Beef,3,0,0,0,0,0,0,0,Chase
+24,Seasoned Black Beans,3,1,1,1,0,0,1,0,Chase
+24,Guacamole,3,1,1,1,0,0,1,0,Chase
+24,Sour Cream,3,0,0,0,0,0,1,0,Chase
+24,Pico Salsa,3,1,1,1,0,0,1,0,Chase
+24,Cheddar Cheese,3,0,1,0,0,0,1,0,Chase
+24,Black Olives,3,1,1,1,0,0,1,0,Chase
+24,Iceberg Lettuce,3,1,1,1,1,0,1,0,Chase
+24,Jalapeno Peppers,3,1,1,1,0,0,1,0,Chase
+24,Queso Sauce ,3,0,1,0,0,0,1,0,Chase
+24,Hot Tortilla Chips,3,1,1,0,0,0,1,0,Chase
+24,Cilantro Marinated Chicken,3,0,0,1,1,0,1,0,Chase
+24,Shredded Parmesan Cheese,3,0,1,0,0,0,1,0,Chase
+24,Italian Sausage,3,0,0,0,0,0,1,0,Chase
+24,Mushrooms,3,1,1,1,0,0,1,0,Chase
+24,Sliced Onions,3,1,1,1,0,0,1,0,Chase
+24,Mixed Bell Peppers,3,1,1,1,0,0,1,0,Chase
+24,Artichoke Hearts,3,1,1,1,0,0,1,0,Chase
+24,Kalamata Olives,3,1,1,1,0,0,1,0,Chase
+24,Bacon Bits,3,0,0,0,0,0,1,0,Chase
+24,Diced Ham,3,0,0,0,0,0,1,0,Chase
+24,Marinara Sauce ,3,1,1,1,0,0,1,0,Chase
+24,Alfredo Sauce,3,0,1,0,0,0,1,0,Chase
+24,Gemelli Pasta,3,1,1,0,0,0,0,0,Chase
+24,White Bread ,3,1,1,0,0,0,0,0,Chase
+24,Udi's Multigrain Bread,3,0,1,0,0,0,1,0,Chase
+24,Udi's White Bread,3,0,1,0,0,0,1,0,Chase
+24,Multigrain Bread,3,1,1,1,0,0,0,0,Chase
+24,Wheat Bread Slice,3,1,1,1,0,0,0,0,Chase
+24,Sourdough ,3,0,1,0,0,0,0,0,Chase
+24,Hoagie Roll,3,0,1,0,0,0,0,0,Chase
+24,12' Assorted Wraps,3,1,1,0,0,0,0,0,Chase
+24,Vegan American Sliced Cheese,3,1,1,0,0,0,1,0,Chase
+24,Sliced Ham,3,0,0,0,0,0,1,0,Chase
+24,Sliced Roast Beef,3,0,0,0,0,0,1,0,Chase
+24,Sliced Turkey,3,0,0,1,0,0,1,0,Chase
+24,Sliced Salami,3,0,0,0,0,0,1,0,Chase
+24,Chunky Chicken Salad,3,0,0,0,0,0,1,0,Chase
+24,Tuna Salad,3,0,0,0,0,0,1,0,Chase
+24,Grilled Chicken Breast,3,0,0,0,0,0,1,0,Chase
+24,Sliced Red Onion,3,1,1,1,0,0,1,0,Chase
+24,Heirloom Tomatoes,3,1,1,1,0,0,1,0,Chase
+24,Sliced Yellow American Cheese,3,0,1,0,0,0,1,0,Chase
+24,Sliced Pepper Jack Cheese,3,0,1,0,0,0,1,0,Chase
+24,Swiss Cheese,3,0,1,0,0,0,1,0,Chase
+24,Sliced Cheddar Cheese,3,0,1,0,0,0,1,0,Chase
+24,Black Olives,3,1,1,1,0,0,1,0,Chase
+24,Lettuce,3,1,1,1,1,0,1,0,Chase
+24,Sliced Dill Pickles ,3,1,1,1,0,0,1,0,Chase
+24,Banana Peppers,3,1,1,1,0,0,1,0,Chase
+24,Jalapeno Peppers,3,1,1,1,0,0,1,0,Chase
+24,Honey Chipotle Sauce,3,0,1,0,0,0,1,0,Chase
+24,Sriracha Mayonnaise,3,0,1,0,0,0,1,0,Chase
+24,Chipotle Mayonnaise,3,0,1,0,0,0,1,0,Chase
+24,Mayonnaise,3,0,1,0,0,0,1,0,Chase
+24,Yellow Mustard,3,1,1,1,0,0,1,0,Chase
+24,Spicy Brown Mustard,3,1,1,1,0,0,1,0,Chase
+24,Oil and Vinegar,3,1,1,1,0,0,1,0,Chase
+24,Nut-Free Pesto Sauce,3,0,1,0,0,0,1,0,Chase
+24,Strawberries,3,1,1,1,0,0,1,0,Chase
+24,Lite Italian Dressing,3,1,1,0,0,0,1,0,Chase
+24,Thousand Island Dressing,3,0,1,0,0,0,1,0,Chase
+24,Kidney Beans,3,1,1,1,0,0,1,0,Chase
+24,Low Fat Cottage Cheese,3,0,1,1,0,0,1,0,Chase
+24,Diced Chicken,3,0,0,1,0,0,0,0,Chase
+24,Vanilla Yogurt,3,0,1,1,0,0,1,0,Chase
+24,Oil and Vinegar,3,1,1,1,0,0,1,0,Chase
+24,Strawberry Yogurt,3,0,1,1,0,0,1,0,Chase
+24,Applesauce,3,1,1,1,0,0,1,0,Chase
+24,Kiwi,3,1,1,1,0,0,1,0,Chase
+24,Blueberries,3,1,1,1,0,0,1,0,Chase
+24,Strawberries,3,1,1,1,0,0,1,0,Chase
+24,Grapes,3,1,1,1,0,0,1,0,Chase
+24,Pineapple,3,1,1,1,0,0,1,0,Chase
+24,Honey Dew,3,1,1,1,0,0,1,0,Chase
+24,Cantaloupe,3,1,1,1,0,0,1,0,Chase
+24,Raisins,3,1,1,1,0,0,1,0,Chase
+24,Hummus,3,1,1,1,0,0,1,0,Chase
+24,Feta Cheese,3,0,1,0,0,0,1,0,Chase
+24,Cheddar Cheese,3,0,1,0,0,0,1,0,Chase
+24,Diced Tofu,3,1,1,1,1,0,1,0,Chase
+24,Quinoa,3,1,1,1,0,0,1,0,Chase
+24,Black Beans,3,1,1,1,0,0,1,0,Chase
+24,Garbanzo Beans,3,1,1,1,0,0,1,0,Chase
+24,Hard Boiled Eggs,3,0,1,0,0,0,0,0,Chase
+24,Bacon Bits,3,0,0,0,0,0,1,0,Chase
+24,Green Peppers,3,1,1,1,0,0,1,0,Chase
+24,Beets,3,1,1,1,0,0,1,0,Chase
+24,Sliced Red Onion,3,1,1,1,0,0,1,0,Chase
+24,Shredded Carrots,3,1,1,1,0,0,1,0,Chase
+24,Sliced Cucumber,3,1,1,1,0,0,1,0,Chase
+24,Grape Tomatoes,3,1,1,1,0,0,1,0,Chase
+24,Black Olives,3,1,1,1,0,0,1,0,Chase
+24,Spring Salad Mix,3,1,1,1,1,0,1,0,Chase
+24,Baby Spinach,3,1,1,1,0,0,1,0,Chase
+24,Iceberg Lettuce,3,1,1,1,0,0,1,0,Chase
+24,Croutons,3,0,1,0,0,0,0,0,Chase
+24,Sunflower Seeds,3,1,1,1,0,0,1,0,Chase
+24,Craisins,3,1,1,1,0,0,1,0,Chase
+24,Ranch Dressing,3,0,1,0,0,0,1,0,Chase
+24,Fat-Free Italian Dressing,3,1,1,0,0,0,1,0,Chase
+24,Fat-Free French Dressing,3,1,1,0,0,0,1,0,Chase
+24,Balsamic Vinaigrette,3,1,1,0,0,0,1,0,Chase
+24,Honey Mustard Dressing,3,0,1,0,0,0,1,0,Chase
+24,Blue Cheese Dressing,3,0,1,0,0,0,1,0,Chase
+24,Caesar Dressing,3,0,0,0,0,0,1,0,Chase
+24,Schar Ciabatta Roll,3,1,1,0,0,0,1,0,Chase
+24,JP's Brownie,3,1,1,0,0,0,1,0,Chase
+24,JP's GF Hawaiian Rolls,3,0,1,0,0,0,1,0,Chase
+24,JP's GF Vegan Chocolate Cupcake,3,1,1,0,0,0,1,0,Chase
+24,JP's Gluten-Free Blueberry Muffins,3,0,0,0,0,0,1,0,Chase
+24,JP's Key Lime Cheesecake Bar,3,0,1,0,0,0,1,0,Chase
+24,Katz Powdered Donut Holes,3,0,1,0,0,0,1,0,Chase
+24,Katz Cinnamon Donut Hole,3,0,1,0,0,0,1,0,Chase
+24,Katz Glazed Donut Holes,3,0,1,0,0,0,1,0,Chase
+24,Katz Oatmeal Creme Pie,3,0,1,0,0,0,1,0,Chase
+24,Kinnikinnick Birthday Cream Sandwich Cookie,3,1,1,0,0,0,1,0,Chase
+24,Kinnikinnick Mint Magic Sandwich Creme Cookies,3,1,1,0,0,0,1,0,Chase
+24,Kinnikinnick Cinnabun Fun Sandwich Creme Cookies,3,1,1,0,0,0,1,0,Chase
+24,Kinnikinnick Chocolate Sandwich Creme Cookies,3,1,1,0,0,0,1,0,Chase
+24,Kinnikinnick Cinnamon Sugar Donuts,3,0,1,0,0,0,1,0,Chase
+24,Kinnikinnick Vanilla Glazed Donuts,3,0,1,0,0,0,1,0,Chase
+24,O'Doughs Original Bagel,3,1,1,0,0,0,1,0,Chase
+24,O'doughs Everything Bagel,3,1,1,0,0,0,1,0,Chase
+24,O'Doughs Pumpernickel Bagel,3,1,1,0,0,0,1,0,Chase
+24,O'Doughs Original Sandwich Slices,3,1,1,0,0,0,1,0,Chase
+24,O'Doughs Multigrain Sandwich Slices,3,1,1,0,0,0,1,0,Chase
+24,Apple Jacks,3,0,1,0,0,0,0,0,Chase
+24,Cinnamon Toast Crunch,3,0,1,0,0,0,0,0,Chase
+24,Frosted Flakes,3,0,1,0,0,0,0,0,Chase
+24,Cocoa Puffs,3,0,1,0,0,0,0,0,Chase
+24,Lucky Charms,3,0,0,0,0,0,0,0,Chase
+24,Krave Chocolate Cereal,3,0,1,0,0,0,0,0,Chase
+24,Cheerios,3,0,1,1,0,0,1,0,Chase
+24,Raisin Bran,3,0,1,0,0,0,0,0,Chase
+24,Froot Loops,3,0,1,0,0,0,0,0,Chase
+24,Oats and Honey Granola,3,0,1,0,0,0,0,0,Chase
+24,Ranch,3,0,1,0,0,0,1,0,Chase
+24,Ketchup,3,1,1,0,0,0,1,0,Chase
+24,BBQ Sauce,3,1,1,0,0,0,1,0,Chase
+24,Sriracha Sauce,3,1,1,0,0,0,1,0,Chase
+24,Texas Pete Hot Sauce,3,1,1,1,0,0,1,0,Chase
+24,Mayonnaise,3,0,1,0,0,0,1,0,Chase
+24,Yellow Mustard,3,1,1,1,0,0,1,0,Chase
+24,Vegetable Cream Cheese,3,0,1,0,0,0,1,0,Chase
+24,Margarine,3,1,1,0,0,0,1,0,Chase
+24,Oil and Vinegar,3,1,1,1,0,0,1,0,Chase
+24,Tabasco Hot Sauce,3,1,1,1,0,0,1,0,Chase
+24,Grape Jelly,3,1,1,0,0,0,1,0,Chase
+24,Strawberry Jelly,3,1,1,0,0,0,1,0,Chase
+24,Peanut Butter,3,1,1,0,0,0,1,0,Chase
+24,Plain Cream Cheese Spread,3,0,1,0,0,0,1,0,Chase
+24,Strawberry Cream Cheese,3,0,1,0,0,0,1,0,Chase
+24,Chives and Onion Cream Cheese,3,0,1,1,0,0,1,0,Chase
+24,Plain Bagel,3,0,1,0,0,0,0,0,Chase
+24,Everything Bagel,3,0,1,0,0,0,0,0,Chase
+24,Blueberry Bagel,3,0,1,0,0,0,0,0,Chase
+24,Cheese Bagel,3,0,1,0,0,0,0,0,Chase
+24,Multigrain Bagel,3,1,1,0,0,0,0,0,Chase
+24,Rye Bread Slice,3,1,1,0,0,0,0,0,Chase
+24,Multigrain Bread,3,0,1,0,0,0,0,0,Chase
+24,Wheat Bread Slice,3,1,1,1,0,0,0,0,Chase
+24,Kaiser Roll,3,0,1,0,0,0,0,0,Chase
+24,Hoagie Roll,3,0,1,0,0,0,0,0,Chase
+24,100% Cranberry Juice,3,1,1,0,0,0,1,0,Chase
+24,Seasonal Hot Cocoa,3,0,1,0,0,0,1,0,Chase
+24,Seasonal Apple Cider,3,1,1,0,1,0,1,0,Chase
+24,Maola Whole Milk,3,0,1,0,0,0,1,0,Chase
+24,Maola 2% Reduced Fat Milk,3,0,1,0,0,0,1,0,Chase
+24,Maola Skim Milk,3,0,1,0,0,0,1,0,Chase
+24,Maola 1% Chocolate Milk,3,0,1,0,0,0,1,0,Chase
+24,100% Apple Juice,3,1,1,0,0,0,1,0,Chase
+24,100% Orange Juice,3,1,1,1,0,0,1,0,Chase
+24,Strawberry Kiwi Juice,3,1,1,0,0,0,1,0,Chase
+24,Larry's Coffee,3,1,1,1,1,1,1,0,Chase
+24,Larry's Decaf Coffee,3,1,1,1,1,1,1,0,Chase
+24,Southern Unsweet Tea,3,1,1,0,0,0,0,0,Chase
+24,Southern Sweet Tea,3,1,1,0,0,0,0,0,Chase
+24,Chocolate Soymilk,3,1,1,1,0,0,1,0,Chase
+24,Vanilla Soymilk,3,1,1,1,0,0,1,0,Chase
+24,Dr. Pepper,3,1,1,0,0,0,1,0,Chase
+24,Diet Dr. Pepper,3,1,1,0,0,0,1,0,Chase
+24,Root Beer,3,1,1,0,0,0,1,0,Chase
+24,Sunkist Orange,3,1,1,0,0,0,1,0,Chase
+24,Sierra Mist,3,1,1,0,0,0,1,0,Chase
+24,Tropicana Lemonade,3,1,1,0,0,0,1,0,Chase
+24,Tropicana Fruit Punch,3,1,1,0,0,0,1,0,Chase
+24,Mountain Dew,3,1,1,0,0,0,1,0,Chase
+24,Diet Mountain Dew,3,1,1,0,0,0,1,0,Chase
+24,SoBe Lifewater Pomegranate,3,1,1,0,0,0,0,0,Chase
+24,Brisk Green Tea Peach,3,1,1,0,0,0,0,0,Chase
+24,Cheerwine,3,1,1,0,0,0,1,0,Chase
+24,Diet Pepsi,3,1,1,0,0,0,1,0,Chase
+24,Pepsi,3,1,1,0,0,0,1,0,Chase
+24,Gatorade Fruit Punch,3,1,1,0,0,0,1,0,Chase
+24,Gatorade Orange,3,1,1,0,0,0,0,0,Chase
