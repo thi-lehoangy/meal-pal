@@ -1,12 +1,12 @@
 import React from 'react';
-
+import '../components/App.css';
 function Home() {
     const handleClick = () => {
-        window.location.href = "/";
+        window.location.href = "forms";
     }
 
     return (
-      <header className="App-header">
+      <header>
         <p>
           Weekly meal plans curated just for you.
         </p>
