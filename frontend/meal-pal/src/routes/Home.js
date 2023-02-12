@@ -2,7 +2,7 @@ import React from 'react';
 
 function Home() {
     const handleClick = () => {
-        window.location.href = "/Forms";
+        window.location.href = "./routes/Forms.js";
     }
 
     return (

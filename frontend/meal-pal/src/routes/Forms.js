@@ -1,7 +1,8 @@
 import React from "react";
 
 function Forms() {
-    return (<div>
+    return (
+    <div>
         <form>
   <label>
     Name:
@@ -9,7 +10,7 @@ function Forms() {
   </label>
   <div>
   <label>
-    What university do you attend?
+    What uni do you attend?
     <select>
         <option value="UNC">UNC</option>
         <option value="DUKE">DUKE</option>
@@ -40,10 +41,10 @@ function Forms() {
         <option value="Halal">Halal</option>
         <option value="Vegetarian">Vegetarian</option>
         <option value="Vegan">Vegan</option>
-        <option value="Nut Allergy">Nut Allergy</option>
+        <option value="Smart Choice">Smart Choice</option>
         <option value="Gluten-Free">Gluten-Free</option>
-        <option value="Dairy-Free">Dairy-Free</option>
-        <option value="Egg Allergy">Egg Allergy</option>
+        <option value="Local">Local</option>
+        <option value="Organic">Organic</option>
       </select>
   </label>
 

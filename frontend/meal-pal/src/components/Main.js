@@ -1,19 +1,31 @@
 import React from "react";
-import { Route, Routes } from "react-router-dom";
+
 
 import Home from "../routes/Home";
 import Forms from "../routes/Forms";
 
-
-function Main() {
-    return(<div className = "main">
-        <Routes>
-            <Route path="/" component={Home} />
-            <Route path="/Home" component={Home} />
-            <Route path="/Forms" component={Forms} />
-        </Routes>
-    </div>
-    )
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+const App = () => {
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />}/>
+        <Route path="Forms" element={<Forms />} />
+      </Routes>
+    </BrowserRouter>
+  );
 }
 
-export default Main;
+
+// function Main() {
+//     return(<div>
+//                <Route path="/" element={<Home />} />
+//         <Route path="Home" element={<Home />} />
+//         <Route path="Forms" element={<Forms />} /> 
+
+//         </div>
+//     )
+// }
+
+
+export default App;
